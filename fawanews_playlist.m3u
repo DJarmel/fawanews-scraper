@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="New York Giants vs Dallas Cowboys --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",New York Giants vs Dallas Cowboys --- CH 1 - 01:20
+http://193.47.62.50/hls/ZTTTAAA.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="New York Giants vs Dallas Cowboys --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",New York Giants vs Dallas Cowboys --- CH 2 - 01:20
+http://193.47.62.55/hls/ZTTTAAAZ.m3u8|Referer=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="NFL Red Zone" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",NFL Red Zone - --:--
 http://193.47.62.55/hls/ZTTTAAAAAAAA.m3u8|Referer=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="Philadelphia Eagles vs Washington Commanders" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Philadelphia Eagles vs Washington Commanders - 21:25
@@ -9,57 +13,71 @@ http://193.47.62.50/hls/ZTTTAAA.m3u8|Referer=http://www.fawanews.sc
 http://193.47.62.59/hls/FMMMQ.m3u8|Referer=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="Las Vegas Raiders vs Miami Dolphins" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Las Vegas Raiders vs Miami Dolphins - 21:25
 http://193.47.62.59/hls/FMMM.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Vancouver Whitecaps vs Austin FC" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",Vancouver Whitecaps vs Austin FC - 23:30
+#EXTINF:-1 tvg-name="China vs Philippines" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball Asian Games",China vs Philippines - 05:00
+http://193.47.62.44/hls/ZFFFQqqQQQQ.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Cucuta vs Millonarios" tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg" group-title="Colombia Primera A",Cucuta vs Millonarios - 02:15
+http://193.47.62.44/hls/tiiiA.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="San Diego FC vs Philadelphia Union" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",San Diego FC vs Philadelphia Union - 02:00
+http://193.47.62.44/hls/ZFFFQqqQQQ.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Guadalajara Chivas vs UNAM Pumas" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="Mexico Liga MX",Guadalajara Chivas vs UNAM Pumas - 02:00
+http://193.47.62.44/hls/ZFFFQqqQQ.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Santos Laguna vs Juarez" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="Mexico Liga MX",Santos Laguna vs Juarez - 02:00
+http://193.47.62.44/hls/ZFFFQqqQ.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Bahrain vs Kazakhstan" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball Asian Games",Bahrain vs Kazakhstan - 02:00
+http://193.47.62.44/hls/ZFFFQqq.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Huracan vs Racing Club" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg" group-title="Argentina Liga Profesional",Huracan vs Racing Club - 01:30
+http://193.47.62.44/hls/ZFFFQq.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Tomayapo vs Bolivar" tvg-logo="https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg" group-title="Bolivia Division Profesional",Tomayapo vs Bolivar - 00:30
+http://193.47.62.44/hls/ZFFFQ.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="San Francisco Giants vs San Diego Padres" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",San Francisco Giants vs San Diego Padres - 00:20
+http://193.47.62.44/hls/ZFFF.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Once Caldas vs Dep Cali" tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg" group-title="Colombia Primera A",Once Caldas vs Dep Cali - 00:10
+http://193.47.62.44/hls/tiiiA.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Audax Italiano vs OHiggins" tvg-logo="https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg" group-title="Chile Liga de Primera",Audax Italiano vs OHiggins - 00:00
+http://193.47.62.44/hls/ZMMMQQQQQ.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Libertad vs Ind del Valle" tvg-logo="https://pbs.twimg.com/profile_images/2018798676844453888/qC9fH20A_400x400.jpg" group-title="Ecuador Liga Pro",Libertad vs Ind del Valle - 00:00
+http://193.47.62.44/hls/ZMMMQQQ.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Quindio vs Patriotas" tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg" group-title="Colombia Primera B",Quindio vs Patriotas - 00:00
+http://193.47.62.44/hls/ZMMMQQ.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Barbados Tridents vs Guyana Amazon Warriors" tvg-logo="https://pbs.twimg.com/profile_images/1780516442913292288/npRNFz7e_400x400.jpg" group-title="Cricket CPL T20",Barbados Tridents vs Guyana Amazon Warriors - 00:00
+http://193.47.62.44/hls/ZMMMQ.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Portland Thorns W vs Chicago W" tvg-logo="https://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg" group-title="USA NWSL Women",Portland Thorns W vs Chicago W - 00:00
+http://193.47.62.44/hls/ZMMM.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Vancouver Whitecaps vs Austin FC --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",Vancouver Whitecaps vs Austin FC --- CH 1 - 23:30
 http://193.47.62.44/hls/GIIIIAAA.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Vancouver Whitecaps vs Austin FC --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",Vancouver Whitecaps vs Austin FC --- CH 2 [1] - 23:30
+https://live1.dyrur1.com/live/66299546_e921fe0f09289edcc137f600cc52187f_540p.m3u8?auth_key=1789352848-0-0-29170fc49966687c6e4dfbfb5f67e260|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Vancouver Whitecaps vs Austin FC --- CH 2 [2]" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",Vancouver Whitecaps vs Austin FC --- CH 2 [2] - 23:30
+http://live1.dyrur1.com/live/66299546_e921fe0f09289edcc137f600cc52187f_540p.m3u8?auth_key=1789352848-0-0-29170fc49966687c6e4dfbfb5f67e260|Referer=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="Penarol vs Albion" tvg-logo="https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg" group-title="Uruguay Liga AUF",Penarol vs Albion - 23:30
 http://193.47.62.44/hls/GIIIIAA.m3u8|Referer=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="Independiente vs San Lorenzo" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg" group-title="Argentina Liga Profesional",Independiente vs San Lorenzo - 23:15
 http://193.47.62.44/hls/GIIIIA.m3u8|Referer=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="Pacific FC vs Cavalry" tvg-logo="https://pbs.twimg.com/profile_images/2016143587927326720/Fzdrfm_R_400x400.png" group-title="Canada Premier League",Pacific FC vs Cavalry - 23:00
 http://193.47.62.44/hls/GIIII.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Chicago Fire vs New England Revolution" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",Chicago Fire vs New England Revolution - 22:30
+#EXTINF:-1 tvg-name="Chicago Fire vs New England Revolution --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",Chicago Fire vs New England Revolution --- CH 1 - 22:30
 http://193.47.62.44/hls/GKKKA.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Flamengo RJ vs Corinthians --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie A",Flamengo RJ vs Corinthians --- CH 1 - 21:30
-http://193.47.62.44/hls/fbbbDDDDDD.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Flamengo RJ vs Corinthians --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie A",Flamengo RJ vs Corinthians --- CH 2 [1] - 21:30
-https://live.dyrur1.com/live/edq09ildmpebeqx_27f67acd7f22bd784d617b9e491b67a4_540p.m3u8?auth_key=1789346608-0-0-928af2a7c6d2c87b3ab3ea95f3ff2c37|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Flamengo RJ vs Corinthians --- CH 2 [2]" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie A",Flamengo RJ vs Corinthians --- CH 2 [2] - 21:30
-http://live.dyrur1.com/live/edq09ildmpebeqx_27f67acd7f22bd784d617b9e491b67a4_540p.m3u8?auth_key=1789346608-0-0-928af2a7c6d2c87b3ab3ea95f3ff2c37|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Macara vs Emelec" tvg-logo="https://pbs.twimg.com/profile_images/2018798676844453888/qC9fH20A_400x400.jpg" group-title="Ecuador Liga Pro",Macara vs Emelec - 21:30
-http://193.47.62.44/hls/fbbbDDDDD.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Colo Colo vs D Concepcion" tvg-logo="https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg" group-title="Chile Liga de Primera",Colo Colo vs D Concepcion - 21:30
-http://193.47.62.44/hls/fbbbDDDD.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Boca Juniors vs Real Santander" tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg" group-title="Colombia Primera B",Boca Juniors vs Real Santander - 21:30
-http://193.47.62.44/hls/fbbbDDD.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Grau vs Alianza Atl" tvg-logo="https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg" group-title="Peru Liga 1 Apertura",Grau vs Alianza Atl - 21:15
-http://193.47.62.41/hls/L888.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Chicago Fire vs New England Revolution --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",Chicago Fire vs New England Revolution --- CH 2 [1] - 22:30
+https://live.dyrur1.com/live/edq09iloepmheqx_02e65de032acba5f51d7a79ebf161a35_540p.m3u8?auth_key=1789350790-0-0-e86973f80685722293448fa76ffc293d|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Chicago Fire vs New England Revolution --- CH 2 [2]" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",Chicago Fire vs New England Revolution --- CH 2 [2] - 22:30
+http://live.dyrur1.com/live/edq09iloepmheqx_02e65de032acba5f51d7a79ebf161a35_540p.m3u8?auth_key=1789350790-0-0-e86973f80685722293448fa76ffc293d|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Rubio Nu vs Nacional Asuncion" tvg-logo="https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg" group-title="Paraguay Primera Division",Rubio Nu vs Nacional Asuncion - 22:30
+http://193.47.62.44/hls/tiiiAAAAA.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Novorizontino vs Cuiaba" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie B",Novorizontino vs Cuiaba - 22:30
+http://193.47.62.44/hls/tiiiAAAA.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Fortaleza vs Ceara" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie B",Fortaleza vs Ceara - 22:30
+http://193.47.62.44/hls/tiiiAAA.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Universitario de Vinto vs Independiente" tvg-logo="https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg" group-title="Bolivia Division Profesional",Universitario de Vinto vs Independiente - 22:15
+http://193.47.62.44/hls/tiiiAA.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Atl Nacional vs Aguilas" tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg" group-title="Colombia Primera A",Atl Nacional vs Aguilas - 22:05
+http://193.47.62.44/hls/tiiiA.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Juventude vs Athletic Club" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie B",Juventude vs Athletic Club - 22:00
+http://193.47.62.44/hls/tiii.m3u8|Referer=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="Arizona Diamondbacks vs Texas Rangers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Arizona Diamondbacks vs Texas Rangers - 21:10
 http://193.47.62.44/hls/fbbbDD.m3u8|Referer=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="Athletics vs Seattle Mariners" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Athletics vs Seattle Mariners - 21:05
 http://193.47.62.44/hls/fbbbD.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Argentinos Jrs vs Gimnasia LP" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg" group-title="Argentina Liga Profesional",Argentinos Jrs vs Gimnasia LP - 21:00
-http://193.47.62.44/hls/fbbb.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Famalicao vs Sporting Lisbon --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1963974021612978176/_dTeQPEr_400x400.jpg" group-title="Portugal Primeira Liga",Famalicao vs Sporting Lisbon --- CH 1 - 20:30
-http://193.47.62.50/hls/zpppAAAAAAAAQQ.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Famalicao vs Sporting Lisbon --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/1963974021612978176/_dTeQPEr_400x400.jpg" group-title="Portugal Primeira Liga",Famalicao vs Sporting Lisbon --- CH 2 [1] - 20:30
-https://www.rtmpcdn.com/live/362693f2-a8ae-481f-93a3-312273ed9bfa.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Famalicao vs Sporting Lisbon --- CH 2 [2]" tvg-logo="https://pbs.twimg.com/profile_images/1963974021612978176/_dTeQPEr_400x400.jpg" group-title="Portugal Primeira Liga",Famalicao vs Sporting Lisbon --- CH 2 [2] - 20:30
-http://www.rtmpcdn.com/live/362693f2-a8ae-481f-93a3-312273ed9bfa.m3u8|Referer=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="Nascar Cup Series Enjoy Illinois 300" tvg-logo="https://pbs.twimg.com/profile_images/2099204160885559296/U9-Gv2ed_400x400.jpg" group-title="IndyCar",Nascar Cup Series Enjoy Illinois 300 - 20:15
 http://193.47.62.50/hls/ZGGGVVA.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Inter Toronto vs Vancouver FC" tvg-logo="https://pbs.twimg.com/profile_images/2016143587927326720/Fzdrfm_R_400x400.png" group-title="Canada Premier League",Inter Toronto vs Vancouver FC - 20:00
-http://193.47.62.41/hls/zpppAAAA.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Tennis US Open --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2072228148691746816/fZyPXm9V_400x400.jpg" group-title="Tennis",Tennis US Open --- CH 1 - 19:00
-http://193.47.62.190/hls/XAXAXA.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Tennis US Open --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2072228148691746816/fZyPXm9V_400x400.jpg" group-title="Tennis",Tennis US Open --- CH 2 - 19:00
-http://193.47.62.41/hls/FHHHQQQQQQQQ.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Tennis US Open --- CH HD [1]" tvg-logo="https://pbs.twimg.com/profile_images/2072228148691746816/fZyPXm9V_400x400.jpg" group-title="Tennis",Tennis US Open --- CH HD [1] - 19:00
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4b69b4ae-24ed-439a-b896-06803ac9f86d/master.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Tennis US Open --- CH HD [2]" tvg-logo="https://pbs.twimg.com/profile_images/2072228148691746816/fZyPXm9V_400x400.jpg" group-title="Tennis",Tennis US Open --- CH HD [2] - 19:00
-http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4b69b4ae-24ed-439a-b896-06803ac9f86d/master.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Chicago Cubs vs Pittsburgh Pirates" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Chicago Cubs vs Pittsburgh Pirates - 19:20
-http://193.47.62.41/hls/RARARAQQQQ.m3u8|Referer=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="Boston Red Sox vs Kansas City Royals" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Boston Red Sox vs Kansas City Royals - 18:35
 http://193.47.62.41/hls/G999A.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Darts European Tour 13" tvg-logo="https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg" group-title="Darts",Darts European Tour 13 - 18:00
-http://193.47.62.44/hls/OOOOOX.m3u8|Referer=http://www.fawanews.sc
