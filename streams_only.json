@@ -1,8 +1,290 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-15T10:37:33.599099",
-    "total_with_streams": 18,
+    "fetched_at": "2026-09-15T15:20:37.838353",
+    "total_with_streams": 29,
     "events_with_streams": [
+        {
+            "name": "Young Africans vs Geita Gold",
+            "type": "live_event",
+            "league": "Tanzania Ligi Kuu Bara",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Young Africans vs Geita Gold.html",
+            "image_url": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/EYYY.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/EYYY.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/EYYY.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/EYYY.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://193.47.62.50/hls/EYYY.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/EYYY.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Al Ain vs Al Nassr --- CH 1",
+            "type": "live_event",
+            "league": "AFC Champions League",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Al Ain vs Al Nassr.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/BEEEAQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/BEEEAQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Al Ain vs Al Nassr --- CH 2",
+            "type": "live_event",
+            "league": "AFC Champions League",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Al Ain vs Al Nassr --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/ac85aee4-8d35-4c90-b28a-f73864c4c9c5.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/ac85aee4-8d35-4c90-b28a-f73864c4c9c5.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/ac85aee4-8d35-4c90-b28a-f73864c4c9c5.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/ac85aee4-8d35-4c90-b28a-f73864c4c9c5.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Genoa vs Sudtirol --- CH 1",
+            "type": "live_event",
+            "league": "Coppa Italia",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Genoa vs Sudtirol.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Coccarda_Coppa_Italia.svg/250px-Coccarda_Coppa_Italia.svg.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/BEEEAQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/BEEEAQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Genoa vs Sudtirol --- CH 2",
+            "type": "live_event",
+            "league": "Coppa Italia",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Genoa vs Sudtirol --- CH 2.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Coccarda_Coppa_Italia.svg/250px-Coccarda_Coppa_Italia.svg.png",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/48320885-5773-4690-aeb2-3edf2d3ff19c.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/48320885-5773-4690-aeb2-3edf2d3ff19c.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/48320885-5773-4690-aeb2-3edf2d3ff19c.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/48320885-5773-4690-aeb2-3edf2d3ff19c.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Skovshoved vs FC Copenhagen",
+            "type": "live_event",
+            "league": "Denmark Cup",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Skovshoved vs FC Copenhagen.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1808057601546244096/kHzIvk1f_200x200.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/BEEEAQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/BEEEAQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Rakow vs Zaglebie",
+            "type": "live_event",
+            "league": "Poland Ekstraklasa",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Rakow vs Zaglebie.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2072189899344613376/DeGLZ4Il_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/BEEEAQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/BEEEAQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Super Nova vs Riga FC",
+            "type": "live_event",
+            "league": "Latvia Virsliga",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Super Nova vs Riga FC.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2028501406919876608/9vKL_LMT_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/BEEEAQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/BEEEAQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Poland vs Ukraine",
+            "type": "live_event",
+            "league": "Volleyball European Championship",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Poland vs Ukraine.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1129730799639646209/UVAhxHiK_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/BEEEAQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/BEEEAQQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Al Orubah vs Al Jeel",
+            "type": "live_event",
+            "league": "Saudi Division 1",
+            "time": "17:05",
+            "page_link": "http://www.fawanews.sc/Al Orubah vs Al Jeel.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/BEEEAQQQQQQA.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/BEEEAQQQQQQA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Al Adalah vs Al Jandal",
+            "type": "live_event",
+            "league": "Saudi Division 1",
+            "time": "16:30",
+            "page_link": "http://www.fawanews.sc/Al Adalah vs Al Jandal.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/BEEEA.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/BEEEA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "India vs Afghanistan",
+            "type": "live_event",
+            "league": "Cricket",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/India vs Afghanistan.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/CGGGQQQX.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/CGGGQQQX.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Latvia vs Switzerland",
+            "type": "live_event",
+            "league": "Volleyball European Championship",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Latvia vs Switzerland.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1129730799639646209/UVAhxHiK_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/CGGGQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/CGGGQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Greece vs Sweden",
+            "type": "live_event",
+            "league": "Volleyball European Championship",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Greece vs Sweden.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1129730799639646209/UVAhxHiK_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/CGGGQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/CGGGQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Belgium vs Denmark",
+            "type": "live_event",
+            "league": "Volleyball European Championship",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Belgium vs Denmark.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1129730799639646209/UVAhxHiK_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/CGGG.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/CGGG.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Wadi Degla vs Arab Contractors",
+            "type": "live_event",
+            "league": "Egypt Premier League",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Wadi Degla vs Arab Contractors.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1185152368108851201/3_mNlM6J_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/FHHHQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/FHHHQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Asyut Petroleum vs Modern Sport",
+            "type": "live_event",
+            "league": "Egypt Premier League",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Asyut Petroleum vs Modern Sport.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1185152368108851201/3_mNlM6J_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/FHHHQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/FHHHQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "CSM Resita vs FC Bacau",
+            "type": "live_event",
+            "league": "Romania Liga 2",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/CSM Resita vs FC Bacau.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/FHHH.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/FHHH.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Afyonkarahisaspor vs Urgupspor",
+            "type": "live_event",
+            "league": "Turkey Cup",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Afyonkarahisaspor vs Urgupspor.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1577968897441120257/Bywq3Bso_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/CGGGQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/CGGGQQQQQ.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Gol Gohar vs Al Jazira",
             "type": "live_event",
@@ -32,16 +314,16 @@
             ]
         },
         {
-            "name": "Velke Ludince vs Dun Streda",
+            "name": "North Macedonia vs Portugal",
             "type": "live_event",
-            "league": "Slovakia Cup",
-            "time": "14:30",
-            "page_link": "http://www.fawanews.sc/Velke Ludince vs Dun Streda.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1675145822843944961/Nrv2TM-g_400x400.jpg",
+            "league": "Volleyball European Championships",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/North Macedonia vs Portugal.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1129730799639646209/UVAhxHiK_400x400.png",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.44/hls/EGGGAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/EGGGAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.44/hls/e777.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/e777.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -56,34 +338,6 @@
                 {
                     "original_url": "http://193.47.62.44/hls/EGGGAAAA.m3u8",
                     "m3u_url": "http://193.47.62.44/hls/EGGGAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Johor DT vs Buriram",
-            "type": "live_event",
-            "league": "AFC Champions League",
-            "time": "13:15",
-            "page_link": "http://www.fawanews.sc/Johor DT vs Buriram.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/EGGGAAA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/EGGGAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Beijing Guoan vs Pohang",
-            "type": "live_event",
-            "league": "AFC Champions League",
-            "time": "13:15",
-            "page_link": "http://www.fawanews.sc/Beijing Guoan vs Pohang.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/EGGGAA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/EGGGAA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -112,90 +366,6 @@
                 {
                     "original_url": "http://193.47.62.194/hls/vavavavaq.m3u8",
                     "m3u_url": "http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Ratchaburi vs Shanghai Port",
-            "type": "live_event",
-            "league": "AFC Champions League",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Ratchaburi vs Shanghai Port.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/EGGGA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/EGGGA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Kashima Antlers vs Newcastle Jets",
-            "type": "live_event",
-            "league": "AFC Champions League",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Kashima Antlers vs Newcastle Jets.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/EGGG.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/EGGG.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Gamba Osaka vs Cong An Ha Noi",
-            "type": "live_event",
-            "league": "AFC Champions League",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Gamba Osaka vs Cong An Ha Noi.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/emmmaAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/emmmaAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Daejeon vs Kyoto",
-            "type": "live_event",
-            "league": "AFC Champions League",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Daejeon vs Kyoto.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/emmmaAAA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/emmmaAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Qatar U23 vs South Korea U23",
-            "type": "live_event",
-            "league": "Asian Games",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Qatar U23 vs South Korea U23.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/emmmaAA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/emmmaAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Vietnam U23 vs Kuwait U23",
-            "type": "live_event",
-            "league": "Asian Games",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Vietnam U23 vs Kuwait U23.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/emmmaA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/emmmaA.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
