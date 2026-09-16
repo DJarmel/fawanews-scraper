@@ -1,39 +1,91 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Azam vs Simba [1]" tvg-logo="https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg" group-title="Tanzania Ligi Kuu Bara",Azam vs Simba [1] - 17:00
+http://193.47.62.59/hls/yaaavvvv.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Azam vs Simba [2]" tvg-logo="https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg" group-title="Tanzania Ligi Kuu Bara",Azam vs Simba [2] - 17:00
+http://193.47.62.50/hls/yaaavvvv.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Azam vs Simba [3]" tvg-logo="https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg" group-title="Tanzania Ligi Kuu Bara",Azam vs Simba [3] - 17:00
+http://193.47.62.55/hls/yaaavvvv.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Omonia vs Celta Vigo" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="UEFA Europa League",Omonia vs Celta Vigo - 17:45
+http://193.47.62.41/hls/FJJJAA.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Kifisia vs Panathinaikos" tvg-logo="https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png" group-title="Greece Cup",Kifisia vs Panathinaikos - 15:45
+http://193.47.62.44/hls/YYYYA.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Ararat-Armenia vs Sparta Prague" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="UEFA Europa League",Ararat-Armenia vs Sparta Prague - 17:45
+http://193.47.62.41/hls/FJJJA.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Nitra vs Slovan Bratislava" tvg-logo="https://pbs.twimg.com/profile_images/1675145822843944961/Nrv2TM-g_400x400.jpg" group-title="Slovakia Cup",Nitra vs Slovan Bratislava - 17:30
+http://193.47.62.44/hls/FJJJ.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Poland vs Bulgaria" tvg-logo="https://pbs.twimg.com/profile_images/1129730799639646209/UVAhxHiK_400x400.png" group-title="Volleyball European Championship",Poland vs Bulgaria - 17:00
+http://193.47.62.41/hls/FJJJAAA.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Lokomotiv Sofia vs CSKA Sofia" tvg-logo="https://pbs.twimg.com/profile_images/961918078715154432/nvSl0qsf_400x400.jpg" group-title="Bulgaria efbet League",Lokomotiv Sofia vs CSKA Sofia - 17:00
+http://193.47.62.44/hls/yaaavv.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Sloga Meridian vs Borac Banja Luka" tvg-logo="https://pbs.twimg.com/profile_images/474124902702657536/j0UJNMZa_400x400.jpeg" group-title="Bosnia and Herzegovina Premier League",Sloga Meridian vs Borac Banja Luka - 17:00
+http://193.47.62.44/hls/yaaavvv.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Skjold vs Aarhus" tvg-logo="https://pbs.twimg.com/profile_images/1808057601546244096/kHzIvk1f_200x200.jpg" group-title="Denmark Cup",Skjold vs Aarhus - 17:00
+http://193.47.62.44/hls/epppaaaa.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="AB Copenhagen vs Sonderjyske" tvg-logo="https://pbs.twimg.com/profile_images/1808057601546244096/kHzIvk1f_200x200.jpg" group-title="Denmark Cup",AB Copenhagen vs Sonderjyske - 17:00
+http://193.47.62.44/hls/epppaaa.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Auda vs Ogre United" tvg-logo="https://pbs.twimg.com/profile_images/2028501406919876608/9vKL_LMT_400x400.jpg" group-title="Latvia Virsliga",Auda vs Ogre United - 17:00
+http://193.47.62.44/hls/yaaav.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Al Wahda vs Al Kuwait" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="AFC Champions League II",Al Wahda vs Al Kuwait - 17:00
+http://193.47.62.44/hls/yaaa.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Al Nahda vs Al Taawon" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="AFC Champions League II",Al Nahda vs Al Taawon - 17:00
+http://193.47.62.44/hls/ylllaaaa.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Al Khalidiyah vs Nasaf Qarshi" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="AFC Champions League II",Al Khalidiyah vs Nasaf Qarshi - 17:00
+http://193.47.62.44/hls/ylllaaa.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Al Hussein vs East Bengal" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="AFC Champions League II",Al Hussein vs East Bengal - 17:00
+http://193.47.62.44/hls/ylllaa.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Spain U20 W vs Portugal U20 W" tvg-logo="https://pbs.twimg.com/profile_images/1800424366703857665/cFuM2ynZ_400x400.jpg" group-title="World Cup Women U20",Spain U20 W vs Portugal U20 W - 17:00
+http://193.47.62.44/hls/yllla.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Italy U20 W vs China U20 W" tvg-logo="https://pbs.twimg.com/profile_images/1800424366703857665/cFuM2ynZ_400x400.jpg" group-title="World Cup Women U20",Italy U20 W vs China U20 W - 17:00
+http://193.47.62.44/hls/ylll.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Paide vs Parnu JK Vaprus" tvg-logo="https://pbs.twimg.com/profile_images/1977991086506225664/voApDdum_400x400.jpg" group-title="Estonia Meistriliiga",Paide vs Parnu JK Vaprus - 17:00
+http://193.47.62.44/hls/epppaaaaa.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Zalgiris vs Kauno Zalgiris" tvg-logo="https://pbs.twimg.com/profile_images/967072330722799616/UdCtMxhm_400x400.jpg" group-title="Lithuania Toplyga",Zalgiris vs Kauno Zalgiris - 16:45
+http://193.47.62.44/hls/epppaa.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Spartak Moscow vs Fakel Voronezh" tvg-logo="https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg" group-title="Russia Premier League",Spartak Moscow vs Fakel Voronezh - 16:30
+http://193.47.62.44/hls/epppa.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Rodina Moscow vs Rubin Kazan" tvg-logo="https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg" group-title="Russia Premier League",Rodina Moscow vs Rubin Kazan - 16:30
+http://193.47.62.44/hls/eppp.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Vrbovec vs Rijeka" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c2/Championnat_de_Croatie_de_football_-_Logo.png" group-title="Croatia Cup",Vrbovec vs Rijeka - 15:30
+http://193.47.62.44/hls/YYYYAa.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Brabrand vs Viborg" tvg-logo="https://pbs.twimg.com/profile_images/1808057601546244096/kHzIvk1f_200x200.jpg" group-title="Denmark Cup",Brabrand vs Viborg - 15:30
+http://193.47.62.44/hls/afff.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Taborsko vs Teplice" tvg-logo="https://pbs.twimg.com/profile_images/2004812101609459712/wwGcHUru_400x400.jpg" group-title="Czech MOL Cup",Taborsko vs Teplice - 15:00
+http://193.47.62.55/hls/veeeaa.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Kraluv Dvur vs Brno" tvg-logo="https://pbs.twimg.com/profile_images/2004812101609459712/wwGcHUru_400x400.jpg" group-title="Czech MOL Cup",Kraluv Dvur vs Brno - 15:00
+http://193.47.62.55/hls/veeeaax.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Pribram vs Hradec Kralove" tvg-logo="https://pbs.twimg.com/profile_images/2004812101609459712/wwGcHUru_400x400.jpg" group-title="Czech MOL Cup",Pribram vs Hradec Kralove - 15:00
+http://193.47.62.55/hls/veeea.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Varnsdorf vs Slavia Prague" tvg-logo="https://pbs.twimg.com/profile_images/2004812101609459712/wwGcHUru_400x400.jpg" group-title="Czech MOL Cup",Varnsdorf vs Slavia Prague - 15:00
+http://193.47.62.55/hls/veee.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="El Gouna vs Petrojet" tvg-logo="https://pbs.twimg.com/profile_images/1185152368108851201/3_mNlM6J_400x400.jpg" group-title="Egypt Premier League",El Gouna vs Petrojet - 15:00
+http://193.47.62.55/hls/VKKKQQQQ.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Turkey vs Latvia" tvg-logo="https://pbs.twimg.com/profile_images/1129730799639646209/UVAhxHiK_400x400.png" group-title="Volleyball European Championship",Turkey vs Latvia - 15:00
+http://193.47.62.55/hls/VKKKQQQ.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Sweden vs Slovakia" tvg-logo="https://pbs.twimg.com/profile_images/1129730799639646209/UVAhxHiK_400x400.png" group-title="Volleyball European Championship",Sweden vs Slovakia - 15:00
+http://193.47.62.55/hls/VKKKQQ.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Denmark vs Serbia" tvg-logo="https://pbs.twimg.com/profile_images/1129730799639646209/UVAhxHiK_400x400.png" group-title="Volleyball European Championship",Denmark vs Serbia - 15:00
+http://193.47.62.55/hls/VKKKQ.m3u8|Referer=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="Aris vs Marko" tvg-logo="https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png" group-title="Greece Cup",Aris vs Marko - 14:45
-http://193.47.62.1/hls/FCCCQQQQQQ.m3u8|Referer=http://www.fawanews.sc
+http://193.47.62.40/hls/FCCCQQQQQQ.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Israel vs North Macedonia" tvg-logo="https://pbs.twimg.com/profile_images/1129730799639646209/UVAhxHiK_400x400.png" group-title="Volleyball European Championship",Israel vs North Macedonia - 14:00
+http://193.47.62.55/hls/VKKK.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Glasgow Cosmic vs Amsterdam Flames" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket ETPL",Glasgow Cosmic vs Amsterdam Flames - 14:00
+http://193.47.62.44/hls/ZAAA.m3u8|Referer=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="Brazil U20 W vs USA U20 W" tvg-logo="https://pbs.twimg.com/profile_images/1800424366703857665/cFuM2ynZ_400x400.jpg" group-title="World Cup Women U20",Brazil U20 W vs USA U20 W - 14:00
-http://193.47.62.1/hls/FCCCQQQQQ.m3u8|Referer=http://www.fawanews.sc
+http://193.47.62.40/hls/FCCCQQQQQ.m3u8|Referer=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="Argentina U20 W vs South Korea U20 W" tvg-logo="https://pbs.twimg.com/profile_images/1800424366703857665/cFuM2ynZ_400x400.jpg" group-title="World Cup Women U20",Argentina U20 W vs South Korea U20 W - 14:00
-http://193.47.62.1/hls/FCCCQQQQ.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Terengganu vs DPMM" tvg-logo="https://pbs.twimg.com/profile_images/1638733016985145344/DlS5U4Qj_400x400.jpg" group-title="Malaysia FA Cup",Terengganu vs DPMM - 14:00
-http://193.47.62.44/hls/FCCCQQQ.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Port MTI FC vs Vissel Kobe" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="AFC Champions League",Port MTI FC vs Vissel Kobe - 13:15
-http://193.47.62.44/hls/FCCCQQ.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Viettel vs Melbourne Victory" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="AFC Champions League II",Viettel vs Melbourne Victory - 13:15
-http://193.47.62.44/hls/FCCCQ.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Niki Volos vs Asteras Tripolis --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png" group-title="Greece Cup",Niki Volos vs Asteras Tripolis --- CH 1 - 13:00
-http://193.47.62.44/hls/FCCC.m3u8|Referer=http://www.fawanews.sc
+http://193.47.62.40/hls/FCCCQQQQ.m3u8|Referer=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="Horse Racing --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing --- CH 1 - 13:00
 http://193.47.62.194/hls/vavavava.m3u8|Referer=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="Horse Racing --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing --- CH 2 - 13:00
 http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Chinese Taipei vs Japan" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball Asian Games",Chinese Taipei vs Japan - 11:20
-http://193.47.62.44/hls/VTTTQQQQ.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Jeonbuk vs Kashiwa Reysol" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="AFC Champions League",Jeonbuk vs Kashiwa Reysol - 11:00
-http://193.47.62.44/hls/VTTTQQQ.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Seoul vs Persib Bandung" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="AFC Champions League II",Seoul vs Persib Bandung - 11:00
-http://193.47.62.44/hls/VTTTQQ.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Japan U23 vs Hong Kong U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Asian Games",Japan U23 vs Hong Kong U23 - 11:00
-http://193.47.62.44/hls/VTTTQ.m3u8|Referer=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="China U23 vs North Korea U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Asian Games",China U23 vs North Korea U23 - 11:00
 http://193.47.62.44/hls/VTTT.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Snooker Northern Ireland Open --- Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Northern Ireland Open --- Table 1 - 10:00
+http://193.47.62.44/hls/grrrAAA.m3u8|Referer=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="Snooker Northern Ireland Open --- Table 2" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Northern Ireland Open --- Table 2 - 10:00
 http://193.47.62.44/hls/grrrAA.m3u8|Referer=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="Snooker Northern Ireland Open --- Table 3" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Northern Ireland Open --- Table 3 - 13:00
 http://193.47.62.44/hls/grrrA.m3u8|Referer=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="Snooker Northern Ireland Open --- Table 4" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Northern Ireland Open --- Table 4 - 13:00
 http://193.47.62.44/hls/grrr.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="China vs Saudi Arabia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Basketball Asian Games",China vs Saudi Arabia - 08:00
-http://193.47.62.44/hls/FUUUQQaAaAAAAQA.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Thailand U23 vs Kyrgyzstan U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Football Asian Games",Thailand U23 vs Kyrgyzstan U23 - 08:00
-http://193.47.62.44/hls/FUUUQQaAaAAAAQ.m3u8|Referer=http://www.fawanews.sc
