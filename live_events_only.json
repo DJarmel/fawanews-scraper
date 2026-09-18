@@ -1,28 +1,26 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-18T21:21:37.036338",
-    "total_events": 32,
+    "fetched_at": "2026-09-18T23:25:17.060307",
+    "total_events": 39,
     "events": [
         {
-            "name": "Brentford vs Chelsea --- CH 1",
+            "name": "Juarez vs Tigres UANL",
             "type": "live_event",
-            "league": "English Premier League",
-            "time": "20:00",
-            "image_url": "https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Brentford vs Chelsea1.html",
-            "home_team": "Brentford",
-            "away_team": "Chelsea --- CH 1",
+            "league": "Mexico Liga MX",
+            "time": "04:00",
+            "image_url": "https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Juarez vs Tigres UANL.html",
+            "home_team": "Juarez",
+            "away_team": "Tigres UANL",
             "page_status": 200,
-            "page_title": "FawaNews - Brentford vs Chelsea - Your Home of Sport",
+            "page_title": "FawaNews - Juarez vs Tigres UANL - Your Home of Sport",
             "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
             "stream_data": {
                 "iframe_sources": [],
                 "video_sources": [],
                 "embed_sources": [],
                 "m3u8_links": [
-                    "http://193.47.62.41/hls/AJJJR.m3u8",
-                    "http://193.47.62.44/hls/AJJJR.m3u8",
-                    "http://193.47.62.50/hls/AJJJR.m3u8"
+                    "http://193.47.62.55/hls/UBBB.m3u8"
                 ],
                 "mpd_links": [],
                 "mp4_links": [],
@@ -39,9 +37,7 @@
                     "https://twitter.com/share?ref_src=twsrc%5Etfw",
                     "https://platform.twitter.com/widgets.js",
                     "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.41/hls/AJJJR.m3u8",
-                    "http://193.47.62.44/hls/AJJJR.m3u8",
-                    "http://193.47.62.50/hls/AJJJR.m3u8",
+                    "http://193.47.62.55/hls/UBBB.m3u8",
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
@@ -55,29 +51,27 @@
                 ]
             },
             "best_stream_urls": [
-                "http://193.47.62.41/hls/AJJJR.m3u8",
-                "http://193.47.62.44/hls/AJJJR.m3u8",
-                "http://193.47.62.50/hls/AJJJR.m3u8"
+                "http://193.47.62.55/hls/UBBB.m3u8"
             ]
         },
         {
-            "name": "Brentford vs Chelsea --- CH 2",
+            "name": "Oregon vs Portland State",
             "type": "live_event",
-            "league": "English Premier League",
-            "time": "20:00",
-            "image_url": "https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Brentford vs Chelsea --- CH 2.html",
-            "home_team": "Brentford",
-            "away_team": "Chelsea --- CH 2",
+            "league": "NCAA American Football",
+            "time": "03:30",
+            "image_url": "https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Oregon vs Portland State.html",
+            "home_team": "Oregon",
+            "away_team": "Portland State",
             "page_status": 200,
-            "page_title": "FawaNews - Brentford vs Chelsea - Your Home of Sport",
+            "page_title": "FawaNews - Oregon vs Portland State - Your Home of Sport",
             "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
             "stream_data": {
                 "iframe_sources": [],
                 "video_sources": [],
                 "embed_sources": [],
                 "m3u8_links": [
-                    "https://www.rtmpcdn.com/live/23a1e2df-7456-4ba9-9360-12dea194f2c6.m3u8"
+                    "http://193.47.62.55/hls/UBBBQQQQQQQ.m3u8"
                 ],
                 "mpd_links": [],
                 "mp4_links": [],
@@ -94,7 +88,7 @@
                     "https://twitter.com/share?ref_src=twsrc%5Etfw",
                     "https://platform.twitter.com/widgets.js",
                     "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://www.rtmpcdn.com/live/23a1e2df-7456-4ba9-9360-12dea194f2c6.m3u8",
+                    "http://193.47.62.55/hls/UBBBQQQQQQQ.m3u8",
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
@@ -102,35 +96,33 @@
                     "http://platform.twitter.com/widgets.js",
                     "http://acscdn.com/script/aclib.js",
                     "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://www.rtmpcdn.com/live/23a1e2df-7456-4ba9-9360-12dea194f2c6.m3u8",
                     "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://s10.histats.com/js15_as.js"
                 ]
             },
             "best_stream_urls": [
-                "https://www.rtmpcdn.com/live/23a1e2df-7456-4ba9-9360-12dea194f2c6.m3u8",
-                "http://www.rtmpcdn.com/live/23a1e2df-7456-4ba9-9360-12dea194f2c6.m3u8"
+                "http://193.47.62.55/hls/UBBBQQQQQQQ.m3u8"
             ]
         },
         {
-            "name": "Brentford vs Chelsea --- CH 3",
+            "name": "Los Angeles Dodgers vs San Francisco Giants",
             "type": "live_event",
-            "league": "English Premier League",
-            "time": "20:00",
-            "image_url": "https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Brentford vs Chelsea --- CH 3.html",
-            "home_team": "Brentford",
-            "away_team": "Chelsea --- CH 3",
+            "league": "MLB Baseball",
+            "time": "03:15",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Los Angeles Dodgers vs San Francisco Giants.html",
+            "home_team": "Los Angeles Dodgers",
+            "away_team": "San Francisco Giants",
             "page_status": 200,
-            "page_title": "FawaNews - Brentford vs Chelsea - Your Home of Sport",
+            "page_title": "FawaNews - Los Angeles Dodgers vs San Francisco Giants - Your Home of Sport",
             "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
             "stream_data": {
                 "iframe_sources": [],
                 "video_sources": [],
                 "embed_sources": [],
                 "m3u8_links": [
-                    "https://live.dyrur1.com/live/72221274_f0b7fdf1dd2e4287cedaf675b592aa06_540p.m3u8?auth_key=1789772167-0-0-50eeaa0af4341e7adbbbf4f6feb9a6d9"
+                    "http://193.47.62.55/hls/UBBBQQQQQQ.m3u8"
                 ],
                 "mpd_links": [],
                 "mp4_links": [],
@@ -147,7 +139,7 @@
                     "https://twitter.com/share?ref_src=twsrc%5Etfw",
                     "https://platform.twitter.com/widgets.js",
                     "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://live.dyrur1.com/live/72221274_f0b7fdf1dd2e4287cedaf675b592aa06_540p.m3u8?auth_key=1789772167-0-0-50eeaa0af4341e7adbbbf4f6feb9a6d9",
+                    "http://193.47.62.55/hls/UBBBQQQQQQ.m3u8",
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
@@ -155,35 +147,33 @@
                     "http://platform.twitter.com/widgets.js",
                     "http://acscdn.com/script/aclib.js",
                     "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://live.dyrur1.com/live/72221274_f0b7fdf1dd2e4287cedaf675b592aa06_540p.m3u8?auth_key=1789772167-0-0-50eeaa0af4341e7adbbbf4f6feb9a6d9",
                     "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://s10.histats.com/js15_as.js"
                 ]
             },
             "best_stream_urls": [
-                "https://live.dyrur1.com/live/72221274_f0b7fdf1dd2e4287cedaf675b592aa06_540p.m3u8?auth_key=1789772167-0-0-50eeaa0af4341e7adbbbf4f6feb9a6d9",
-                "http://live.dyrur1.com/live/72221274_f0b7fdf1dd2e4287cedaf675b592aa06_540p.m3u8?auth_key=1789772167-0-0-50eeaa0af4341e7adbbbf4f6feb9a6d9"
+                "http://193.47.62.55/hls/UBBBQQQQQQ.m3u8"
             ]
         },
         {
-            "name": "Bristol City vs Watford --- CH 1",
+            "name": "Golden State Valkyries W vs Portland Fire W",
             "type": "live_event",
-            "league": "English Championship",
-            "time": "20:00",
-            "image_url": "https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Bristol City vs Watford.html",
-            "home_team": "Bristol City",
-            "away_team": "Watford --- CH 1",
+            "league": "WNBA Basketball",
+            "time": "03:00",
+            "image_url": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Golden State Valkyries W vs Portland Fire W.html",
+            "home_team": "Golden State Valkyries W",
+            "away_team": "Portland Fire W",
             "page_status": 200,
-            "page_title": "FawaNews - Bristol City vs Watford - Your Home of Sport",
+            "page_title": "FawaNews - Golden State Valkyries W vs Portland Fire W - Your Home of Sport",
             "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
             "stream_data": {
                 "iframe_sources": [],
                 "video_sources": [],
                 "embed_sources": [],
                 "m3u8_links": [
-                    "http://193.47.62.55/hls/UNNNAAAAAQQQQ.m3u8"
+                    "http://193.47.62.55/hls/UBBBQQQQQ.m3u8"
                 ],
                 "mpd_links": [],
                 "mp4_links": [],
@@ -200,7 +190,7 @@
                     "https://twitter.com/share?ref_src=twsrc%5Etfw",
                     "https://platform.twitter.com/widgets.js",
                     "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.55/hls/UNNNAAAAAQQQQ.m3u8",
+                    "http://193.47.62.55/hls/UBBBQQQQQ.m3u8",
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
@@ -214,27 +204,27 @@
                 ]
             },
             "best_stream_urls": [
-                "http://193.47.62.55/hls/UNNNAAAAAQQQQ.m3u8"
+                "http://193.47.62.55/hls/UBBBQQQQQ.m3u8"
             ]
         },
         {
-            "name": "Bristol City vs Watford --- CH 2",
+            "name": "San Diego Wave W vs Kansas City Current W",
             "type": "live_event",
-            "league": "English Championship",
-            "time": "20:00",
-            "image_url": "https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Bristol City vs Watford --- CH 2.html",
-            "home_team": "Bristol City",
-            "away_team": "Watford --- CH 2",
+            "league": "USA NWSL Women",
+            "time": "03:00",
+            "image_url": "https://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/San Diego Wave W vs Kansas City Current W.html",
+            "home_team": "San Diego Wave W",
+            "away_team": "Kansas City Current W",
             "page_status": 200,
-            "page_title": "FawaNews - Bristol City vs Watford - Your Home of Sport",
+            "page_title": "FawaNews - San Diego Wave W vs Kansas City Current W - Your Home of Sport",
             "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
             "stream_data": {
                 "iframe_sources": [],
                 "video_sources": [],
                 "embed_sources": [],
                 "m3u8_links": [
-                    "https://www.rtmpcdn.com/live/149b9d0e-f9e7-433b-bfda-9bbeb68cca19.m3u8"
+                    "http://193.47.62.55/hls/UBBBQQQQ.m3u8"
                 ],
                 "mpd_links": [],
                 "mp4_links": [],
@@ -251,7 +241,7 @@
                     "https://twitter.com/share?ref_src=twsrc%5Etfw",
                     "https://platform.twitter.com/widgets.js",
                     "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://www.rtmpcdn.com/live/149b9d0e-f9e7-433b-bfda-9bbeb68cca19.m3u8",
+                    "http://193.47.62.55/hls/UBBBQQQQ.m3u8",
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
@@ -259,35 +249,33 @@
                     "http://platform.twitter.com/widgets.js",
                     "http://acscdn.com/script/aclib.js",
                     "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://www.rtmpcdn.com/live/149b9d0e-f9e7-433b-bfda-9bbeb68cca19.m3u8",
                     "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://s10.histats.com/js15_as.js"
                 ]
             },
             "best_stream_urls": [
-                "https://www.rtmpcdn.com/live/149b9d0e-f9e7-433b-bfda-9bbeb68cca19.m3u8",
-                "http://www.rtmpcdn.com/live/149b9d0e-f9e7-433b-bfda-9bbeb68cca19.m3u8"
+                "http://193.47.62.55/hls/UBBBQQQQ.m3u8"
             ]
         },
         {
-            "name": "Bristol City vs Watford --- CH 3",
+            "name": "San Diego Padres vs Miami Marlins",
             "type": "live_event",
-            "league": "English Championship",
-            "time": "20:00",
-            "image_url": "https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Bristol City vs Watford --- CH 3.html",
-            "home_team": "Bristol City",
-            "away_team": "Watford --- CH 3",
+            "league": "MLB Baseball",
+            "time": "02:40",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/San Diego Padres vs Miami Marlins.html",
+            "home_team": "San Diego Padres",
+            "away_team": "Miami Marlins",
             "page_status": 200,
-            "page_title": "FawaNews - Bristol City vs Watford - Your Home of Sport",
+            "page_title": "FawaNews - San Diego Padres vs Miami Marlins - Your Home of Sport",
             "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
             "stream_data": {
                 "iframe_sources": [],
                 "video_sources": [],
                 "embed_sources": [],
                 "m3u8_links": [
-                    "https://live2.dyrur1.com/live/72339842_43fc82a2db96c62ec33e9b6671fcfe52_540p.m3u8?auth_key=1789772167-0-0-066fff4e0c622ffbcd9f7edd4b843c7a"
+                    "http://193.47.62.55/hls/UBBBQQQ.m3u8"
                 ],
                 "mpd_links": [],
                 "mp4_links": [],
@@ -304,7 +292,7 @@
                     "https://twitter.com/share?ref_src=twsrc%5Etfw",
                     "https://platform.twitter.com/widgets.js",
                     "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://live2.dyrur1.com/live/72339842_43fc82a2db96c62ec33e9b6671fcfe52_540p.m3u8?auth_key=1789772167-0-0-066fff4e0c622ffbcd9f7edd4b843c7a",
+                    "http://193.47.62.55/hls/UBBBQQQ.m3u8",
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
@@ -312,35 +300,33 @@
                     "http://platform.twitter.com/widgets.js",
                     "http://acscdn.com/script/aclib.js",
                     "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://live2.dyrur1.com/live/72339842_43fc82a2db96c62ec33e9b6671fcfe52_540p.m3u8?auth_key=1789772167-0-0-066fff4e0c622ffbcd9f7edd4b843c7a",
                     "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://s10.histats.com/js15_as.js"
                 ]
             },
             "best_stream_urls": [
-                "https://live2.dyrur1.com/live/72339842_43fc82a2db96c62ec33e9b6671fcfe52_540p.m3u8?auth_key=1789772167-0-0-066fff4e0c622ffbcd9f7edd4b843c7a",
-                "http://live2.dyrur1.com/live/72339842_43fc82a2db96c62ec33e9b6671fcfe52_540p.m3u8?auth_key=1789772167-0-0-066fff4e0c622ffbcd9f7edd4b843c7a"
+                "http://193.47.62.55/hls/UBBBQQQ.m3u8"
             ]
         },
         {
-            "name": "Espanyol vs Elche --- CH 1",
+            "name": "Arizona Diamondbacks vs New York Yankees",
             "type": "live_event",
-            "league": "Spanish La Liga",
-            "time": "20:00",
-            "image_url": "https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Espanyol vs Elche.html",
-            "home_team": "Espanyol",
-            "away_team": "Elche --- CH 1",
+            "league": "MLB Baseball",
+            "time": "02:40",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Arizona Diamondbacks vs New York Yankees.html",
+            "home_team": "Arizona Diamondbacks",
+            "away_team": "New York Yankees",
             "page_status": 200,
-            "page_title": "FawaNews - Espanyol vs Elche - Your Home of Sport",
+            "page_title": "FawaNews - Arizona Diamondbacks vs New York Yankees - Your Home of Sport",
             "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
             "stream_data": {
                 "iframe_sources": [],
                 "video_sources": [],
                 "embed_sources": [],
                 "m3u8_links": [
-                    "http://193.47.62.55/hls/UNNNAAAAAQQ.m3u8"
+                    "http://193.47.62.55/hls/UBBBQQ.m3u8"
                 ],
                 "mpd_links": [],
                 "mp4_links": [],
@@ -357,7 +343,7 @@
                     "https://twitter.com/share?ref_src=twsrc%5Etfw",
                     "https://platform.twitter.com/widgets.js",
                     "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.55/hls/UNNNAAAAAQQ.m3u8",
+                    "http://193.47.62.55/hls/UBBBQQ.m3u8",
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
@@ -371,27 +357,27 @@
                 ]
             },
             "best_stream_urls": [
-                "http://193.47.62.55/hls/UNNNAAAAAQQ.m3u8"
+                "http://193.47.62.55/hls/UBBBQQ.m3u8"
             ]
         },
         {
-            "name": "Espanyol vs Elche --- CH 2",
+            "name": "Los Angeles Angels vs Minnesota Twins",
             "type": "live_event",
-            "league": "Spanish La Liga",
-            "time": "20:00",
-            "image_url": "https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Espanyol vs Elche --- CH 2.html",
-            "home_team": "Espanyol",
-            "away_team": "Elche --- CH 2",
+            "league": "MLB Baseball",
+            "time": "02:38",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Los Angeles Angels vs Minnesota Twins.html",
+            "home_team": "Los Angeles Angels",
+            "away_team": "Minnesota Twins",
             "page_status": 200,
-            "page_title": "FawaNews - Espanyol vs Elche - Your Home of Sport",
+            "page_title": "FawaNews - Los Angeles Angels vs Minnesota Twins - Your Home of Sport",
             "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
             "stream_data": {
                 "iframe_sources": [],
                 "video_sources": [],
                 "embed_sources": [],
                 "m3u8_links": [
-                    "https://www.rtmpcdn.com/live/4448dcfd-763d-426e-9aff-82030b34a947.m3u8"
+                    "http://193.47.62.55/hls/UBBBQ.m3u8"
                 ],
                 "mpd_links": [],
                 "mp4_links": [],
@@ -408,7 +394,7 @@
                     "https://twitter.com/share?ref_src=twsrc%5Etfw",
                     "https://platform.twitter.com/widgets.js",
                     "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://www.rtmpcdn.com/live/4448dcfd-763d-426e-9aff-82030b34a947.m3u8",
+                    "http://193.47.62.55/hls/UBBBQ.m3u8",
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
@@ -416,35 +402,33 @@
                     "http://platform.twitter.com/widgets.js",
                     "http://acscdn.com/script/aclib.js",
                     "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://www.rtmpcdn.com/live/4448dcfd-763d-426e-9aff-82030b34a947.m3u8",
                     "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://s10.histats.com/js15_as.js"
                 ]
             },
             "best_stream_urls": [
-                "https://www.rtmpcdn.com/live/4448dcfd-763d-426e-9aff-82030b34a947.m3u8",
-                "http://www.rtmpcdn.com/live/4448dcfd-763d-426e-9aff-82030b34a947.m3u8"
+                "http://193.47.62.55/hls/UBBBQ.m3u8"
             ]
         },
         {
-            "name": "Espanyol vs Elche --- CH 3",
+            "name": "Alianza Lima vs AD Tarma",
             "type": "live_event",
-            "league": "Spanish La Liga",
-            "time": "20:00",
-            "image_url": "https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Espanyol vs Elche --- CH 3.html",
-            "home_team": "Espanyol",
-            "away_team": "Elche --- CH 3",
+            "league": "Peru Liga 1 Apertura",
+            "time": "02:00",
+            "image_url": "https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Alianza Lima vs AD Tarma.html",
+            "home_team": "Alianza Lima",
+            "away_team": "AD Tarma",
             "page_status": 200,
-            "page_title": "FawaNews - Espanyol vs Elche - Your Home of Sport",
+            "page_title": "FawaNews - Alianza Lima vs AD Tarma - Your Home of Sport",
             "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
             "stream_data": {
                 "iframe_sources": [],
                 "video_sources": [],
                 "embed_sources": [],
                 "m3u8_links": [
-                    "https://live.dyrur1.com/live/vmqy9iv5r0etgk9_7875a870bab199979b06b6a899e0e9a9_540p.m3u8?auth_key=1789772453-0-0-fc8965f21a220de4e77a215477ebd3ec"
+                    "http://193.47.62.44/hls/KTTT.m3u8"
                 ],
                 "mpd_links": [],
                 "mp4_links": [],
@@ -461,7 +445,7 @@
                     "https://twitter.com/share?ref_src=twsrc%5Etfw",
                     "https://platform.twitter.com/widgets.js",
                     "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://live.dyrur1.com/live/vmqy9iv5r0etgk9_7875a870bab199979b06b6a899e0e9a9_540p.m3u8?auth_key=1789772453-0-0-fc8965f21a220de4e77a215477ebd3ec",
+                    "http://193.47.62.44/hls/KTTT.m3u8",
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
@@ -469,35 +453,33 @@
                     "http://platform.twitter.com/widgets.js",
                     "http://acscdn.com/script/aclib.js",
                     "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://live.dyrur1.com/live/vmqy9iv5r0etgk9_7875a870bab199979b06b6a899e0e9a9_540p.m3u8?auth_key=1789772453-0-0-fc8965f21a220de4e77a215477ebd3ec",
                     "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://s10.histats.com/js15_as.js"
                 ]
             },
             "best_stream_urls": [
-                "https://live.dyrur1.com/live/vmqy9iv5r0etgk9_7875a870bab199979b06b6a899e0e9a9_540p.m3u8?auth_key=1789772453-0-0-fc8965f21a220de4e77a215477ebd3ec",
-                "http://live.dyrur1.com/live/vmqy9iv5r0etgk9_7875a870bab199979b06b6a899e0e9a9_540p.m3u8?auth_key=1789772453-0-0-fc8965f21a220de4e77a215477ebd3ec"
+                "http://193.47.62.44/hls/KTTT.m3u8"
             ]
         },
         {
-            "name": "AS Monaco vs Lens --- CH 1",
+            "name": "Puebla vs Atlante",
             "type": "live_event",
-            "league": "Ligue 1 France",
-            "time": "19:45",
-            "image_url": "https://pbs.twimg.com/profile_images/1531920610514853890/FgxuEE_k_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/AS Monaco vs Lens.html",
-            "home_team": "AS Monaco",
-            "away_team": "Lens --- CH 1",
+            "league": "Mexico Liga MX",
+            "time": "02:00",
+            "image_url": "https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Puebla vs Atlante.html",
+            "home_team": "Puebla",
+            "away_team": "Atlante",
             "page_status": 200,
-            "page_title": "FawaNews - AS Monaco vs Lens - Your Home of Sport",
+            "page_title": "FawaNews - Puebla vs Atlante - Your Home of Sport",
             "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
             "stream_data": {
                 "iframe_sources": [],
                 "video_sources": [],
                 "embed_sources": [],
                 "m3u8_links": [
-                    "http://193.47.62.55/hls/USSSQQ.m3u8"
+                    "http://193.47.62.55/hls/UBBB.m3u8"
                 ],
                 "mpd_links": [],
                 "mp4_links": [],
@@ -514,7 +496,7 @@
                     "https://twitter.com/share?ref_src=twsrc%5Etfw",
                     "https://platform.twitter.com/widgets.js",
                     "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.55/hls/USSSQQ.m3u8",
+                    "http://193.47.62.55/hls/UBBB.m3u8",
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
@@ -528,27 +510,27 @@
                 ]
             },
             "best_stream_urls": [
-                "http://193.47.62.55/hls/USSSQQ.m3u8"
+                "http://193.47.62.55/hls/UBBB.m3u8"
             ]
         },
         {
-            "name": "AS Monaco vs Lens --- CH 2",
+            "name": "Thailand W vs China W",
             "type": "live_event",
-            "league": "Ligue 1 France",
-            "time": "19:45",
-            "image_url": "https://pbs.twimg.com/profile_images/1531920610514853890/FgxuEE_k_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/AS Monaco vs Lens --- CH 2.html",
-            "home_team": "AS Monaco",
-            "away_team": "Lens --- CH 2",
+            "league": "Basketball Asian Games",
+            "time": "02:00",
+            "image_url": "https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Thailand W vs China W.html",
+            "home_team": "Thailand W",
+            "away_team": "China W",
             "page_status": 200,
-            "page_title": "FawaNews - AS Monaco vs Lens - Your Home of Sport",
+            "page_title": "FawaNews - Thailand W vs China W - Your Home of Sport",
             "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
             "stream_data": {
                 "iframe_sources": [],
                 "video_sources": [],
                 "embed_sources": [],
                 "m3u8_links": [
-                    "https://www.rtmpcdn.com/live/5bb83a43-36fc-41f3-acb6-bb55b43e58d2.m3u8"
+                    "http://193.47.62.50/hls/ICCCAAAAAQAQA.m3u8"
                 ],
                 "mpd_links": [],
                 "mp4_links": [],
@@ -565,7 +547,7 @@
                     "https://twitter.com/share?ref_src=twsrc%5Etfw",
                     "https://platform.twitter.com/widgets.js",
                     "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://www.rtmpcdn.com/live/5bb83a43-36fc-41f3-acb6-bb55b43e58d2.m3u8",
+                    "http://193.47.62.50/hls/ICCCAAAAAQAQA.m3u8",
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
@@ -573,35 +555,33 @@
                     "http://platform.twitter.com/widgets.js",
                     "http://acscdn.com/script/aclib.js",
                     "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://www.rtmpcdn.com/live/5bb83a43-36fc-41f3-acb6-bb55b43e58d2.m3u8",
                     "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://s10.histats.com/js15_as.js"
                 ]
             },
             "best_stream_urls": [
-                "https://www.rtmpcdn.com/live/5bb83a43-36fc-41f3-acb6-bb55b43e58d2.m3u8",
-                "http://www.rtmpcdn.com/live/5bb83a43-36fc-41f3-acb6-bb55b43e58d2.m3u8"
+                "http://193.47.62.50/hls/ICCCAAAAAQAQA.m3u8"
             ]
         },
         {
-            "name": "AS Monaco vs Lens --- CH 3",
+            "name": "Aucas vs Macara",
             "type": "live_event",
-            "league": "Ligue 1 France",
-            "time": "19:45",
-            "image_url": "https://pbs.twimg.com/profile_images/1531920610514853890/FgxuEE_k_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/AS Monaco vs Lens --- CH 3.html",
-            "home_team": "AS Monaco",
-            "away_team": "Lens --- CH 3",
+            "league": "Ecuador Liga Pro",
+            "time": "01:30",
+            "image_url": "https://pbs.twimg.com/profile_images/2018798676844453888/qC9fH20A_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Aucas vs Macara.html",
+            "home_team": "Aucas",
+            "away_team": "Macara",
             "page_status": 200,
-            "page_title": "FawaNews - AS Monaco vs Lens - Your Home of Sport",
+            "page_title": "FawaNews - Aucas vs Macara - Your Home of Sport",
             "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
             "stream_data": {
                 "iframe_sources": [],
                 "video_sources": [],
                 "embed_sources": [],
                 "m3u8_links": [
-                    "https://live1.dyrur1.com/live/72036194_78c7cd6e966e988d9a89267400b28a83_540p.m3u8?auth_key=1789771457-0-0-d66f0ead9c0cb87e5b58c2ffc4d48e3b"
+                    "http://193.47.62.50/hls/ICCCAAAAAQAQ.m3u8"
                 ],
                 "mpd_links": [],
                 "mp4_links": [],
@@ -618,7 +598,7 @@
                     "https://twitter.com/share?ref_src=twsrc%5Etfw",
                     "https://platform.twitter.com/widgets.js",
                     "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://live1.dyrur1.com/live/72036194_78c7cd6e966e988d9a89267400b28a83_540p.m3u8?auth_key=1789771457-0-0-d66f0ead9c0cb87e5b58c2ffc4d48e3b",
+                    "http://193.47.62.50/hls/ICCCAAAAAQAQ.m3u8",
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
@@ -626,15 +606,1228 @@
                     "http://platform.twitter.com/widgets.js",
                     "http://acscdn.com/script/aclib.js",
                     "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://live1.dyrur1.com/live/72036194_78c7cd6e966e988d9a89267400b28a83_540p.m3u8?auth_key=1789771457-0-0-d66f0ead9c0cb87e5b58c2ffc4d48e3b",
                     "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://s10.histats.com/js15_as.js"
                 ]
             },
             "best_stream_urls": [
-                "https://live1.dyrur1.com/live/72036194_78c7cd6e966e988d9a89267400b28a83_540p.m3u8?auth_key=1789771457-0-0-d66f0ead9c0cb87e5b58c2ffc4d48e3b",
-                "http://live1.dyrur1.com/live/72036194_78c7cd6e966e988d9a89267400b28a83_540p.m3u8?auth_key=1789771457-0-0-d66f0ead9c0cb87e5b58c2ffc4d48e3b"
+                "http://193.47.62.50/hls/ICCCAAAAAQAQ.m3u8"
+            ]
+        },
+        {
+            "name": "Racing Club vs Sarmiento Junin",
+            "type": "live_event",
+            "league": "Argentina Liga Profesional",
+            "time": "01:15",
+            "image_url": "https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Racing Club vs Sarmiento Junin.html",
+            "home_team": "Racing Club",
+            "away_team": "Sarmiento Junin",
+            "page_status": 200,
+            "page_title": "FawaNews - Racing Club vs Sarmiento Junin - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.50/hls/ICCCAAAAAQA.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.50/hls/ICCCAAAAAQA.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.50/hls/ICCCAAAAAQA.m3u8"
+            ]
+        },
+        {
+            "name": "St Louis Cardinals vs Washington Nationals",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "01:15",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/St Louis Cardinals vs Washington Nationals.html",
+            "home_team": "St Louis Cardinals",
+            "away_team": "Washington Nationals",
+            "page_status": 200,
+            "page_title": "FawaNews - St Louis Cardinals vs Washington Nationals - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.50/hls/ICCCAAAAAQ.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.50/hls/ICCCAAAAAQ.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.50/hls/ICCCAAAAAQ.m3u8"
+            ]
+        },
+        {
+            "name": "Houston Astros vs Atlanta Braves",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "01:10",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Houston Astros vs Atlanta Braves.html",
+            "home_team": "Houston Astros",
+            "away_team": "Atlanta Braves",
+            "page_status": 200,
+            "page_title": "FawaNews - Houston Astros vs Atlanta Braves - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.50/hls/ICCCAAAAA.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.50/hls/ICCCAAAAA.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.50/hls/ICCCAAAAA.m3u8"
+            ]
+        },
+        {
+            "name": "Colorado Rockies vs Seattle Mariners",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "01:10",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Colorado Rockies vs Seattle Mariners.html",
+            "home_team": "Colorado Rockies",
+            "away_team": "Seattle Mariners",
+            "page_status": 200,
+            "page_title": "FawaNews - Colorado Rockies vs Seattle Mariners - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.50/hls/ICCCAAAA.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.50/hls/ICCCAAAA.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.50/hls/ICCCAAAA.m3u8"
+            ]
+        },
+        {
+            "name": "Texas Rangers vs Toronto Blue Jays",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "01:05",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Texas Rangers vs Toronto Blue Jays.html",
+            "home_team": "Texas Rangers",
+            "away_team": "Toronto Blue Jays",
+            "page_status": 200,
+            "page_title": "FawaNews - Texas Rangers vs Toronto Blue Jays - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.50/hls/ICCCAAA.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.50/hls/ICCCAAA.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.50/hls/ICCCAAA.m3u8"
+            ]
+        },
+        {
+            "name": "WWE Friday Night Smackdown",
+            "type": "live_event",
+            "league": "WWE Wrestling",
+            "time": "01:00",
+            "image_url": "https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/WWE Friday Night Smackdown.html",
+            "page_status": 200,
+            "page_title": "FawaNews - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/2018798676844453888/qC9fH20A_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",
+                    "https://upload.wikimedia.org/wikipedia/en/1/1e/CFL_2016_logo.svg",
+                    "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1780516442913292288/npRNFz7e_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
+                    "https://blogger.googleusercontent.com/img/a/AVvXsEgVFu6gbhG0s9Aw8lV77cSNoQNBAyo9vp4t43LWOJX5-6K1QjOcO5u9W9347voJapikVazPivvnOLuZK0GbOAeiTOEYF7M-4yItB4qUG0rub_dayuftj8oIYhMtU37PLzEaFGOjSUYWJt4KuBt9dYBIOGnxA2sbRbI6yXXusnWJFHXbLW9QOxZArKPM8aM",
+                    "https://blogger.googleusercontent.com/img/a/AVvXsEizAGjqjoQ_F4UZDDErOUUzNs8ilyrv43NNUf1UUx3iD8z06GxYzSL70HRgOIiVa8y7NpIGpXoZNfJshi5fjJ5Z1LnTGpXEtahXPQ06pcRgo14NqctoVnY85PxWFRt24GVwPdBca9cAcd92POkieQooMZTwIqspjIH5VcXcwwWpgN6Ztp3GR-a8YefkR18",
+                    "https://blogger.googleusercontent.com/img/a/AVvXsEgs6EPdY5Er6wIusevluSHjQR161urQVMMLJ_X9J7VQ6-it3A5AgOjoLKREoIZ_B2JlqnCL2XeUWxtMWGfKO9RnPImjHSkmpfTOSChga8uajEnFQaUul-330zNC-MMt6YeYiIhE8r-bQ7-Oo-FBPygE4-bpFcVA-eEBNVwhJsab-i5RafkMWNctuAxY6P0",
+                    "https://blogger.googleusercontent.com/img/a/AVvXsEiKP9tNmB3XgkXomZAx_7HdXYFXnbMe5y5g1LN4eintEC-6R7qe4qRBTgYhtQCTIzL7xg9uhT07RsW3nWXjG9lrQNggkl0WC6adZsyGAlHYNx9GZe1iFJXqh23MyyWbdvv82u1y_kLp9HVgLmj6chKXBmJkWp9vevqZoF3-DHX0kEw5fJvNDqd8HGdcVIo",
+                    "https://blogger.googleusercontent.com/img/a/AVvXsEgGjMGWAeFGnn2NfwqhZqYXXA4zMhNls0eWu14it74nMjfEA4oZyXglSuUWFChZhHQZOr4BR_WUvHhjep1EtCdhfPx3bfbWyK2lSZ_ZW2nHZG2AwK4FnlSc3vxQZOBja6We5Csc8Y6reNaLvuMjfpqr_i6cftUioTcBttbFK7RGXSxdRocDpNIrp_33Yjc",
+                    "https://blogger.googleusercontent.com/img/a/AVvXsEgemowHDh40C2-5DQG92FbH-3rQ5xD0htC4anXk71HoFOmulw5JkiiU5y1YK4nAHLuF_M_wkTlaM0ZNtb6RR_fPvIgPQtgh5-Vb9Z2aapQ-beBWingsQlFjgjCYBp9T4g-Ji4yqCM_RkNMv_H6IEiyUIDNYjGsKzUMuOBWscefAtSk68HJiUmtfPIEadHHI",
+                    "https://blogger.googleusercontent.com/img/a/AVvXsEgKuJff_X9MhlQ4h90uN8SpQIjxS72SDoXMEO0jqla8O22cdFZb2hEihRzhAm0ruieCmk0uw6hHYeMBv5ubHRDxoqc5gxaQz7mPv2tukhoeGSFCIJIxaTy27a11q9byi9yANhUTHcNNjMO_vvuOkAhUGtr4pYuwUNxyVknt-vLu6OL596nABE9-tC8S_CM",
+                    "https://blogger.googleusercontent.com/img/a/AVvXsEgV4xTKO9_WA9yJ8E20LGXX_1FADczM-X9iptMOQt4nBROkPyWWDzipYtc-m4w_Axd0SEXkkW6FvPf--hmj9Ez3HqtG_2j4bzgG0RSzm-UepYMEwBcKnSIR4rP0zMctRnhgr6jIQBg9jIr_pWVpX-X2Bc3-pRCNJ_V29cMsPG1smGj3ZrHssEyU4zqa3_U",
+                    "https://blogger.googleusercontent.com/img/a/AVvXsEiB0Pi0TbBPTjEpkZxj1s3W_fcaQrgZRjC9Oc1FNEy9XXEbfi-Ij5Xd1GlIOo7BaRMTmCkeeMFm2CmCJLBgV_G8Hbwxed8QIcm9PKz6xVOmPVbb1ST1N8buKmavdqHgJLtmTGf9wnNWAH-O-XQ2kmV4n2u1svLs3klTIsGy5Njx0jYgo7QLdTz7OlKTrss",
+                    "https://i.dailymail.co.uk/1s/2023/01/15/08/66589553-11637039-image-a-25_1673772792749.jpg",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAJPodb-xBIew4fVvPpW0ztGCQ6ma4FzwPX6kjmwIlT0Z2zMbAmRwY58ZDjT2Z5EzA7hiB--wYzHfPs2v_wX6KgETnIk7wI9hDNB3cEhpetTD6mmDGBtRL3gHdyVj4V0QfnuKNhigkM98BriuSq-zgwqBylTb3t7SMrkD7Tu9I2tbjsoJ1NnuO6CIi/s320/evert.jpg",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgVJbD-NdhVzcTC9Ej2s96LEQHavsQSjPdvERibmlVVU0Dj3BCUdKsVk-MrFWsbJlN4AX1VmZoFQK9DVE7WnJTaVyFukogIi9bPfyK01t4WheJ7OCxJtzk4CvrWIah1My54XcOPO179uIEsDzOdGHKQ4orQ2MWrL4TZyET2c2Q-ySn1JPZSXA6QgYE/s320/pablo.jpg",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyRxEnE-QR6kvrpmZ65IMM9os-jL4qUF_N8d37-GO26JTybal9lLDLGkj6qq8nZPG2QjnUDnccfnlqTfm20hUrfapbqHissL-IIvECkICr8et-Kzye6sbtRfrZI914X3MA8j9T_lOklj_GWPTH6zXrv7hmf9vLvXM1ygrqBugIP3nJuMbRu6ZmX-EX/s320/_128306276_barcelona.jpg",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL90lqLdAUmltr1TdXI5M4HywVfLv-wuLkkjPvmSWHvrOny_AfE7BEFy717V31JQhgMa7S2cpHrUCDPFVuPjRTHnL0L28PkkkAHeqNLGVnLgTXcAY-eecdsNIcq4l80TCVyac_XIru8qy6e-pQTbYop6EUfb8yFrysBmN7t3zVY_16BdKLFV6mSGOW/s320/_128310278_gettyimages-1246161522.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Alan_Shearer_2008.jpg/220px-Alan_Shearer_2008.jpg",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6HbBHPEjqFOzfouK0JCEJK-zw3vQBa4lwkVyjwpAtLQOjmKEaK0h5moGDMABawR0aOpdeBHRE6l0-xAyiXTZsMLjkF0pT9hNLUAz6feSvmYG4xutdT_kUpkT0ZxCWuG2RjmIr-LUu9qNZkqGvd2oRD2Y4tB2SbNekwFyYBK3E41neNH0NblZ-48ri/s320/_128317488_gettyimages-1440414693.jpg",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSz9UqFhIHy9IvBNc38hlQiEFYtk0Op5gGD0eX2HSNCNDAiZNcYGewdb-oqwXxW7lFmQqHQOOVQSI1FzjVn0K3YD889Btj1FoqlPIZP97-pm_ZONvlXYpl6ARYAm2DFnx7C_NwPWqC0aHZQmWgwa90QBOCAx21oN_vsJXBHLD0C6SK6yq46pYz7Xu2/s320/_128309869_gettyimages-1246254965.jpg",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPQmXrh03sQ9GY58oNjuhr0FJUVZeCjsZuwI0-dgL149XwOEU1Vg6OuXM9jFfzr1lCVmN3RyRb2hnr_x2BqzqeX85ww3QZ6nN1jyiDaHptCmDsX71MtHauG9OUG7o_6dWZZvTzIiBGSRExxFB3tqpbdogVtDk04oNEyisQwMoyBab7Y9f2w826B-95/s320/_128317661_gettyimages-1246229936.jpg",
+                    "http://st.chatango.com/js/gz/emb.js",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.fawanews.sc/assets/js/libs.js",
+                    "http://www.fawanews.sc/assets/js/main.js"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "http://www.fawanews.sc/",
+                    "https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/2018798676844453888/qC9fH20A_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",
+                    "https://upload.wikimedia.org/wikipedia/en/1/1e/CFL_2016_logo.svg",
+                    "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1780516442913292288/npRNFz7e_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
+                    "https://blogger.googleusercontent.com/img/a/AVvXsEgVFu6gbhG0s9Aw8lV77cSNoQNBAyo9vp4t43LWOJX5-6K1QjOcO5u9W9347voJapikVazPivvnOLuZK0GbOAeiTOEYF7M-4yItB4qUG0rub_dayuftj8oIYhMtU37PLzEaFGOjSUYWJt4KuBt9dYBIOGnxA2sbRbI6yXXusnWJFHXbLW9QOxZArKPM8aM",
+                    "https://blogger.googleusercontent.com/img/a/AVvXsEizAGjqjoQ_F4UZDDErOUUzNs8ilyrv43NNUf1UUx3iD8z06GxYzSL70HRgOIiVa8y7NpIGpXoZNfJshi5fjJ5Z1LnTGpXEtahXPQ06pcRgo14NqctoVnY85PxWFRt24GVwPdBca9cAcd92POkieQooMZTwIqspjIH5VcXcwwWpgN6Ztp3GR-a8YefkR18",
+                    "https://blogger.googleusercontent.com/img/a/AVvXsEgs6EPdY5Er6wIusevluSHjQR161urQVMMLJ_X9J7VQ6-it3A5AgOjoLKREoIZ_B2JlqnCL2XeUWxtMWGfKO9RnPImjHSkmpfTOSChga8uajEnFQaUul-330zNC-MMt6YeYiIhE8r-bQ7-Oo-FBPygE4-bpFcVA-eEBNVwhJsab-i5RafkMWNctuAxY6P0",
+                    "https://blogger.googleusercontent.com/img/a/AVvXsEiKP9tNmB3XgkXomZAx_7HdXYFXnbMe5y5g1LN4eintEC-6R7qe4qRBTgYhtQCTIzL7xg9uhT07RsW3nWXjG9lrQNggkl0WC6adZsyGAlHYNx9GZe1iFJXqh23MyyWbdvv82u1y_kLp9HVgLmj6chKXBmJkWp9vevqZoF3-DHX0kEw5fJvNDqd8HGdcVIo",
+                    "https://blogger.googleusercontent.com/img/a/AVvXsEgGjMGWAeFGnn2NfwqhZqYXXA4zMhNls0eWu14it74nMjfEA4oZyXglSuUWFChZhHQZOr4BR_WUvHhjep1EtCdhfPx3bfbWyK2lSZ_ZW2nHZG2AwK4FnlSc3vxQZOBja6We5Csc8Y6reNaLvuMjfpqr_i6cftUioTcBttbFK7RGXSxdRocDpNIrp_33Yjc",
+                    "https://blogger.googleusercontent.com/img/a/AVvXsEgemowHDh40C2-5DQG92FbH-3rQ5xD0htC4anXk71HoFOmulw5JkiiU5y1YK4nAHLuF_M_wkTlaM0ZNtb6RR_fPvIgPQtgh5-Vb9Z2aapQ-beBWingsQlFjgjCYBp9T4g-Ji4yqCM_RkNMv_H6IEiyUIDNYjGsKzUMuOBWscefAtSk68HJiUmtfPIEadHHI",
+                    "https://blogger.googleusercontent.com/img/a/AVvXsEgKuJff_X9MhlQ4h90uN8SpQIjxS72SDoXMEO0jqla8O22cdFZb2hEihRzhAm0ruieCmk0uw6hHYeMBv5ubHRDxoqc5gxaQz7mPv2tukhoeGSFCIJIxaTy27a11q9byi9yANhUTHcNNjMO_vvuOkAhUGtr4pYuwUNxyVknt-vLu6OL596nABE9-tC8S_CM",
+                    "https://blogger.googleusercontent.com/img/a/AVvXsEgV4xTKO9_WA9yJ8E20LGXX_1FADczM-X9iptMOQt4nBROkPyWWDzipYtc-m4w_Axd0SEXkkW6FvPf--hmj9Ez3HqtG_2j4bzgG0RSzm-UepYMEwBcKnSIR4rP0zMctRnhgr6jIQBg9jIr_pWVpX-X2Bc3-pRCNJ_V29cMsPG1smGj3ZrHssEyU4zqa3_U",
+                    "https://blogger.googleusercontent.com/img/a/AVvXsEiB0Pi0TbBPTjEpkZxj1s3W_fcaQrgZRjC9Oc1FNEy9XXEbfi-Ij5Xd1GlIOo7BaRMTmCkeeMFm2CmCJLBgV_G8Hbwxed8QIcm9PKz6xVOmPVbb1ST1N8buKmavdqHgJLtmTGf9wnNWAH-O-XQ2kmV4n2u1svLs3klTIsGy5Njx0jYgo7QLdTz7OlKTrss",
+                    "https://i.dailymail.co.uk/1s/2023/01/15/08/66589553-11637039-image-a-25_1673772792749.jpg",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAJPodb-xBIew4fVvPpW0ztGCQ6ma4FzwPX6kjmwIlT0Z2zMbAmRwY58ZDjT2Z5EzA7hiB--wYzHfPs2v_wX6KgETnIk7wI9hDNB3cEhpetTD6mmDGBtRL3gHdyVj4V0QfnuKNhigkM98BriuSq-zgwqBylTb3t7SMrkD7Tu9I2tbjsoJ1NnuO6CIi/s320/evert.jpg",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgVJbD-NdhVzcTC9Ej2s96LEQHavsQSjPdvERibmlVVU0Dj3BCUdKsVk-MrFWsbJlN4AX1VmZoFQK9DVE7WnJTaVyFukogIi9bPfyK01t4WheJ7OCxJtzk4CvrWIah1My54XcOPO179uIEsDzOdGHKQ4orQ2MWrL4TZyET2c2Q-ySn1JPZSXA6QgYE/s320/pablo.jpg",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyRxEnE-QR6kvrpmZ65IMM9os-jL4qUF_N8d37-GO26JTybal9lLDLGkj6qq8nZPG2QjnUDnccfnlqTfm20hUrfapbqHissL-IIvECkICr8et-Kzye6sbtRfrZI914X3MA8j9T_lOklj_GWPTH6zXrv7hmf9vLvXM1ygrqBugIP3nJuMbRu6ZmX-EX/s320/_128306276_barcelona.jpg",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL90lqLdAUmltr1TdXI5M4HywVfLv-wuLkkjPvmSWHvrOny_AfE7BEFy717V31JQhgMa7S2cpHrUCDPFVuPjRTHnL0L28PkkkAHeqNLGVnLgTXcAY-eecdsNIcq4l80TCVyac_XIru8qy6e-pQTbYop6EUfb8yFrysBmN7t3zVY_16BdKLFV6mSGOW/s320/_128310278_gettyimages-1246161522.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Alan_Shearer_2008.jpg/220px-Alan_Shearer_2008.jpg",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6HbBHPEjqFOzfouK0JCEJK-zw3vQBa4lwkVyjwpAtLQOjmKEaK0h5moGDMABawR0aOpdeBHRE6l0-xAyiXTZsMLjkF0pT9hNLUAz6feSvmYG4xutdT_kUpkT0ZxCWuG2RjmIr-LUu9qNZkqGvd2oRD2Y4tB2SbNekwFyYBK3E41neNH0NblZ-48ri/s320/_128317488_gettyimages-1440414693.jpg",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSz9UqFhIHy9IvBNc38hlQiEFYtk0Op5gGD0eX2HSNCNDAiZNcYGewdb-oqwXxW7lFmQqHQOOVQSI1FzjVn0K3YD889Btj1FoqlPIZP97-pm_ZONvlXYpl6ARYAm2DFnx7C_NwPWqC0aHZQmWgwa90QBOCAx21oN_vsJXBHLD0C6SK6yq46pYz7Xu2/s320/_128309869_gettyimages-1246254965.jpg",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPQmXrh03sQ9GY58oNjuhr0FJUVZeCjsZuwI0-dgL149XwOEU1Vg6OuXM9jFfzr1lCVmN3RyRb2hnr_x2BqzqeX85ww3QZ6nN1jyiDaHptCmDsX71MtHauG9OUG7o_6dWZZvTzIiBGSRExxFB3tqpbdogVtDk04oNEyisQwMoyBab7Y9f2w826B-95/s320/_128317661_gettyimages-1246229936.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/2018798676844453888/qC9fH20A_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",
+                    "http://upload.wikimedia.org/wikipedia/en/1/1e/CFL_2016_logo.svg",
+                    "http://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1780516442913292288/npRNFz7e_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
+                    "http://blogger.googleusercontent.com/img/a/AVvXsEgVFu6gbhG0s9Aw8lV77cSNoQNBAyo9vp4t43LWOJX5-6K1QjOcO5u9W9347voJapikVazPivvnOLuZK0GbOAeiTOEYF7M-4yItB4qUG0rub_dayuftj8oIYhMtU37PLzEaFGOjSUYWJt4KuBt9dYBIOGnxA2sbRbI6yXXusnWJFHXbLW9QOxZArKPM8aM",
+                    "http://blogger.googleusercontent.com/img/a/AVvXsEizAGjqjoQ_F4UZDDErOUUzNs8ilyrv43NNUf1UUx3iD8z06GxYzSL70HRgOIiVa8y7NpIGpXoZNfJshi5fjJ5Z1LnTGpXEtahXPQ06pcRgo14NqctoVnY85PxWFRt24GVwPdBca9cAcd92POkieQooMZTwIqspjIH5VcXcwwWpgN6Ztp3GR-a8YefkR18",
+                    "http://blogger.googleusercontent.com/img/a/AVvXsEgs6EPdY5Er6wIusevluSHjQR161urQVMMLJ_X9J7VQ6-it3A5AgOjoLKREoIZ_B2JlqnCL2XeUWxtMWGfKO9RnPImjHSkmpfTOSChga8uajEnFQaUul-330zNC-MMt6YeYiIhE8r-bQ7-Oo-FBPygE4-bpFcVA-eEBNVwhJsab-i5RafkMWNctuAxY6P0",
+                    "http://blogger.googleusercontent.com/img/a/AVvXsEiKP9tNmB3XgkXomZAx_7HdXYFXnbMe5y5g1LN4eintEC-6R7qe4qRBTgYhtQCTIzL7xg9uhT07RsW3nWXjG9lrQNggkl0WC6adZsyGAlHYNx9GZe1iFJXqh23MyyWbdvv82u1y_kLp9HVgLmj6chKXBmJkWp9vevqZoF3-DHX0kEw5fJvNDqd8HGdcVIo",
+                    "http://blogger.googleusercontent.com/img/a/AVvXsEgGjMGWAeFGnn2NfwqhZqYXXA4zMhNls0eWu14it74nMjfEA4oZyXglSuUWFChZhHQZOr4BR_WUvHhjep1EtCdhfPx3bfbWyK2lSZ_ZW2nHZG2AwK4FnlSc3vxQZOBja6We5Csc8Y6reNaLvuMjfpqr_i6cftUioTcBttbFK7RGXSxdRocDpNIrp_33Yjc",
+                    "http://blogger.googleusercontent.com/img/a/AVvXsEgemowHDh40C2-5DQG92FbH-3rQ5xD0htC4anXk71HoFOmulw5JkiiU5y1YK4nAHLuF_M_wkTlaM0ZNtb6RR_fPvIgPQtgh5-Vb9Z2aapQ-beBWingsQlFjgjCYBp9T4g-Ji4yqCM_RkNMv_H6IEiyUIDNYjGsKzUMuOBWscefAtSk68HJiUmtfPIEadHHI",
+                    "http://blogger.googleusercontent.com/img/a/AVvXsEgKuJff_X9MhlQ4h90uN8SpQIjxS72SDoXMEO0jqla8O22cdFZb2hEihRzhAm0ruieCmk0uw6hHYeMBv5ubHRDxoqc5gxaQz7mPv2tukhoeGSFCIJIxaTy27a11q9byi9yANhUTHcNNjMO_vvuOkAhUGtr4pYuwUNxyVknt-vLu6OL596nABE9-tC8S_CM",
+                    "http://blogger.googleusercontent.com/img/a/AVvXsEgV4xTKO9_WA9yJ8E20LGXX_1FADczM-X9iptMOQt4nBROkPyWWDzipYtc-m4w_Axd0SEXkkW6FvPf--hmj9Ez3HqtG_2j4bzgG0RSzm-UepYMEwBcKnSIR4rP0zMctRnhgr6jIQBg9jIr_pWVpX-X2Bc3-pRCNJ_V29cMsPG1smGj3ZrHssEyU4zqa3_U",
+                    "http://blogger.googleusercontent.com/img/a/AVvXsEiB0Pi0TbBPTjEpkZxj1s3W_fcaQrgZRjC9Oc1FNEy9XXEbfi-Ij5Xd1GlIOo7BaRMTmCkeeMFm2CmCJLBgV_G8Hbwxed8QIcm9PKz6xVOmPVbb1ST1N8buKmavdqHgJLtmTGf9wnNWAH-O-XQ2kmV4n2u1svLs3klTIsGy5Njx0jYgo7QLdTz7OlKTrss",
+                    "http://i.dailymail.co.uk/1s/2023/01/15/08/66589553-11637039-image-a-25_1673772792749.jpg",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAJPodb-xBIew4fVvPpW0ztGCQ6ma4FzwPX6kjmwIlT0Z2zMbAmRwY58ZDjT2Z5EzA7hiB--wYzHfPs2v_wX6KgETnIk7wI9hDNB3cEhpetTD6mmDGBtRL3gHdyVj4V0QfnuKNhigkM98BriuSq-zgwqBylTb3t7SMrkD7Tu9I2tbjsoJ1NnuO6CIi/s320/evert.jpg",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgVJbD-NdhVzcTC9Ej2s96LEQHavsQSjPdvERibmlVVU0Dj3BCUdKsVk-MrFWsbJlN4AX1VmZoFQK9DVE7WnJTaVyFukogIi9bPfyK01t4WheJ7OCxJtzk4CvrWIah1My54XcOPO179uIEsDzOdGHKQ4orQ2MWrL4TZyET2c2Q-ySn1JPZSXA6QgYE/s320/pablo.jpg",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyRxEnE-QR6kvrpmZ65IMM9os-jL4qUF_N8d37-GO26JTybal9lLDLGkj6qq8nZPG2QjnUDnccfnlqTfm20hUrfapbqHissL-IIvECkICr8et-Kzye6sbtRfrZI914X3MA8j9T_lOklj_GWPTH6zXrv7hmf9vLvXM1ygrqBugIP3nJuMbRu6ZmX-EX/s320/_128306276_barcelona.jpg",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL90lqLdAUmltr1TdXI5M4HywVfLv-wuLkkjPvmSWHvrOny_AfE7BEFy717V31JQhgMa7S2cpHrUCDPFVuPjRTHnL0L28PkkkAHeqNLGVnLgTXcAY-eecdsNIcq4l80TCVyac_XIru8qy6e-pQTbYop6EUfb8yFrysBmN7t3zVY_16BdKLFV6mSGOW/s320/_128310278_gettyimages-1246161522.jpg",
+                    "http://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Alan_Shearer_2008.jpg/220px-Alan_Shearer_2008.jpg",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6HbBHPEjqFOzfouK0JCEJK-zw3vQBa4lwkVyjwpAtLQOjmKEaK0h5moGDMABawR0aOpdeBHRE6l0-xAyiXTZsMLjkF0pT9hNLUAz6feSvmYG4xutdT_kUpkT0ZxCWuG2RjmIr-LUu9qNZkqGvd2oRD2Y4tB2SbNekwFyYBK3E41neNH0NblZ-48ri/s320/_128317488_gettyimages-1440414693.jpg",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSz9UqFhIHy9IvBNc38hlQiEFYtk0Op5gGD0eX2HSNCNDAiZNcYGewdb-oqwXxW7lFmQqHQOOVQSI1FzjVn0K3YD889Btj1FoqlPIZP97-pm_ZONvlXYpl6ARYAm2DFnx7C_NwPWqC0aHZQmWgwa90QBOCAx21oN_vsJXBHLD0C6SK6yq46pYz7Xu2/s320/_128309869_gettyimages-1246254965.jpg",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPQmXrh03sQ9GY58oNjuhr0FJUVZeCjsZuwI0-dgL149XwOEU1Vg6OuXM9jFfzr1lCVmN3RyRb2hnr_x2BqzqeX85ww3QZ6nN1jyiDaHptCmDsX71MtHauG9OUG7o_6dWZZvTzIiBGSRExxFB3tqpbdogVtDk04oNEyisQwMoyBab7Y9f2w826B-95/s320/_128317661_gettyimages-1246229936.jpg",
+                    "http://st.chatango.com/js/gz/emb.js",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": []
+        },
+        {
+            "name": "Texas Tech vs Houston",
+            "type": "live_event",
+            "league": "NCAA American Football",
+            "time": "01:00",
+            "image_url": "https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Texas Tech vs Houston.html",
+            "home_team": "Texas Tech",
+            "away_team": "Houston",
+            "page_status": 200,
+            "page_title": "FawaNews - Texas Tech vs Houston - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.50/hls/ICCCA.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.50/hls/ICCCA.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.50/hls/ICCCA.m3u8"
+            ]
+        },
+        {
+            "name": "Sao Bernardo vs Atletico GO",
+            "type": "live_event",
+            "league": "Brazil Serie B",
+            "time": "01:00",
+            "image_url": "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Sao Bernardo vs Atletico GO.html",
+            "home_team": "Sao Bernardo",
+            "away_team": "Atletico GO",
+            "page_status": 200,
+            "page_title": "FawaNews - Sao Bernardo vs Atletico GO - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.50/hls/ICCC.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.50/hls/ICCC.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.50/hls/ICCC.m3u8"
+            ]
+        },
+        {
+            "name": "Chicago White Sox vs Detroit Tigers",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "00:40",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Chicago White Sox vs Detroit Tigers.html",
+            "home_team": "Chicago White Sox",
+            "away_team": "Detroit Tigers",
+            "page_status": 200,
+            "page_title": "FawaNews - Chicago White Sox vs Detroit Tigers - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.59/hls/KQQQAAAAAA.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.59/hls/KQQQAAAAAA.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.59/hls/KQQQAAAAAA.m3u8"
+            ]
+        },
+        {
+            "name": "Wake Forest vs Miami FL",
+            "type": "live_event",
+            "league": "NCAA American Football",
+            "time": "00:30",
+            "image_url": "https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Wake Forest vs Miami FL.html",
+            "home_team": "Wake Forest",
+            "away_team": "Miami FL",
+            "page_status": 200,
+            "page_title": "FawaNews - Wake Forest vs Miami FL - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.59/hls/KQQQAAAAA.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.59/hls/KQQQAAAAA.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.59/hls/KQQQAAAAA.m3u8"
+            ]
+        },
+        {
+            "name": "New York City vs New York Red Bulls",
+            "type": "live_event",
+            "league": "MLS League",
+            "time": "00:30",
+            "image_url": "https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/New York City vs New York Red Bulls.html",
+            "home_team": "New York City",
+            "away_team": "New York Red Bulls",
+            "page_status": 200,
+            "page_title": "FawaNews - New York City vs New York Red Bulls - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.59/hls/KQQQAAAA.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.59/hls/KQQQAAAA.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.59/hls/KQQQAAAA.m3u8"
+            ]
+        },
+        {
+            "name": "Hamilton Tiger-Cats vs Montreal Alouettes",
+            "type": "live_event",
+            "league": "CFL Canadian Football",
+            "time": "00:30",
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/1/1e/CFL_2016_logo.svg",
+            "page_link": "http://www.fawanews.sc/Hamilton Tiger-Cats vs Montreal Alouettes.html",
+            "home_team": "Hamilton Tiger-Cats",
+            "away_team": "Montreal Alouettes",
+            "page_status": 200,
+            "page_title": "FawaNews - Hamilton Tiger-Cats vs Montreal Alouettes - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.59/hls/KQQQAAA.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.59/hls/KQQQAAA.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.59/hls/KQQQAAA.m3u8"
+            ]
+        },
+        {
+            "name": "Minnesota Lynx W vs New York Liberty W",
+            "type": "live_event",
+            "league": "WNBA Basketball",
+            "time": "00:30",
+            "image_url": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Minnesota Lynx W vs New York Liberty W.html",
+            "home_team": "Minnesota Lynx W",
+            "away_team": "New York Liberty W",
+            "page_status": 200,
+            "page_title": "FawaNews - Minnesota Lynx W vs New York Liberty W - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.59/hls/KQQQAA.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.59/hls/KQQQAA.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.59/hls/KQQQAA.m3u8"
+            ]
+        },
+        {
+            "name": "Toronto Tempo W vs Indiana Fever W",
+            "type": "live_event",
+            "league": "WNBA Basketball",
+            "time": "00:30",
+            "image_url": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Toronto Tempo W vs Indiana Fever W.html",
+            "home_team": "Toronto Tempo W",
+            "away_team": "Indiana Fever W",
+            "page_status": 200,
+            "page_title": "FawaNews - Toronto Tempo W vs Indiana Fever W - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.59/hls/KQQQA.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.59/hls/KQQQA.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.59/hls/KQQQA.m3u8"
+            ]
+        },
+        {
+            "name": "Ceara vs Novorizontino",
+            "type": "live_event",
+            "league": "Brazil Serie B",
+            "time": "00:30",
+            "image_url": "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Ceara vs Novorizontino.html",
+            "home_team": "Ceara",
+            "away_team": "Novorizontino",
+            "page_status": 200,
+            "page_title": "FawaNews - Ceara vs Novorizontino - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.59/hls/KQQQ.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.59/hls/KQQQ.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.59/hls/KQQQ.m3u8"
+            ]
+        },
+        {
+            "name": "New York Mets vs Philadelphia Phillies",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "00:15",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/New York Mets vs Philadelphia Phillies.html",
+            "home_team": "New York Mets",
+            "away_team": "Philadelphia Phillies",
+            "page_status": 200,
+            "page_title": "FawaNews - New York Mets vs Philadelphia Phillies - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.44/hls/HTHTHTAAAAAA.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.44/hls/HTHTHTAAAAAA.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.44/hls/HTHTHTAAAAAA.m3u8"
+            ]
+        },
+        {
+            "name": "Tampa Bay Rays vs Boston Red Sox",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "00:10",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Tampa Bay Rays vs Boston Red Sox.html",
+            "home_team": "Tampa Bay Rays",
+            "away_team": "Boston Red Sox",
+            "page_status": 200,
+            "page_title": "FawaNews - Tampa Bay Rays vs Boston Red Sox - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.44/hls/HTHTHTAAAAA.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.44/hls/HTHTHTAAAAA.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.44/hls/HTHTHTAAAAA.m3u8"
+            ]
+        },
+        {
+            "name": "Cleveland Guardians vs Athletics",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "00:10",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Cleveland Guardians vs Athletics.html",
+            "home_team": "Cleveland Guardians",
+            "away_team": "Athletics",
+            "page_status": 200,
+            "page_title": "FawaNews - Cleveland Guardians vs Athletics - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.44/hls/HTHTHTAAAA.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.44/hls/HTHTHTAAAA.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.44/hls/HTHTHTAAAA.m3u8"
+            ]
+        },
+        {
+            "name": "Baltimore Orioles vs Milwaukee Brewers",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "00:05",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Baltimore Orioles vs Milwaukee Brewers.html",
+            "home_team": "Baltimore Orioles",
+            "away_team": "Milwaukee Brewers",
+            "page_status": 200,
+            "page_title": "FawaNews - Baltimore Orioles vs Milwaukee Brewers - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.44/hls/HTHTHTAAA.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.44/hls/HTHTHTAAA.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.44/hls/HTHTHTAAA.m3u8"
+            ]
+        },
+        {
+            "name": "Patriotas vs U Magdalena",
+            "type": "live_event",
+            "league": "Colombia Primera B",
+            "time": "00:05",
+            "image_url": "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Patriotas vs U Magdalena.html",
+            "home_team": "Patriotas",
+            "away_team": "U Magdalena",
+            "page_status": 200,
+            "page_title": "FawaNews - Patriotas vs U Magdalena - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.44/hls/HTHTHTAA.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.44/hls/HTHTHTAA.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.44/hls/HTHTHTAA.m3u8"
+            ]
+        },
+        {
+            "name": "Guyana Amazon Warriors vs Jamaica Kingsmen",
+            "type": "live_event",
+            "league": "Cricket CPL T20",
+            "time": "00:00",
+            "image_url": "https://pbs.twimg.com/profile_images/1780516442913292288/npRNFz7e_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Guyana Amazon Warriors vs Jamaica Kingsmen.html",
+            "home_team": "Guyana Amazon Warriors",
+            "away_team": "Jamaica Kingsmen",
+            "page_status": 200,
+            "page_title": "FawaNews - Guyana Amazon Warriors vs Jamaica Kingsmen - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.44/hls/HTHTHTA.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.44/hls/HTHTHTA.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.44/hls/HTHTHTA.m3u8"
+            ]
+        },
+        {
+            "name": "Independiente vs SA Bulo Bulo",
+            "type": "live_event",
+            "league": "Bolivia Division Profesional",
+            "time": "00:00",
+            "image_url": "https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Independiente vs SA Bulo Bulo.html",
+            "home_team": "Independiente",
+            "away_team": "SA Bulo Bulo",
+            "page_status": 200,
+            "page_title": "FawaNews - Independiente vs SA Bulo Bulo - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.44/hls/HTHTHT.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.44/hls/HTHTHT.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.44/hls/HTHTHT.m3u8"
             ]
         },
         {
@@ -839,767 +2032,6 @@
             },
             "best_stream_urls": [
                 "http://193.47.62.44/hls/KTTTQQQ.m3u8"
-            ]
-        },
-        {
-            "name": "Central Cordoba vs Defensa y Justicia",
-            "type": "live_event",
-            "league": "Argentina Liga Profesional",
-            "time": "22:00",
-            "image_url": "https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Central Cordoba vs Defensa y Justicia.html",
-            "home_team": "Central Cordoba",
-            "away_team": "Defensa y Justicia",
-            "page_status": 200,
-            "page_title": "FawaNews - Central Cordoba vs Defensa y Justicia - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.44/hls/KTTTQQ.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.44/hls/KTTTQQ.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.44/hls/KTTTQQ.m3u8"
-            ]
-        },
-        {
-            "name": "Aguilas vs Pereira",
-            "type": "live_event",
-            "league": "Colombia Primera A",
-            "time": "22:00",
-            "image_url": "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Aguilas vs Pereira.html",
-            "home_team": "Aguilas",
-            "away_team": "Pereira",
-            "page_status": 200,
-            "page_title": "FawaNews - Aguilas vs Pereira - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.44/hls/KTTTQ.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.44/hls/KTTTQ.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.44/hls/KTTTQ.m3u8"
-            ]
-        },
-        {
-            "name": "Alianza Atl vs Comerciantes Unidos",
-            "type": "live_event",
-            "league": "Peru Liga 1 Apertura",
-            "time": "21:00",
-            "image_url": "https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Alianza Atl vs Comerciantes Unidos.html",
-            "home_team": "Alianza Atl",
-            "away_team": "Comerciantes Unidos",
-            "page_status": 200,
-            "page_title": "FawaNews - Alianza Atl vs Comerciantes Unidos - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.44/hls/KTTT.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.44/hls/KTTT.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.44/hls/KTTT.m3u8"
-            ]
-        },
-        {
-            "name": "Real SC vs Academica",
-            "type": "live_event",
-            "league": "Portugal Cup",
-            "time": "20:30",
-            "image_url": "https://pbs.twimg.com/profile_images/1963974021612978176/_dTeQPEr_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Real SC vs Academica.html",
-            "home_team": "Real SC",
-            "away_team": "Academica",
-            "page_status": 200,
-            "page_title": "FawaNews - Real SC vs Academica - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.55/hls/UNNNAAAAAQQQQQ.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.55/hls/UNNNAAAAAQQQQQ.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.55/hls/UNNNAAAAAQQQQQ.m3u8"
-            ]
-        },
-        {
-            "name": "Wakefield vs Leigh",
-            "type": "live_event",
-            "league": "English Rugby Super League",
-            "time": "20:00",
-            "image_url": "https://pbs.twimg.com/profile_images/2038972517776531456/qwqDiPOu_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Wakefield vs Leigh.html",
-            "home_team": "Wakefield",
-            "away_team": "Leigh",
-            "page_status": 200,
-            "page_title": "FawaNews - Wakefield vs Leigh - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.55/hls/UNNNAAAAAQQQ.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.55/hls/UNNNAAAAAQQQ.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.55/hls/UNNNAAAAAQQQ.m3u8"
-            ]
-        },
-        {
-            "name": "PSG W vs Nantes W",
-            "type": "live_event",
-            "league": "France Premiere Ligue Women",
-            "time": "20:00",
-            "image_url": "https://pbs.twimg.com/profile_images/1803885629131853824/GmSGiNfO_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/PSG W vs Nantes W.html",
-            "home_team": "PSG W",
-            "away_team": "Nantes W",
-            "page_status": 200,
-            "page_title": "FawaNews - PSG W vs Nantes W - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.55/hls/UNNNAAAAAQ.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.55/hls/UNNNAAAAAQ.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.55/hls/UNNNAAAAAQ.m3u8"
-            ]
-        },
-        {
-            "name": "Sportivo Trinidense vs Guarani",
-            "type": "live_event",
-            "league": "Paraguay Primera Division",
-            "time": "20:00",
-            "image_url": "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Sportivo Trinidense vs Guarani.html",
-            "home_team": "Sportivo Trinidense",
-            "away_team": "Guarani",
-            "page_status": 200,
-            "page_title": "FawaNews - Sportivo Trinidense vs Guarani - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.55/hls/UNNNAAAAA.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.55/hls/UNNNAAAAA.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.55/hls/UNNNAAAAA.m3u8"
-            ]
-        },
-        {
-            "name": "Shamrock Rovers vs Waterford",
-            "type": "live_event",
-            "league": "Ireland Premier Division",
-            "time": "20:00",
-            "image_url": "https://pbs.twimg.com/profile_images/1675168981139767296/nbWYt3fC_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Shamrock Rovers vs Waterford.html",
-            "home_team": "Shamrock Rovers",
-            "away_team": "Waterford",
-            "page_status": 200,
-            "page_title": "FawaNews - Shamrock Rovers vs Waterford - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.55/hls/UNNNAAAA.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.55/hls/UNNNAAAA.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.55/hls/UNNNAAAA.m3u8"
-            ]
-        },
-        {
-            "name": "Bohemians vs Drogheda",
-            "type": "live_event",
-            "league": "Ireland Premier Division",
-            "time": "20:00",
-            "image_url": "https://pbs.twimg.com/profile_images/1675168981139767296/nbWYt3fC_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Bohemians vs Drogheda.html",
-            "home_team": "Bohemians",
-            "away_team": "Drogheda",
-            "page_status": 200,
-            "page_title": "FawaNews - Bohemians vs Drogheda - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.55/hls/UNNNAAA.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.55/hls/UNNNAAA.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.55/hls/UNNNAAA.m3u8"
-            ]
-        },
-        {
-            "name": "Agen vs US Oyonnax",
-            "type": "live_event",
-            "league": "France Rugby Pro D2",
-            "time": "20:00",
-            "image_url": "https://pbs.twimg.com/profile_images/1658978316324356098/0MfeHTZ8_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Agen vs US Oyonnax.html",
-            "home_team": "Agen",
-            "away_team": "US Oyonnax",
-            "page_status": 200,
-            "page_title": "FawaNews - Agen vs US Oyonnax - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.55/hls/UNNNAA.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.55/hls/UNNNAA.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.55/hls/UNNNAA.m3u8"
-            ]
-        },
-        {
-            "name": "Polonia Bytom vs Ruch Chorzow",
-            "type": "live_event",
-            "league": "Poland Division 1",
-            "time": "19:45",
-            "image_url": "https://pbs.twimg.com/profile_images/1852296144723869696/2Ad94oXN_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Polonia Bytom vs Ruch Chorzow.html",
-            "home_team": "Polonia Bytom",
-            "away_team": "Ruch Chorzow",
-            "page_status": 200,
-            "page_title": "FawaNews - Polonia Bytom vs Ruch Chorzow - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.55/hls/USSS.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.55/hls/USSS.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.55/hls/USSS.m3u8"
-            ]
-        },
-        {
-            "name": "Oskarshamn vs Visby Roma",
-            "type": "live_event",
-            "league": "Sweden HockeyAllsvenskan",
-            "time": "19:00",
-            "image_url": "https://pbs.twimg.com/profile_images/2099574859923681280/DSz61zyx_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Oskarshamn vs Visby Roma.html",
-            "home_team": "Oskarshamn",
-            "away_team": "Visby Roma",
-            "page_status": 200,
-            "page_title": "FawaNews - Oskarshamn vs Visby Roma - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.59/hls/GJJJAA.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.59/hls/GJJJAA.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.59/hls/GJJJAA.m3u8"
-            ]
-        },
-        {
-            "name": "Darts World Series Finals",
-            "type": "live_event",
-            "league": "Darts",
-            "time": "18:00",
-            "image_url": "https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Darts World Series Finals.html",
-            "page_status": 200,
-            "page_title": "FawaNews - Darts World Series Finals - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.52/hls/FYYYQQQ.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.52/hls/FYYYQQQ.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.52/hls/FYYYQQQ.m3u8"
-            ]
-        },
-        {
-            "name": "Leksand vs Sodertalje",
-            "type": "live_event",
-            "league": "Sweden HockeyAllsvenskan",
-            "time": "18:00",
-            "image_url": "https://pbs.twimg.com/profile_images/2099574859923681280/DSz61zyx_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Leksand vs Sodertalje.html",
-            "home_team": "Leksand",
-            "away_team": "Sodertalje",
-            "page_status": 200,
-            "page_title": "FawaNews - Leksand vs Sodertalje - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.56/hls/BBBBQQ.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.56/hls/BBBBQQ.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.56/hls/BBBBQQ.m3u8"
-            ]
-        },
-        {
-            "name": "Golf PGA Biltmore Championship",
-            "type": "live_event",
-            "league": "Golf PGA",
-            "time": "14:00",
-            "image_url": "https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Golf PGA Biltmore Championship_1.html",
-            "page_status": 200,
-            "page_title": "FawaNews - Golf PGA Biltmore Championship - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.44/hls/DOOOF.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.44/hls/DOOOF.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.44/hls/DOOOF.m3u8"
             ]
         },
         {
