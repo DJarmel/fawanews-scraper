@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-17T23:13:16.676830",
-    "total_with_streams": 27,
+    "fetched_at": "2026-09-18T01:21:01.050124",
+    "total_with_streams": 26,
     "events_with_streams": [
         {
             "name": "Buffalo Bills vs Detroit Lions --- CH 1",
@@ -364,20 +364,6 @@
                 {
                     "original_url": "http://193.47.62.55/hls/GRRR.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/GRRR.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "Golf PGA Biltmore Championship",
-            "type": "live_event",
-            "league": "Golf PGA",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Golf PGA Biltmore Championship.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.52/hls/iiiia.m3u8",
-                    "m3u_url": "http://193.47.62.52/hls/iiiia.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         }
