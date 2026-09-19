@@ -1,8 +1,36 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-18T23:25:17.060307",
-    "total_with_streams": 38,
+    "fetched_at": "2026-09-19T01:20:32.360677",
+    "total_with_streams": 42,
     "events_with_streams": [
+        {
+            "name": "Texas Tech vs Houston",
+            "type": "live_event",
+            "league": "NCAA American Football",
+            "time": "01:00",
+            "page_link": "http://www.fawanews.sc/Texas Tech vs Houston.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/ICCCA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/ICCCA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "Wake Forest vs Miami FL",
+            "type": "live_event",
+            "league": "NCAA American Football",
+            "time": "00:30",
+            "page_link": "http://www.fawanews.sc/Wake Forest vs Miami FL.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/KQQQAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/KQQQAAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
         {
             "name": "Juarez vs Tigres UANL",
             "type": "live_event",
@@ -242,16 +270,48 @@
             ]
         },
         {
-            "name": "Texas Tech vs Houston",
+            "name": "Real American Freestyle Wrestling",
             "type": "live_event",
-            "league": "NCAA American Football",
+            "league": "RAF Wrestling",
             "time": "01:00",
-            "page_link": "http://www.fawanews.sc/Texas Tech vs Houston.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Real American Freestyle Wrestling.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1961150067060215811/PVB20pQZ_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.50/hls/ICCCA.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/ICCCA.m3u8|Referer=http://www.fawanews.sc"
+                    "original_url": "http://193.47.62.41/hls/frfrfr.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/frfrfr.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "WWE Friday Night Smackdown --- SD",
+            "type": "live_event",
+            "league": "WWE Wrestling",
+            "time": "01:00",
+            "page_link": "http://www.fawanews.sc/WWE Friday Night Smackdown.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/ICCCAA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/ICCCAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "WWE Friday Night Smackdown --- HD",
+            "type": "live_event",
+            "league": "WWE Wrestling",
+            "time": "01:00",
+            "page_link": "http://www.fawanews.sc/WWE Friday Night Smackdown --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://plex.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+                    "m3u_url": "https://plex.fromthyheart.site/dailymotion/live/playlist/5.m3u8|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://plex.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+                    "m3u_url": "http://plex.fromthyheart.site/dailymotion/live/playlist/5.m3u8|Referer=http://www.fawanews.sc"
                 }
             ]
         },
@@ -284,21 +344,7 @@
             ]
         },
         {
-            "name": "Wake Forest vs Miami FL",
-            "type": "live_event",
-            "league": "NCAA American Football",
-            "time": "00:30",
-            "page_link": "http://www.fawanews.sc/Wake Forest vs Miami FL.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/KQQQAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/KQQQAAAAA.m3u8|Referer=http://www.fawanews.sc"
-                }
-            ]
-        },
-        {
-            "name": "New York City vs New York Red Bulls",
+            "name": "New York City vs New York Red Bulls --- CH 1",
             "type": "live_event",
             "league": "MLS League",
             "time": "00:30",
@@ -308,6 +354,24 @@
                 {
                     "original_url": "http://193.47.62.59/hls/KQQQAAAA.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/KQQQAAAA.m3u8|Referer=http://www.fawanews.sc"
+                }
+            ]
+        },
+        {
+            "name": "New York City vs New York Red Bulls --- CH 2",
+            "type": "live_event",
+            "league": "MLS League",
+            "time": "00:30",
+            "page_link": "http://www.fawanews.sc/New York City vs New York Red Bulls --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.dyrur1.com/live/66299550_6120bef98827ed90f08550f68e5e7b5d_540p.m3u8?auth_key=1789790353-0-0-099ab7e85ea7dd54b038ebee1d68be99",
+                    "m3u_url": "https://live2.dyrur1.com/live/66299550_6120bef98827ed90f08550f68e5e7b5d_540p.m3u8?auth_key=1789790353-0-0-099ab7e85ea7dd54b038ebee1d68be99|Referer=http://www.fawanews.sc"
+                },
+                {
+                    "original_url": "http://live2.dyrur1.com/live/66299550_6120bef98827ed90f08550f68e5e7b5d_540p.m3u8?auth_key=1789790353-0-0-099ab7e85ea7dd54b038ebee1d68be99",
+                    "m3u_url": "http://live2.dyrur1.com/live/66299550_6120bef98827ed90f08550f68e5e7b5d_540p.m3u8?auth_key=1789790353-0-0-099ab7e85ea7dd54b038ebee1d68be99|Referer=http://www.fawanews.sc"
                 }
             ]
         },

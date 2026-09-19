@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Texas Tech vs Houston" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Texas Tech vs Houston - 01:00
+http://193.47.62.50/hls/ICCCA.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Wake Forest vs Miami FL" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Wake Forest vs Miami FL - 00:30
+http://193.47.62.59/hls/KQQQAAAAA.m3u8|Referer=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="Juarez vs Tigres UANL" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="Mexico Liga MX",Juarez vs Tigres UANL - 04:00
 http://193.47.62.55/hls/UBBB.m3u8|Referer=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="Oregon vs Portland State" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Oregon vs Portland State - 03:30
@@ -33,16 +37,24 @@ http://193.47.62.50/hls/ICCCAAAAA.m3u8|Referer=http://www.fawanews.sc
 http://193.47.62.50/hls/ICCCAAAA.m3u8|Referer=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="Texas Rangers vs Toronto Blue Jays" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Texas Rangers vs Toronto Blue Jays - 01:05
 http://193.47.62.50/hls/ICCCAAA.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Texas Tech vs Houston" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Texas Tech vs Houston - 01:00
-http://193.47.62.50/hls/ICCCA.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="Real American Freestyle Wrestling" tvg-logo="https://pbs.twimg.com/profile_images/1961150067060215811/PVB20pQZ_400x400.jpg" group-title="RAF Wrestling",Real American Freestyle Wrestling - 01:00
+http://193.47.62.41/hls/frfrfr.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="WWE Friday Night Smackdown --- SD" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg" group-title="WWE Wrestling",WWE Friday Night Smackdown --- SD - 01:00
+http://193.47.62.50/hls/ICCCAA.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="WWE Friday Night Smackdown --- HD [1]" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg" group-title="WWE Wrestling",WWE Friday Night Smackdown --- HD [1] - 01:00
+https://plex.fromthyheart.site/dailymotion/live/playlist/5.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="WWE Friday Night Smackdown --- HD [2]" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg" group-title="WWE Wrestling",WWE Friday Night Smackdown --- HD [2] - 01:00
+http://plex.fromthyheart.site/dailymotion/live/playlist/5.m3u8|Referer=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="Sao Bernardo vs Atletico GO" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie B",Sao Bernardo vs Atletico GO - 01:00
 http://193.47.62.50/hls/ICCC.m3u8|Referer=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="Chicago White Sox vs Detroit Tigers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Chicago White Sox vs Detroit Tigers - 00:40
 http://193.47.62.59/hls/KQQQAAAAAA.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="Wake Forest vs Miami FL" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Wake Forest vs Miami FL - 00:30
-http://193.47.62.59/hls/KQQQAAAAA.m3u8|Referer=http://www.fawanews.sc
-#EXTINF:-1 tvg-name="New York City vs New York Red Bulls" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",New York City vs New York Red Bulls - 00:30
+#EXTINF:-1 tvg-name="New York City vs New York Red Bulls --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",New York City vs New York Red Bulls --- CH 1 - 00:30
 http://193.47.62.59/hls/KQQQAAAA.m3u8|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="New York City vs New York Red Bulls --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",New York City vs New York Red Bulls --- CH 2 [1] - 00:30
+https://live2.dyrur1.com/live/66299550_6120bef98827ed90f08550f68e5e7b5d_540p.m3u8?auth_key=1789790353-0-0-099ab7e85ea7dd54b038ebee1d68be99|Referer=http://www.fawanews.sc
+#EXTINF:-1 tvg-name="New York City vs New York Red Bulls --- CH 2 [2]" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",New York City vs New York Red Bulls --- CH 2 [2] - 00:30
+http://live2.dyrur1.com/live/66299550_6120bef98827ed90f08550f68e5e7b5d_540p.m3u8?auth_key=1789790353-0-0-099ab7e85ea7dd54b038ebee1d68be99|Referer=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="Hamilton Tiger-Cats vs Montreal Alouettes" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/CFL_2016_logo.svg" group-title="CFL Canadian Football",Hamilton Tiger-Cats vs Montreal Alouettes - 00:30
 http://193.47.62.59/hls/KQQQAAA.m3u8|Referer=http://www.fawanews.sc
 #EXTINF:-1 tvg-name="Minnesota Lynx W vs New York Liberty W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Minnesota Lynx W vs New York Liberty W - 00:30
