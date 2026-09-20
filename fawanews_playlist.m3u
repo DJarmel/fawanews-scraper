@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="FC Porto vs Benfica --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1963974021612978176/_dTeQPEr_400x400.jpg" group-title="Portugal Primeira Liga",FC Porto vs Benfica --- CH 1 - 20:30
-http://193.47.62.59/hls/vlllqQQQq.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="FC Porto vs Benfica --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/1963974021612978176/_dTeQPEr_400x400.jpg" group-title="Portugal Primeira Liga",FC Porto vs Benfica --- CH 2 [1] - 20:30
-https://www.rtmpcdn.com/live/527d9888-17cd-45d3-953f-7809b7d262f5.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="FC Porto vs Benfica --- CH 2 [2]" tvg-logo="https://pbs.twimg.com/profile_images/1963974021612978176/_dTeQPEr_400x400.jpg" group-title="Portugal Primeira Liga",FC Porto vs Benfica --- CH 2 [2] - 20:30
-http://www.rtmpcdn.com/live/527d9888-17cd-45d3-953f-7809b7d262f5.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="NFL Red Zone [1]" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",NFL Red Zone [1] - --:--
 http://193.47.62.41/hls/fafafaaaaa.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="NFL Red Zone [2]" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",NFL Red Zone [2] - --:--
@@ -29,10 +23,6 @@ http://193.47.62.44/hls/voooo.m3u8|Referer=http://www.fawanews.sc/
 http://193.47.62.50/hls/gkkkk.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Denver Broncos vs Jacksonville Jaguars [2]" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Denver Broncos vs Jacksonville Jaguars [2] - 21:05
 http://193.47.62.55/hls/gkkkk.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Tampa Bay Buccaneers vs Cleveland Browns [1]" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Tampa Bay Buccaneers vs Cleveland Browns [1] - 18:00
-http://193.47.62.41/hls/fafafaaaa.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Tampa Bay Buccaneers vs Cleveland Browns [2]" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Tampa Bay Buccaneers vs Cleveland Browns [2] - 18:00
-http://193.47.62.44/hls/fafafaaaa.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Athletico-PR vs Bahia" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie A",Athletico-PR vs Bahia - 23:30
 http://193.47.62.59/hls/GUUUQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Belgrano vs Estudiantes Rio Cuarto" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg" group-title="Argentina Liga Profesional",Belgrano vs Estudiantes Rio Cuarto - 23:15
