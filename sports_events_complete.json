@@ -2,8 +2,8 @@
     "source": "fawanews.sc",
     "source_url": "http://www.fawanews.sc/",
     "referer": "http://www.fawanews.sc/",
-    "fetched_at": "2026-09-20T21:14:17.752739",
-    "total_live_events": 35,
+    "fetched_at": "2026-09-20T21:41:01.685302",
+    "total_live_events": 36,
     "total_news_articles": 19,
     "live_events": [
         {
@@ -742,6 +742,57 @@
             ]
         },
         {
+            "name": "The Strongest vs Bolivar",
+            "type": "live_event",
+            "league": "Bolivia Copa",
+            "time": "22:15",
+            "image_url": "https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/The Strongest vs Bolivar.html",
+            "home_team": "The Strongest",
+            "away_team": "Bolivar",
+            "page_status": 200,
+            "page_title": "FawaNews - The Strongest vs Bolivar - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.59/hls/GUUUQQ.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.59/hls/GUUUQQ.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.59/hls/GUUUQQ.m3u8"
+            ]
+        },
+        {
             "name": "Bucaramanga vs Inter Bogota",
             "type": "live_event",
             "league": "Colombia Primera A",
@@ -862,7 +913,7 @@
                 "video_sources": [],
                 "embed_sources": [],
                 "m3u8_links": [
-                    "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7b5e8d7d-1fd8-4812-ab5c-2b5095b3d99d/master.m3u8"
+                    "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c7bf8d52-8654-4180-8dc1-9cdb253a024d/master.m3u8"
                 ],
                 "mpd_links": [],
                 "mp4_links": [],
@@ -879,7 +930,7 @@
                     "https://twitter.com/share?ref_src=twsrc%5Etfw",
                     "https://platform.twitter.com/widgets.js",
                     "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7b5e8d7d-1fd8-4812-ab5c-2b5095b3d99d/master.m3u8",
+                    "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c7bf8d52-8654-4180-8dc1-9cdb253a024d/master.m3u8",
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
@@ -887,15 +938,15 @@
                     "http://platform.twitter.com/widgets.js",
                     "http://acscdn.com/script/aclib.js",
                     "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7b5e8d7d-1fd8-4812-ab5c-2b5095b3d99d/master.m3u8",
+                    "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c7bf8d52-8654-4180-8dc1-9cdb253a024d/master.m3u8",
                     "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://s10.histats.com/js15_as.js"
                 ]
             },
             "best_stream_urls": [
-                "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7b5e8d7d-1fd8-4812-ab5c-2b5095b3d99d/master.m3u8",
-                "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7b5e8d7d-1fd8-4812-ab5c-2b5095b3d99d/master.m3u8"
+                "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c7bf8d52-8654-4180-8dc1-9cdb253a024d/master.m3u8",
+                "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c7bf8d52-8654-4180-8dc1-9cdb253a024d/master.m3u8"
             ]
         },
         {
@@ -2299,6 +2350,7 @@
                     "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg",
@@ -2338,6 +2390,7 @@
                     "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg",
@@ -2371,6 +2424,7 @@
                     "http://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg",
@@ -2468,6 +2522,7 @@
                     "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg",
@@ -2507,6 +2562,7 @@
                     "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg",
@@ -2540,6 +2596,7 @@
                     "http://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg",
@@ -2636,6 +2693,7 @@
                     "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg",
@@ -2675,6 +2733,7 @@
                     "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg",
@@ -2708,6 +2767,7 @@
                     "http://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg",
@@ -2812,6 +2872,7 @@
                     "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg",
@@ -2851,6 +2912,7 @@
                     "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg",
@@ -2884,6 +2946,7 @@
                     "http://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg",
@@ -2980,6 +3043,7 @@
                     "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg",
@@ -3019,6 +3083,7 @@
                     "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg",
@@ -3052,6 +3117,7 @@
                     "http://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg",
