@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-21T14:15:13.094606",
-    "total_with_streams": 25,
+    "fetched_at": "2026-09-21T14:43:53.966110",
+    "total_with_streams": 26,
     "events_with_streams": [
         {
             "name": "Petrolul vs Csikszereda M Ciuc",
@@ -224,6 +224,20 @@
                 {
                     "original_url": "http://193.47.62.59/hls/ZYYYQQa.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/ZYYYQQa.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Leiria U23 vs Gil Vicente U23",
+            "type": "live_event",
+            "league": "Portugal U23",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Leiria U23 vs Gil Vicente U23.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1963974021612978176/_dTeQPEr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/ZYYYQQaa.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/ZYYYQQaa.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
