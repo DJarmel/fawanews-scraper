@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Cycling UCI Road World Championships" tvg-logo="https://pbs.twimg.com/profile_images/1158457373423472641/ltjhInLQ_400x400.jpg" group-title="Cycling",Cycling UCI Road World Championships - 14:00
+http://193.47.62.59/hls/JJJJ.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="South Africa U20 vs Angola U20" tvg-logo="https://pbs.twimg.com/profile_images/1585877185382043649/dT99TLst_400x400.jpg" group-title="COSAFA Championship U20",South Africa U20 vs Angola U20 - 14:00
 http://193.47.62.59/hls/guuuAAAAa.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Botswana U20 vs Malawi U20" tvg-logo="https://pbs.twimg.com/profile_images/1585877185382043649/dT99TLst_400x400.jpg" group-title="COSAFA Championship U20",Botswana U20 vs Malawi U20 - 13:00
@@ -7,18 +9,6 @@ http://193.47.62.59/hls/guuuAAAa.m3u8|Referer=http://www.fawanews.sc/
 http://193.47.62.194/hls/vavavava.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Horse Racing --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing --- CH 2 - 13:00
 http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Vietnam W vs Thailand W" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Asian Games",Vietnam W vs Thailand W - 11:30
-http://193.47.62.59/hls/guuuAAa.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Japan W vs Chinese Taipei W" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Asian Games",Japan W vs Chinese Taipei W - 11:30
-http://193.47.62.59/hls/guuuAa.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="China W vs Indonesia W --- SD" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball Asian Games",China W vs Indonesia W --- SD - 11:00
-http://193.47.62.59/hls/guuua.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="China W vs Indonesia W --- HD [1]" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball Asian Games",China W vs Indonesia W --- HD [1] - 11:00
-https://www.rtmpcdn.com/live/75449d29-87f1-44a5-a96b-77cdab19b14b.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="China W vs Indonesia W --- HD [2]" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg" group-title="Basketball Asian Games",China W vs Indonesia W --- HD [2] - 11:00
-http://www.rtmpcdn.com/live/75449d29-87f1-44a5-a96b-77cdab19b14b.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Zambia U20 vs Comoros U20" tvg-logo="https://pbs.twimg.com/profile_images/1585877185382043649/dT99TLst_400x400.jpg" group-title="COSAFA Championship U20",Zambia U20 vs Comoros U20 - 10:00
-http://193.47.62.59/hls/guuu.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Snooker Scottish Open --- Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Scottish Open --- Table 1 - 10:00
 http://193.47.62.44/hls/grrrAAA.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Snooker Scottish Open --- Table 2" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Scottish Open --- Table 2 - 10:00
