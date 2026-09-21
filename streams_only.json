@@ -1,75 +1,173 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-21T08:43:20.453126",
-    "total_with_streams": 5,
+    "fetched_at": "2026-09-21T09:16:11.768670",
+    "total_with_streams": 12,
     "events_with_streams": [
         {
-            "name": "South Korea W vs North Korea W",
+            "name": "South Africa U20 vs Angola U20",
             "type": "live_event",
-            "league": "Asian Games",
-            "time": "08:00",
-            "page_link": "http://www.fawanews.sc/South Korea W vs North Korea W.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+            "league": "COSAFA Championship U20",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/South Africa U20 vs Angola U20.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1585877185382043649/dT99TLst_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.59/hls/GSSSAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/GSSSAAAAA.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.59/hls/guuuAAAAa.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/guuuAAAAa.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
         {
-            "name": "Uzbekistan W vs Hong Kong W",
+            "name": "Botswana U20 vs Malawi U20",
             "type": "live_event",
-            "league": "Asian Games",
-            "time": "08:00",
-            "page_link": "http://www.fawanews.sc/Uzbekistan W vs Hong Kong W.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+            "league": "COSAFA Championship U20",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Botswana U20 vs Malawi U20.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1585877185382043649/dT99TLst_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.59/hls/GSSSAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/GSSSAAAA.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.59/hls/guuuAAAa.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/guuuAAAa.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
         {
-            "name": "China W vs Philippines W",
+            "name": "Horse Racing --- CH 1",
             "type": "live_event",
-            "league": "Asian Games",
-            "time": "08:00",
-            "page_link": "http://www.fawanews.sc/China W vs Philippines W.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+            "league": "Horse Racing",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Horse Racing 11.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.59/hls/GSSSAAA.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/GSSSAAA.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.194/hls/vavavava.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/vavavava.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
         {
-            "name": "Bangladesh W vs Myanmar W",
+            "name": "Horse Racing --- CH 2",
             "type": "live_event",
-            "league": "Asian Games",
-            "time": "08:00",
-            "page_link": "http://www.fawanews.sc/Bangladesh W vs Myanmar W.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+            "league": "Horse Racing",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Horse Racing 22.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.59/hls/GSSSAA.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/GSSSAA.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.194/hls/vavavavaq.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
         {
-            "name": "Malaysia W vs Chinese Taipei W",
+            "name": "Vietnam W vs Thailand W",
+            "type": "live_event",
+            "league": "Asian Games",
+            "time": "11:30",
+            "page_link": "http://www.fawanews.sc/Vietnam W vs Thailand W.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/guuuAAa.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/guuuAAa.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Japan W vs Chinese Taipei W",
+            "type": "live_event",
+            "league": "Asian Games",
+            "time": "11:30",
+            "page_link": "http://www.fawanews.sc/Japan W vs Chinese Taipei W.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/guuuAa.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/guuuAa.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "China W vs Indonesia W",
             "type": "live_event",
             "league": "Basketball Asian Games",
-            "time": "08:00",
-            "page_link": "http://www.fawanews.sc/Malaysia W vs Chinese Taipei W.html",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/China W vs Indonesia W.html",
             "image_url": "https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.59/hls/GSSSA.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/GSSSA.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.59/hls/guuua.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/guuua.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Zambia U20 vs Comoros U20",
+            "type": "live_event",
+            "league": "COSAFA Championship U20",
+            "time": "10:00",
+            "page_link": "http://www.fawanews.sc/Zambia U20 vs Comoros U20.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1585877185382043649/dT99TLst_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/guuu.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/guuu.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Snooker Scottish Open --- Table 1",
+            "type": "live_event",
+            "league": "Snooker",
+            "time": "10:00",
+            "page_link": "http://www.fawanews.sc/Snooker Scottish Open --- Table 1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/grrrAAA.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/grrrAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Snooker Scottish Open --- Table 2",
+            "type": "live_event",
+            "league": "Snooker",
+            "time": "10:00",
+            "page_link": "http://www.fawanews.sc/Snooker Scottish Open --- Table 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/grrrAA.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/grrrAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Snooker Scottish Open --- Table 3",
+            "type": "live_event",
+            "league": "Snooker",
+            "time": "10:00",
+            "page_link": "http://www.fawanews.sc/Snooker Scottish Open --- Table 3.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/grrrA.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/grrrA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Snooker Scottish Open --- Table 4",
+            "type": "live_event",
+            "league": "Snooker",
+            "time": "10:00",
+            "page_link": "http://www.fawanews.sc/Snooker Scottish Open --- Table 4.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/grrr.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/grrr.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         }
