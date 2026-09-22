@@ -1,8 +1,36 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-22T17:41:35.780658",
-    "total_with_streams": 36,
+    "fetched_at": "2026-09-22T18:18:46.244817",
+    "total_with_streams": 38,
     "events_with_streams": [
+        {
+            "name": "Real Madrid W vs PSG W",
+            "type": "live_event",
+            "league": "UEFA Women Champions League",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Real Madrid W vs PSG W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/i555AA.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/i555AA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Juventus W vs SL Benfica W",
+            "type": "live_event",
+            "league": "UEFA Women Champions League",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Juventus W vs SL Benfica W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/i555.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/i555.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
         {
             "name": "Bromley vs Brentford U21",
             "type": "live_event",
@@ -12,8 +40,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.44/hls/L666AAAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/L666AAAAAAA.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.47/hls/L666AAAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/L666AAAAAAA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -26,8 +54,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.44/hls/L666AAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/L666AAAAAA.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.47/hls/L666AAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/L666AAAAAA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -40,8 +68,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.44/hls/L666AAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/L666AAAAA.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.47/hls/L666AAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/L666AAAAA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -54,8 +82,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.44/hls/L666AAAA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/L666AAAA.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.47/hls/L666AAAA.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/L666AAAA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -68,8 +96,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.44/hls/L666AAA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/L666AAA.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.47/hls/L666AAA.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/L666AAA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -82,8 +110,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.44/hls/L666AA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/L666AA.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.47/hls/L666AA.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/L666AA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -96,8 +124,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.44/hls/L666A.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/L666A.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.47/hls/L666A.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/L666A.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -110,8 +138,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.44/hls/L666.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/L666.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.47/hls/L666.m3u8",
+                    "m3u_url": "http://193.47.62.47/hls/L666.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -124,8 +152,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.55/hls/f888AAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/f888AAAAAA.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.53/hls/f888AAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.53/hls/f888AAAAAA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -138,8 +166,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.55/hls/f888AAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/f888AAAAA.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.53/hls/f888AAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.53/hls/f888AAAAA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -152,8 +180,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.55/hls/f888AAAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/f888AAAA.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.53/hls/f888AAAA.m3u8",
+                    "m3u_url": "http://193.47.62.53/hls/f888AAAA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -166,8 +194,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.55/hls/f888AAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/f888AAA.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.53/hls/f888AAA.m3u8",
+                    "m3u_url": "http://193.47.62.53/hls/f888AAA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -180,8 +208,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.55/hls/f888AA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/f888AA.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.53/hls/f888AA.m3u8",
+                    "m3u_url": "http://193.47.62.53/hls/f888AA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -194,8 +222,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.55/hls/f888A.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/f888A.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.53/hls/f888A.m3u8",
+                    "m3u_url": "http://193.47.62.53/hls/f888A.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -208,8 +236,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.55/hls/f888.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/f888.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.53/hls/f888.m3u8",
+                    "m3u_url": "http://193.47.62.53/hls/f888.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -222,8 +250,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.50/hls/a444Aaaaaqq.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/a444Aaaaaqq.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.48/hls/a444Aaaaaqq.m3u8",
+                    "m3u_url": "http://193.47.62.48/hls/a444Aaaaaqq.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -236,8 +264,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.50/hls/a444Aaaaaq.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/a444Aaaaaq.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.48/hls/a444Aaaaaq.m3u8",
+                    "m3u_url": "http://193.47.62.48/hls/a444Aaaaaq.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -250,8 +278,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.50/hls/a444Aaaaa.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/a444Aaaaa.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.48/hls/a444Aaaaa.m3u8",
+                    "m3u_url": "http://193.47.62.48/hls/a444Aaaaa.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -264,8 +292,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.50/hls/a444Aaaa.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/a444Aaaa.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.48/hls/a444Aaaa.m3u8",
+                    "m3u_url": "http://193.47.62.48/hls/a444Aaaa.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -278,8 +306,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.50/hls/a444Aaa.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/a444Aaa.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.48/hls/a444Aaa.m3u8",
+                    "m3u_url": "http://193.47.62.48/hls/a444Aaa.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -292,8 +320,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.50/hls/a444Aa.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/a444Aa.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.48/hls/a444Aa.m3u8",
+                    "m3u_url": "http://193.47.62.48/hls/a444Aa.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -306,8 +334,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.50/hls/a444A.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/a444A.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.48/hls/a444A.m3u8",
+                    "m3u_url": "http://193.47.62.48/hls/a444A.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -320,8 +348,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.50/hls/a444.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/a444.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.48/hls/a444.m3u8",
+                    "m3u_url": "http://193.47.62.48/hls/a444.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -488,8 +516,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1937381899296452608/lu9fXpb9_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.59/hls/diiiAAAAQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/diiiAAAAQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.59/hls/i555A.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/i555A.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
