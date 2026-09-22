@@ -1,8 +1,78 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-22T09:41:40.009687",
-    "total_with_streams": 5,
+    "fetched_at": "2026-09-22T10:16:02.456818",
+    "total_with_streams": 10,
     "events_with_streams": [
+        {
+            "name": "Horse Racing --- CH 1",
+            "type": "live_event",
+            "league": "Horse Racing",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Horse Racing 11.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/vavavava.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/vavavava.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Horse Racing --- CH 2",
+            "type": "live_event",
+            "league": "Horse Racing",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Horse Racing 22.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/vavavavaq.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "England vs Sri Lanka",
+            "type": "live_event",
+            "league": "Cricket",
+            "time": "12:30",
+            "page_link": "http://www.fawanews.sc/England vs Sri Lanka.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/K999.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/K999.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "South Korea U23 vs Saudi Arabia U23",
+            "type": "live_event",
+            "league": "Asian Games",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/South Korea U23 vs Saudi Arabia U23.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/IHHHA.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/IHHHA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Mongolia W vs Malaysia W",
+            "type": "live_event",
+            "league": "Basketball Asian Games",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Mongolia W vs Malaysia W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/IHHH.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/IHHH.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
         {
             "name": "Brisbane Bullets vs New Zealand Breakers",
             "type": "live_event",
