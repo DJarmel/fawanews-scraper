@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-22T18:18:46.244817",
-    "total_with_streams": 38,
+    "fetched_at": "2026-09-22T18:45:21.300147",
+    "total_with_streams": 40,
     "events_with_streams": [
         {
             "name": "Real Madrid W vs PSG W",
@@ -9,11 +9,11 @@
             "league": "UEFA Women Champions League",
             "time": "20:00",
             "page_link": "http://www.fawanews.sc/Real Madrid W vs PSG W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "image_url": "https://pbs.twimg.com/profile_images/1937381899296452608/lu9fXpb9_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.59/hls/i555AA.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/i555AA.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.56/hls/i555AA.m3u8",
+                    "m3u_url": "http://193.47.62.56/hls/i555AA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -23,11 +23,39 @@
             "league": "UEFA Women Champions League",
             "time": "20:00",
             "page_link": "http://www.fawanews.sc/Juventus W vs SL Benfica W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",
+            "image_url": "https://pbs.twimg.com/profile_images/1937381899296452608/lu9fXpb9_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.59/hls/i555.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/i555.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.56/hls/i555.m3u8",
+                    "m3u_url": "http://193.47.62.56/hls/i555.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Arsenal W vs Koge W",
+            "type": "live_event",
+            "league": "UEFA Women Champions League",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Arsenal W vs Koge W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1937381899296452608/lu9fXpb9_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/i555AAAA.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/i555AAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "East Kilbride v Celtic B",
+            "type": "live_event",
+            "league": "Scottish KDM Trophy",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/East Kilbride v Celtic B.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2561726798/zmbnbymb44i2qwh4t2bs_400x400.jpeg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.56/hls/i555AAA.m3u8",
+                    "m3u_url": "http://193.47.62.56/hls/i555AAA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -516,8 +544,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/1937381899296452608/lu9fXpb9_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.59/hls/i555A.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/i555A.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.56/hls/i555A.m3u8",
+                    "m3u_url": "http://193.47.62.56/hls/i555A.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
