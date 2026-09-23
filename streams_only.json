@@ -1,8 +1,50 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-23T18:45:13.389086",
+    "fetched_at": "2026-09-23T19:13:53.828323",
     "total_with_streams": 38,
     "events_with_streams": [
+        {
+            "name": "Bahamas vs Saint Martin",
+            "type": "live_event",
+            "league": "CONCACAF CONCACAF Nations League",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/Bahamas vs Saint Martin.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/EMMMA.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/EMMMA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "AD Tarma vs Cienciano",
+            "type": "live_event",
+            "league": "Peru Liga 1 Apertura",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/AD Tarma vs Cienciano.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/EMMM.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/EMMM.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "San Francisco Giants vs Minnesota Twins",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "20:45",
+            "page_link": "http://www.fawanews.sc/San Francisco Giants vs Minnesota Twins.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/IQQQEEEEQAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/IQQQEEEEQAAAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
         {
             "name": "Italy vs Finland",
             "type": "live_event",
@@ -438,48 +480,6 @@
                 {
                     "original_url": "http://193.47.62.44/hls/HBBB.m3u8",
                     "m3u_url": "http://193.47.62.44/hls/HBBB.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Servette Geneve FC W vs OL Lyonnes W",
-            "type": "live_event",
-            "league": "UEFA Women Champions League",
-            "time": "17:45",
-            "page_link": "http://www.fawanews.sc/Servette Geneve FC W vs OL Lyonnes W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1937381899296452608/lu9fXpb9_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/JFFFAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/JFFFAAAAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Leuven W vs AS Roma W",
-            "type": "live_event",
-            "league": "UEFA Women Champions League",
-            "time": "17:45",
-            "page_link": "http://www.fawanews.sc/Leuven W vs AS Roma W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1937381899296452608/lu9fXpb9_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/JFFFAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/JFFFAAAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "St Polten W vs Malmo FF W",
-            "type": "live_event",
-            "league": "UEFA Europa Cup Women",
-            "time": "17:45",
-            "page_link": "http://www.fawanews.sc/St Polten W vs Malmo FF W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1937381899296452608/lu9fXpb9_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/JFFFAAA.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/JFFFAAA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
