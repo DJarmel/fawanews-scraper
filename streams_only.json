@@ -1,8 +1,22 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-23T13:44:07.882782",
-    "total_with_streams": 13,
+    "fetched_at": "2026-09-23T14:15:39.252314",
+    "total_with_streams": 14,
     "events_with_streams": [
+        {
+            "name": "Iraq vs Oman",
+            "type": "live_event",
+            "league": "Arabian Gulf Cup",
+            "time": "15:30",
+            "page_link": "http://www.fawanews.sc/Iraq vs Oman.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/EEEE.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/EEEE.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
         {
             "name": "SK Kladno vs Ostrava",
             "type": "live_event",
