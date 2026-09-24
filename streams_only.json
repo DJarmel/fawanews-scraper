@@ -1,8 +1,40 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-24T10:43:28.949049",
-    "total_with_streams": 24,
+    "fetched_at": "2026-09-24T11:14:36.865336",
+    "total_with_streams": 26,
     "events_with_streams": [
+        {
+            "name": "Uzbekistan vs Iran --- CH 1",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Uzbekistan vs Iran.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/ELLLAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/ELLLAAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Uzbekistan vs Iran --- CH 2",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Uzbekistan vs Iran --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/48c69930-2ac1-482b-b0eb-237470fac2f7.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/48c69930-2ac1-482b-b0eb-237470fac2f7.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/48c69930-2ac1-482b-b0eb-237470fac2f7.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/48c69930-2ac1-482b-b0eb-237470fac2f7.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
         {
             "name": "Namibia vs Congo --- CH 1",
             "type": "live_event",

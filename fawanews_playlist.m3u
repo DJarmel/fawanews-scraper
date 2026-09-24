@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Uzbekistan vs Iran --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Uzbekistan vs Iran --- CH 1 - 15:00
+http://193.47.62.55/hls/ELLLAAAA.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Uzbekistan vs Iran --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Uzbekistan vs Iran --- CH 2 [1] - 15:00
+https://www.rtmpcdn.com/live/48c69930-2ac1-482b-b0eb-237470fac2f7.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Uzbekistan vs Iran --- CH 2 [2]" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Uzbekistan vs Iran --- CH 2 [2] - 15:00
+http://www.rtmpcdn.com/live/48c69930-2ac1-482b-b0eb-237470fac2f7.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Namibia vs Congo --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg" group-title="Africa Cup of Nations Qualification",Namibia vs Congo --- CH 1 - 14:00
 http://193.47.62.55/hls/ELLLAA.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Namibia vs Congo --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg" group-title="Africa Cup of Nations Qualification",Namibia vs Congo --- CH 2 [1] - 14:00
