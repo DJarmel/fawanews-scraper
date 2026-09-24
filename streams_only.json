@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-24T19:42:19.478335",
-    "total_with_streams": 58,
+    "fetched_at": "2026-09-24T20:17:07.341835",
+    "total_with_streams": 51,
     "events_with_streams": [
         {
             "name": "Ivory Coast vs Ghana --- CH 1",
@@ -822,90 +822,6 @@
             ]
         },
         {
-            "name": "Orebro vs IF Bjorkloven",
-            "type": "live_event",
-            "league": "Sweden Hockey SHL",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Orebro vs IF Bjorkloven.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2052693259969871878/ek73wcjc_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/YEEEqqqq.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/YEEEqqqq.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Lulea vs Frolunda",
-            "type": "live_event",
-            "league": "Sweden Hockey SHL",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Lulea vs Frolunda.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2052693259969871878/ek73wcjc_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/YEEEqqq.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/YEEEqqq.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "HV 71 vs Skelleftea",
-            "type": "live_event",
-            "league": "Sweden Hockey SHL",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/HV 71 vs Skelleftea.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2052693259969871878/ek73wcjc_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/YEEEqq.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/YEEEqq.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Farjestad vs Rogle",
-            "type": "live_event",
-            "league": "Sweden Hockey SHL",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Farjestad vs Rogle.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2052693259969871878/ek73wcjc_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/YEEEq.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/YEEEq.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Djurgarden vs Vaxjo",
-            "type": "live_event",
-            "league": "Sweden Hockey SHL",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Djurgarden vs Vaxjo.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2052693259969871878/ek73wcjc_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/YEEE.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/YEEE.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Pittsburgh Pirates vs St Louis Cardinals",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "17:35",
-            "page_link": "http://www.fawanews.sc/Pittsburgh Pirates vs St Louis Cardinals.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/veeeAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/veeeAAAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
             "name": "Golf PGA Presidents Cup",
             "type": "live_event",
             "league": "Golf PGA",
@@ -930,20 +846,6 @@
                 {
                     "original_url": "http://193.47.62.59/hls/ELLLA.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/ELLLA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Tennis WTA Billie Jean King Cup",
-            "type": "live_event",
-            "league": "Tennis WTA",
-            "time": "10:45",
-            "page_link": "http://www.fawanews.sc/Tennis WTA Billie Jean King Cup.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/XAXAXADDD.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/XAXAXADDD.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         }
