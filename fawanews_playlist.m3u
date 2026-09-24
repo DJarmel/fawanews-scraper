@@ -3,13 +3,17 @@
 http://193.47.62.44/hls/RARARADDDDQQQQ.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Los Angeles Dodgers vs San Diego Padres" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Los Angeles Dodgers vs San Diego Padres - 03:10
 http://193.47.62.44/hls/RARARADDDDQQQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Seattle Storm W vs Dallas Wings W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Seattle Storm W vs Dallas Wings W - 03:00
+#EXTINF:-1 tvg-name="Seattle Storm W vs Dallas Wings W --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Seattle Storm W vs Dallas Wings W --- CH 1 - 03:00
 http://193.47.62.44/hls/RARARADDDDQQ.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Seattle Storm W vs Dallas Wings W --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Seattle Storm W vs Dallas Wings W --- CH 2 [1] - 03:00
+https://www.rtmpcdn.com/live/88bfc923-e425-4b7a-8e55-d39e40b566f8.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Seattle Storm W vs Dallas Wings W --- CH 2 [2]" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Seattle Storm W vs Dallas Wings W --- CH 2 [2] - 03:00
+http://www.rtmpcdn.com/live/88bfc923-e425-4b7a-8e55-d39e40b566f8.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Vancouver FC vs Inter Toronto" tvg-logo="https://pbs.twimg.com/profile_images/2016143587927326720/Fzdrfm_R_400x400.png" group-title="Canada Premier League",Vancouver FC vs Inter Toronto - 03:00
 http://193.47.62.44/hls/RARARADDDDQ.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Athletics vs Los Angeles Angels" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Athletics vs Los Angeles Angels - 02:40
 http://193.47.62.44/hls/RARARADDDD.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Seattle Sounders vs Real Salt Lake" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",Seattle Sounders vs Real Salt Lake - 02:30
+#EXTINF:-1 tvg-name="Seattle Sounders vs Real Salt Lake --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="MLS League",Seattle Sounders vs Real Salt Lake --- CH 1 - 02:30
 http://193.47.62.44/hls/RARARADDD.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Colorado Rockies vs Arizona Diamondbacks" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Colorado Rockies vs Arizona Diamondbacks - 01:40
 http://193.47.62.44/hls/RARARADD.m3u8|Referer=http://www.fawanews.sc/
