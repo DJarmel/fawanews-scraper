@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Boston Red Sox vs Cleveland Guardians" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Boston Red Sox vs Cleveland Guardians - 23:45
+http://193.47.62.50/hls/zkkkAAA.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Philadelphia Phillies vs Milwaukee Brewers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Philadelphia Phillies vs Milwaukee Brewers - 23:05
+http://193.47.62.50/hls/zkkkAA.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Recoleta vs Guairena" tvg-logo="https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg" group-title="Paraguay Copa",Recoleta vs Guairena - 22:30
+http://193.47.62.50/hls/zkkkA.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="OHiggins vs CD Santa" tvg-logo="https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg" group-title="Chile Copa",OHiggins vs CD Santa - 22:00
+http://193.47.62.50/hls/zkkk.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Ivory Coast vs Ghana --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg" group-title="Africa Cup of Nations Qualification",Ivory Coast vs Ghana --- CH 1 - 20:00
 http://193.47.62.41/hls/FAFAFAFAZQQQQ.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Ivory Coast vs Ghana --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg" group-title="Africa Cup of Nations Qualification",Ivory Coast vs Ghana --- CH 2 [1] - 20:00
@@ -157,13 +165,5 @@ http://193.47.62.41/hls/SASASAQQ.m3u8|Referer=http://www.fawanews.sc/
 http://193.47.62.55/hls/ZLLLQQQ.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Kansas City Royals vs Chicago White Sox" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="MLB Baseball",Kansas City Royals vs Chicago White Sox - 19:10
 http://193.47.62.55/hls/ZLLLQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Qatar vs Bahrain --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg" group-title="Arabian Gulf Cup",Qatar vs Bahrain --- CH 1 - 19:00
-http://193.47.62.44/hls/ARRRR.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Qatar vs Bahrain --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg" group-title="Arabian Gulf Cup",Qatar vs Bahrain --- CH 2 [1] - 19:00
-https://live1.dyrur1.com/live/73840440_cacf90a56d7fb1be56ee91687443e346_540p.m3u8?auth_key=1790287839-0-0-b71b3227b23e7853c73b24117ee807c9|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Qatar vs Bahrain --- CH 2 [2]" tvg-logo="https://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg" group-title="Arabian Gulf Cup",Qatar vs Bahrain --- CH 2 [2] - 19:00
-http://live1.dyrur1.com/live/73840440_cacf90a56d7fb1be56ee91687443e346_540p.m3u8?auth_key=1790287839-0-0-b71b3227b23e7853c73b24117ee807c9|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Golf PGA Presidents Cup" tvg-logo="https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg" group-title="Golf PGA",Golf PGA Presidents Cup - 17:30
 http://193.47.62.55/hls/ELLLAAA.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="England vs Sri Lanka" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket",England vs Sri Lanka - 12:30
-http://193.47.62.59/hls/ELLLA.m3u8|Referer=http://www.fawanews.sc/
