@@ -1,6 +1,6 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-24T19:14:49.224533",
+    "fetched_at": "2026-09-24T19:42:19.478335",
     "total_events": 58,
     "events": [
         {
@@ -20,8 +20,7 @@
                 "video_sources": [],
                 "embed_sources": [],
                 "m3u8_links": [
-                    "http://193.47.62.44/hls/FAFAFAFAZQQQQ.m3u8",
-                    "http://193.47.62.59/hls/FAFAFAFAZQQQQ.m3u8"
+                    "http://193.47.62.41/hls/FAFAFAFAZQQQQ.m3u8"
                 ],
                 "mpd_links": [],
                 "mp4_links": [],
@@ -38,8 +37,7 @@
                     "https://twitter.com/share?ref_src=twsrc%5Etfw",
                     "https://platform.twitter.com/widgets.js",
                     "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.44/hls/FAFAFAFAZQQQQ.m3u8",
-                    "http://193.47.62.59/hls/FAFAFAFAZQQQQ.m3u8",
+                    "http://193.47.62.41/hls/FAFAFAFAZQQQQ.m3u8",
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
@@ -53,8 +51,7 @@
                 ]
             },
             "best_stream_urls": [
-                "http://193.47.62.44/hls/FAFAFAFAZQQQQ.m3u8",
-                "http://193.47.62.59/hls/FAFAFAFAZQQQQ.m3u8"
+                "http://193.47.62.41/hls/FAFAFAFAZQQQQ.m3u8"
             ]
         },
         {
@@ -74,7 +71,7 @@
                 "video_sources": [],
                 "embed_sources": [],
                 "m3u8_links": [
-                    "https://www.rtmpcdn.com/live/71d60d52-1710-411b-b095-df32f341a25b.m3u8"
+                    "https://live3.dyrur1.com/live/74372488_ba0e95b016d6b31567ce72694931b1c9_540p.m3u8?auth_key=1790292274-0-0-30c1f45cf80303d7da4e455a5602fd2e"
                 ],
                 "mpd_links": [],
                 "mp4_links": [],
@@ -91,7 +88,7 @@
                     "https://twitter.com/share?ref_src=twsrc%5Etfw",
                     "https://platform.twitter.com/widgets.js",
                     "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://www.rtmpcdn.com/live/71d60d52-1710-411b-b095-df32f341a25b.m3u8",
+                    "https://live3.dyrur1.com/live/74372488_ba0e95b016d6b31567ce72694931b1c9_540p.m3u8?auth_key=1790292274-0-0-30c1f45cf80303d7da4e455a5602fd2e",
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
@@ -99,15 +96,15 @@
                     "http://platform.twitter.com/widgets.js",
                     "http://acscdn.com/script/aclib.js",
                     "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://www.rtmpcdn.com/live/71d60d52-1710-411b-b095-df32f341a25b.m3u8",
+                    "http://live3.dyrur1.com/live/74372488_ba0e95b016d6b31567ce72694931b1c9_540p.m3u8?auth_key=1790292274-0-0-30c1f45cf80303d7da4e455a5602fd2e",
                     "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://s10.histats.com/js15_as.js"
                 ]
             },
             "best_stream_urls": [
-                "https://www.rtmpcdn.com/live/71d60d52-1710-411b-b095-df32f341a25b.m3u8",
-                "http://www.rtmpcdn.com/live/71d60d52-1710-411b-b095-df32f341a25b.m3u8"
+                "https://live3.dyrur1.com/live/74372488_ba0e95b016d6b31567ce72694931b1c9_540p.m3u8?auth_key=1790292274-0-0-30c1f45cf80303d7da4e455a5602fd2e",
+                "http://live3.dyrur1.com/live/74372488_ba0e95b016d6b31567ce72694931b1c9_540p.m3u8?auth_key=1790292274-0-0-30c1f45cf80303d7da4e455a5602fd2e"
             ]
         },
         {
@@ -288,7 +285,7 @@
                 "video_sources": [],
                 "embed_sources": [],
                 "m3u8_links": [
-                    "https://www.rtmpcdn.com/live/5e095bad-de7b-4dca-bf7e-0d7aac66cef5.m3u8"
+                    "https://live.dyrur1.com/live/74372582_f0ef202c868c9c2dcdcb6c782da1cd93_540p.m3u8?auth_key=1790291482-0-0-2c77e0f2e1e9828cdceae34208fe5e98"
                 ],
                 "mpd_links": [],
                 "mp4_links": [],
@@ -305,7 +302,7 @@
                     "https://twitter.com/share?ref_src=twsrc%5Etfw",
                     "https://platform.twitter.com/widgets.js",
                     "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://www.rtmpcdn.com/live/5e095bad-de7b-4dca-bf7e-0d7aac66cef5.m3u8",
+                    "https://live.dyrur1.com/live/74372582_f0ef202c868c9c2dcdcb6c782da1cd93_540p.m3u8?auth_key=1790291482-0-0-2c77e0f2e1e9828cdceae34208fe5e98",
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
@@ -313,15 +310,15 @@
                     "http://platform.twitter.com/widgets.js",
                     "http://acscdn.com/script/aclib.js",
                     "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://www.rtmpcdn.com/live/5e095bad-de7b-4dca-bf7e-0d7aac66cef5.m3u8",
+                    "http://live.dyrur1.com/live/74372582_f0ef202c868c9c2dcdcb6c782da1cd93_540p.m3u8?auth_key=1790291482-0-0-2c77e0f2e1e9828cdceae34208fe5e98",
                     "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://s10.histats.com/js15_as.js"
                 ]
             },
             "best_stream_urls": [
-                "https://www.rtmpcdn.com/live/5e095bad-de7b-4dca-bf7e-0d7aac66cef5.m3u8",
-                "http://www.rtmpcdn.com/live/5e095bad-de7b-4dca-bf7e-0d7aac66cef5.m3u8"
+                "https://live.dyrur1.com/live/74372582_f0ef202c868c9c2dcdcb6c782da1cd93_540p.m3u8?auth_key=1790291482-0-0-2c77e0f2e1e9828cdceae34208fe5e98",
+                "http://live.dyrur1.com/live/74372582_f0ef202c868c9c2dcdcb6c782da1cd93_540p.m3u8?auth_key=1790291482-0-0-2c77e0f2e1e9828cdceae34208fe5e98"
             ]
         },
         {
@@ -341,8 +338,7 @@
                 "video_sources": [],
                 "embed_sources": [],
                 "m3u8_links": [
-                    "http://193.47.62.44/hls/FAFAFAFAZQQQQQ.m3u8",
-                    "http://193.47.62.59/hls/FAFAFAFAZQQQQQ.m3u8"
+                    "http://193.47.62.41/hls/FAFAFAFAZQQQQQ.m3u8"
                 ],
                 "mpd_links": [],
                 "mp4_links": [],
@@ -359,8 +355,7 @@
                     "https://twitter.com/share?ref_src=twsrc%5Etfw",
                     "https://platform.twitter.com/widgets.js",
                     "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.44/hls/FAFAFAFAZQQQQQ.m3u8",
-                    "http://193.47.62.59/hls/FAFAFAFAZQQQQQ.m3u8",
+                    "http://193.47.62.41/hls/FAFAFAFAZQQQQQ.m3u8",
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
@@ -374,8 +369,7 @@
                 ]
             },
             "best_stream_urls": [
-                "http://193.47.62.44/hls/FAFAFAFAZQQQQQ.m3u8",
-                "http://193.47.62.59/hls/FAFAFAFAZQQQQQ.m3u8"
+                "http://193.47.62.41/hls/FAFAFAFAZQQQQQ.m3u8"
             ]
         },
         {
@@ -395,7 +389,7 @@
                 "video_sources": [],
                 "embed_sources": [],
                 "m3u8_links": [
-                    "https://www.rtmpcdn.com/live/48578bcd-daf4-46ff-90c4-a426e26ef94e.m3u8"
+                    "https://live2.dyrur1.com/live/74372514_377bc3bbb40e13f7893af384df5fc12b_540p.m3u8?auth_key=1790292274-0-0-c78f8a510b1c6223e94a25c552573ae3"
                 ],
                 "mpd_links": [],
                 "mp4_links": [],
@@ -412,7 +406,7 @@
                     "https://twitter.com/share?ref_src=twsrc%5Etfw",
                     "https://platform.twitter.com/widgets.js",
                     "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://www.rtmpcdn.com/live/48578bcd-daf4-46ff-90c4-a426e26ef94e.m3u8",
+                    "https://live2.dyrur1.com/live/74372514_377bc3bbb40e13f7893af384df5fc12b_540p.m3u8?auth_key=1790292274-0-0-c78f8a510b1c6223e94a25c552573ae3",
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
@@ -420,15 +414,15 @@
                     "http://platform.twitter.com/widgets.js",
                     "http://acscdn.com/script/aclib.js",
                     "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://www.rtmpcdn.com/live/48578bcd-daf4-46ff-90c4-a426e26ef94e.m3u8",
+                    "http://live2.dyrur1.com/live/74372514_377bc3bbb40e13f7893af384df5fc12b_540p.m3u8?auth_key=1790292274-0-0-c78f8a510b1c6223e94a25c552573ae3",
                     "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://s10.histats.com/js15_as.js"
                 ]
             },
             "best_stream_urls": [
-                "https://www.rtmpcdn.com/live/48578bcd-daf4-46ff-90c4-a426e26ef94e.m3u8",
-                "http://www.rtmpcdn.com/live/48578bcd-daf4-46ff-90c4-a426e26ef94e.m3u8"
+                "https://live2.dyrur1.com/live/74372514_377bc3bbb40e13f7893af384df5fc12b_540p.m3u8?auth_key=1790292274-0-0-c78f8a510b1c6223e94a25c552573ae3",
+                "http://live2.dyrur1.com/live/74372514_377bc3bbb40e13f7893af384df5fc12b_540p.m3u8?auth_key=1790292274-0-0-c78f8a510b1c6223e94a25c552573ae3"
             ]
         },
         {
