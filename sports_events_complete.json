@@ -2,10 +2,163 @@
     "source": "fawanews.sc",
     "source_url": "http://www.fawanews.sc/",
     "referer": "http://www.fawanews.sc/",
-    "fetched_at": "2026-09-24T08:44:17.805966",
-    "total_live_events": 5,
+    "fetched_at": "2026-09-24T09:15:50.590051",
+    "total_live_events": 8,
     "total_news_articles": 19,
     "live_events": [
+        {
+            "name": "Palestine vs New Zealand",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "10:30",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Palestine vs New Zealand.html",
+            "home_team": "Palestine",
+            "away_team": "New Zealand",
+            "page_status": 200,
+            "page_title": "FawaNews - Palestine vs New Zealand - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.50/hls/FUUUA.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.50/hls/FUUUA.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.50/hls/FUUUA.m3u8"
+            ]
+        },
+        {
+            "name": "South East Melbourne vs Melbourne United",
+            "type": "live_event",
+            "league": "Basketball NBL",
+            "time": "10:30",
+            "image_url": "https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/South East Melbourne vs Melbourne United.html",
+            "home_team": "South East Melbourne",
+            "away_team": "Melbourne United",
+            "page_status": 200,
+            "page_title": "FawaNews - South East Melbourne vs Melbourne United - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.50/hls/FUUUAa.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.50/hls/FUUUAa.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.50/hls/FUUUAa.m3u8"
+            ]
+        },
+        {
+            "name": "Laos vs Brunei",
+            "type": "live_event",
+            "league": "ASEAN Championship",
+            "time": "10:00",
+            "image_url": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Laos vs Brunei.html",
+            "home_team": "Laos",
+            "away_team": "Brunei",
+            "page_status": 200,
+            "page_title": "FawaNews - Laos vs Brunei - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.50/hls/FUUU.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.50/hls/FUUU.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.50/hls/FUUU.m3u8"
+            ]
+        },
         {
             "name": "Geelong Cats W vs Hawthorn Hawks W",
             "type": "live_event",
@@ -733,6 +886,9 @@
                 "mp4_links": [],
                 "js_links": [
                     "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
@@ -764,6 +920,9 @@
                 "all_candidate_urls": [
                     "https://www.google.com/",
                     "http://www.fawanews.sc/",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
@@ -789,6 +948,9 @@
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPQmXrh03sQ9GY58oNjuhr0FJUVZeCjsZuwI0-dgL149XwOEU1Vg6OuXM9jFfzr1lCVmN3RyRb2hnr_x2BqzqeX85ww3QZ6nN1jyiDaHptCmDsX71MtHauG9OUG7o_6dWZZvTzIiBGSRExxFB3tqpbdogVtDk04oNEyisQwMoyBab7Y9f2w826B-95/s320/_128317661_gettyimages-1246229936.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
+                    "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
@@ -878,6 +1040,9 @@
                 "mp4_links": [],
                 "js_links": [
                     "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
@@ -909,6 +1074,9 @@
                 "all_candidate_urls": [
                     "https://www.google.com/",
                     "http://www.fawanews.sc/",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
@@ -934,6 +1102,9 @@
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPQmXrh03sQ9GY58oNjuhr0FJUVZeCjsZuwI0-dgL149XwOEU1Vg6OuXM9jFfzr1lCVmN3RyRb2hnr_x2BqzqeX85ww3QZ6nN1jyiDaHptCmDsX71MtHauG9OUG7o_6dWZZvTzIiBGSRExxFB3tqpbdogVtDk04oNEyisQwMoyBab7Y9f2w826B-95/s320/_128317661_gettyimages-1246229936.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
+                    "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
@@ -1022,6 +1193,9 @@
                 "mp4_links": [],
                 "js_links": [
                     "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
@@ -1053,6 +1227,9 @@
                 "all_candidate_urls": [
                     "https://www.google.com/",
                     "http://www.fawanews.sc/",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
@@ -1078,6 +1255,9 @@
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPQmXrh03sQ9GY58oNjuhr0FJUVZeCjsZuwI0-dgL149XwOEU1Vg6OuXM9jFfzr1lCVmN3RyRb2hnr_x2BqzqeX85ww3QZ6nN1jyiDaHptCmDsX71MtHauG9OUG7o_6dWZZvTzIiBGSRExxFB3tqpbdogVtDk04oNEyisQwMoyBab7Y9f2w826B-95/s320/_128317661_gettyimages-1246229936.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
+                    "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
@@ -1174,6 +1354,9 @@
                 "mp4_links": [],
                 "js_links": [
                     "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
@@ -1205,6 +1388,9 @@
                 "all_candidate_urls": [
                     "https://www.google.com/",
                     "http://www.fawanews.sc/",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
@@ -1230,6 +1416,9 @@
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPQmXrh03sQ9GY58oNjuhr0FJUVZeCjsZuwI0-dgL149XwOEU1Vg6OuXM9jFfzr1lCVmN3RyRb2hnr_x2BqzqeX85ww3QZ6nN1jyiDaHptCmDsX71MtHauG9OUG7o_6dWZZvTzIiBGSRExxFB3tqpbdogVtDk04oNEyisQwMoyBab7Y9f2w826B-95/s320/_128317661_gettyimages-1246229936.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
+                    "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
@@ -1318,6 +1507,9 @@
                 "mp4_links": [],
                 "js_links": [
                     "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
@@ -1349,6 +1541,9 @@
                 "all_candidate_urls": [
                     "https://www.google.com/",
                     "http://www.fawanews.sc/",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
@@ -1374,6 +1569,9 @@
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPQmXrh03sQ9GY58oNjuhr0FJUVZeCjsZuwI0-dgL149XwOEU1Vg6OuXM9jFfzr1lCVmN3RyRb2hnr_x2BqzqeX85ww3QZ6nN1jyiDaHptCmDsX71MtHauG9OUG7o_6dWZZvTzIiBGSRExxFB3tqpbdogVtDk04oNEyisQwMoyBab7Y9f2w826B-95/s320/_128317661_gettyimages-1246229936.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
+                    "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",

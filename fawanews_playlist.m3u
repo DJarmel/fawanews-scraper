@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Palestine vs New Zealand" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Palestine vs New Zealand - 10:30
+http://193.47.62.50/hls/FUUUA.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="South East Melbourne vs Melbourne United" tvg-logo="https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg" group-title="Basketball NBL",South East Melbourne vs Melbourne United - 10:30
+http://193.47.62.50/hls/FUUUAa.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Laos vs Brunei" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="ASEAN Championship",Laos vs Brunei - 10:00
+http://193.47.62.50/hls/FUUU.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Geelong Cats W vs Hawthorn Hawks W" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="AFL Aussie Rules",Geelong Cats W vs Hawthorn Hawks W - 10:15
 http://193.47.62.59/hls/RRRRAa.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Formula 1 GP Azerbaijan" tvg-logo="https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg" group-title="Formula 1 GP",Formula 1 GP Azerbaijan - 09:00
