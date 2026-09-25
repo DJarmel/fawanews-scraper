@@ -1,8 +1,288 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-25T15:43:09.118189",
-    "total_with_streams": 29,
+    "fetched_at": "2026-09-25T16:17:19.525128",
+    "total_with_streams": 36,
     "events_with_streams": [
+        {
+            "name": "Georgia vs Northern Ireland --- CH 1",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Georgia vs Northern Ireland.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/HVVVVAAAAQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/HVVVVAAAAQQ.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.50/hls/HVVVVAAAAQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/HVVVVAAAAQQ.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/HVVVVAAAAQQ.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/HVVVVAAAAQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Georgia vs Northern Ireland --- CH 2",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Georgia vs Northern Ireland --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/525c698e-5506-4e67-b394-4e1793965139.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/525c698e-5506-4e67-b394-4e1793965139.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/525c698e-5506-4e67-b394-4e1793965139.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/525c698e-5506-4e67-b394-4e1793965139.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Armenia vs Latvia --- CH 1",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Armenia vs Latvia.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/HVVVVAAAAQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/HVVVVAAAAQ.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.50/hls/HVVVVAAAAQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/HVVVVAAAAQ.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/HVVVVAAAAQ.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/HVVVVAAAAQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Armenia vs Latvia --- CH 2",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Armenia vs Latvia --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/f845cdb3-29e7-4146-b62e-9258b171f954.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/f845cdb3-29e7-4146-b62e-9258b171f954.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/f845cdb3-29e7-4146-b62e-9258b171f954.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/f845cdb3-29e7-4146-b62e-9258b171f954.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Nigeria vs Madagascar --- CH 1",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Nigeria vs Madagascar.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/HVVVVAA.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/HVVVVAA.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.50/hls/HVVVVAA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/HVVVVAA.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/HVVVVAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/HVVVVAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Nigeria vs Madagascar --- CH 2",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Nigeria vs Madagascar --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/5ac965a0-2d25-4048-93e4-a5cf06fadfac.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/5ac965a0-2d25-4048-93e4-a5cf06fadfac.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/5ac965a0-2d25-4048-93e4-a5cf06fadfac.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/5ac965a0-2d25-4048-93e4-a5cf06fadfac.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Togo vs Burundi --- CH 1",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Togo vs Burundi.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/HVVVVAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/HVVVVAAAA.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.50/hls/HVVVVAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/HVVVVAAAA.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/HVVVVAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/HVVVVAAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Togo vs Burundi --- CH 2",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Togo vs Burundi --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/bef5a372-e37b-4aa0-b5cd-0f58950f73d4.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/bef5a372-e37b-4aa0-b5cd-0f58950f73d4.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/bef5a372-e37b-4aa0-b5cd-0f58950f73d4.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/bef5a372-e37b-4aa0-b5cd-0f58950f73d4.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Rwanda vs Liberia --- CH 1",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Rwanda vs Liberia.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/HVVVVAAA.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/HVVVVAAA.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.50/hls/HVVVVAAA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/HVVVVAAA.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/HVVVVAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/HVVVVAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Rwanda vs Liberia --- CH 2",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Rwanda vs Liberia --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/d6474bc0-a2a2-47c2-ac1f-a473a526a9af.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/d6474bc0-a2a2-47c2-ac1f-a473a526a9af.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/d6474bc0-a2a2-47c2-ac1f-a473a526a9af.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/d6474bc0-a2a2-47c2-ac1f-a473a526a9af.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Malawi vs South Sudan --- CH 1",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Malawi vs South Sudan.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/HVVVVA.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/HVVVVA.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.50/hls/HVVVVA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/HVVVVA.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/HVVVVA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/HVVVVA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Malawi vs South Sudan --- CH 2",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Malawi vs South Sudan --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/69cbe171-11ee-44e1-945c-bfeba04a9337.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/69cbe171-11ee-44e1-945c-bfeba04a9337.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/69cbe171-11ee-44e1-945c-bfeba04a9337.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/69cbe171-11ee-44e1-945c-bfeba04a9337.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Gambia vs Somalia --- CH 1",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Gambia vs Somalia.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/HVVVV.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/HVVVV.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.50/hls/HVVVV.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/HVVVV.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/HVVVV.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/HVVVV.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Gambia vs Somalia --- CH 2",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Gambia vs Somalia --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/f82033c6-9be3-4d5e-8ee6-dfa7131e5c27.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/f82033c6-9be3-4d5e-8ee6-dfa7131e5c27.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/f82033c6-9be3-4d5e-8ee6-dfa7131e5c27.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/f82033c6-9be3-4d5e-8ee6-dfa7131e5c27.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
         {
             "name": "Niger vs Lesotho --- CH 1",
             "type": "live_event",
@@ -32,160 +312,6 @@
                 {
                     "original_url": "http://www.rtmpcdn.com/live/62815578-1daf-4c32-a4ce-fd900094747f.m3u8",
                     "m3u_url": "http://www.rtmpcdn.com/live/62815578-1daf-4c32-a4ce-fd900094747f.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Georgia vs Northern Ireland",
-            "type": "live_event",
-            "league": "UEFA Nations League",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Georgia vs Northern Ireland.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/HVVVVAAAAQQ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/HVVVVAAAAQQ.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://193.47.62.50/hls/HVVVVAAAAQQ.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/HVVVVAAAAQQ.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://193.47.62.55/hls/HVVVVAAAAQQ.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/HVVVVAAAAQQ.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Armenia vs Latvia",
-            "type": "live_event",
-            "league": "UEFA Nations League",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Armenia vs Latvia.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/HVVVVAAAAQ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/HVVVVAAAAQ.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://193.47.62.50/hls/HVVVVAAAAQ.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/HVVVVAAAAQ.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://193.47.62.55/hls/HVVVVAAAAQ.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/HVVVVAAAAQ.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Nigeria vs Madagascar",
-            "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Nigeria vs Madagascar.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/HVVVVAA.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/HVVVVAA.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://193.47.62.50/hls/HVVVVAA.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/HVVVVAA.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://193.47.62.55/hls/HVVVVAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/HVVVVAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Togo vs Burundi",
-            "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Togo vs Burundi.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/HVVVVAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/HVVVVAAAA.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://193.47.62.50/hls/HVVVVAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/HVVVVAAAA.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://193.47.62.55/hls/HVVVVAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/HVVVVAAAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Rwanda vs Liberia",
-            "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Rwanda vs Liberia.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/HVVVVAAA.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/HVVVVAAA.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://193.47.62.50/hls/HVVVVAAA.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/HVVVVAAA.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://193.47.62.55/hls/HVVVVAAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/HVVVVAAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Malawi vs South Sudan",
-            "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Malawi vs South Sudan.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/HVVVVA.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/HVVVVA.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://193.47.62.50/hls/HVVVVA.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/HVVVVA.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://193.47.62.55/hls/HVVVVA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/HVVVVA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Gambia vs Somalia",
-            "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/Gambia vs Somalia.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/HVVVV.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/HVVVV.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://193.47.62.50/hls/HVVVV.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/HVVVV.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://193.47.62.55/hls/HVVVV.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/HVVVV.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
