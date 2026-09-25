@@ -1,26 +1,8 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-24T23:41:38.843150",
+    "fetched_at": "2026-09-25T00:22:14.501858",
     "total_with_streams": 36,
     "events_with_streams": [
-        {
-            "name": "Green Bay Packers vs Atlanta Falcons --- CH 2",
-            "type": "live_event",
-            "league": "NFL American Football",
-            "time": "01:15",
-            "page_link": "http://www.fawanews.sc/NFL_Green Bay Packers vs Atlanta Falcons_2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/GEEEQ.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/GEEEQ.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://193.47.62.55/hls/GEEEQ.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/GEEEQ.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
         {
             "name": "Green Bay Packers vs Atlanta Falcons --- CH 1",
             "type": "live_event",
@@ -40,6 +22,24 @@
             ]
         },
         {
+            "name": "Green Bay Packers vs Atlanta Falcons --- CH 2",
+            "type": "live_event",
+            "league": "NFL American Football",
+            "time": "01:15",
+            "page_link": "http://www.fawanews.sc/NFL_Green Bay Packers vs Atlanta Falcons_2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/GEEEQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/GEEEQ.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/GEEEQ.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/GEEEQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
             "name": "Coastal Carolina vs Liberty Flames",
             "type": "live_event",
             "league": "NCAA American Football",
@@ -50,6 +50,20 @@
                 {
                     "original_url": "http://193.47.62.44/hls/EIIIQQQQQ.m3u8",
                     "m3u_url": "http://193.47.62.44/hls/EIIIQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "UFC BJJ 11 : Musumeci vs Mitchell",
+            "type": "live_event",
+            "league": "UFC Fight Night",
+            "time": "01:00",
+            "page_link": "http://www.fawanews.sc/UFC BJJ 11 Musumeci vs Mitchell.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/EEEEE.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/EEEEE.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -250,6 +264,24 @@
             ]
         },
         {
+            "name": "St Louis Blues vs Chicago Blackhawks",
+            "type": "live_event",
+            "league": "NHL Hockey",
+            "time": "01:00",
+            "page_link": "http://www.fawanews.sc/St Louis Blues vs Chicago Blackhawks.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/50170369-7a65-4146-a686-3c15c6cba2dc/master.m3u8",
+                    "m3u_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/50170369-7a65-4146-a686-3c15c6cba2dc/master.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/50170369-7a65-4146-a686-3c15c6cba2dc/master.m3u8",
+                    "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/50170369-7a65-4146-a686-3c15c6cba2dc/master.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
             "name": "TNA Impact",
             "type": "live_event",
             "league": "TNA Wrestling",
@@ -260,34 +292,6 @@
                 {
                     "original_url": "http://193.47.62.59/hls/FOOOAAAQAAAA.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/FOOOAAAQAAAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Gualaceo vs Ind del Valle",
-            "type": "live_event",
-            "league": "Ecuador Copa",
-            "time": "01:00",
-            "page_link": "http://www.fawanews.sc/Gualaceo vs Ind del Valle.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2018798676844453888/qC9fH20A_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/EVVVAQ.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/EVVVAQ.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "UFC BJJ 11 : Musumeci vs Mitchell",
-            "type": "live_event",
-            "league": "UFC Fight Night",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/UFC BJJ 11 Musumeci vs Mitchell.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/EEEEE.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/EEEEE.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -356,12 +360,16 @@
             "type": "live_event",
             "league": "WNBA Basketball",
             "time": "00:30",
-            "page_link": "http://www.fawanews.sc/Washington Mystics W vs Chicago Sky W.html",
+            "page_link": "http://www.fawanews.sc/Washington Mystics W vs Chicago Sky W --- CH 2.html",
             "image_url": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.44/hls/EIIIQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/EIIIQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "https://www.rtmpcdn.com/live/fc7ec6e4-6d98-4f72-8387-5c91b4f90289.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/fc7ec6e4-6d98-4f72-8387-5c91b4f90289.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/fc7ec6e4-6d98-4f72-8387-5c91b4f90289.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/fc7ec6e4-6d98-4f72-8387-5c91b4f90289.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
