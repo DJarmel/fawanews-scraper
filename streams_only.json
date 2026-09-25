@@ -1,8 +1,36 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-25T08:44:05.464309",
-    "total_with_streams": 4,
+    "fetched_at": "2026-09-25T09:15:30.675592",
+    "total_with_streams": 6,
     "events_with_streams": [
+        {
+            "name": "Dolphins vs Sydney Roosters",
+            "type": "live_event",
+            "league": "NRL",
+            "time": "10:50",
+            "page_link": "http://www.fawanews.sc/Dolphins vs Sydney Roosters.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/FOOOAAAQAAA.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/FOOOAAAQAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Bangladesh vs Malaysia",
+            "type": "live_event",
+            "league": "ASEAN Cup",
+            "time": "10:00",
+            "page_link": "http://www.fawanews.sc/Bangladesh vs Malaysia.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/dooo.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/dooo.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
         {
             "name": "Formula 1 GP Azerbaijan",
             "type": "live_event",
