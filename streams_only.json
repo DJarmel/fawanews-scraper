@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-25T11:43:40.583078",
-    "total_with_streams": 25,
+    "fetched_at": "2026-09-25T12:19:24.724673",
+    "total_with_streams": 26,
     "events_with_streams": [
         {
             "name": "Mozambique vs Senegal --- CH 1",
@@ -130,7 +130,7 @@
             ]
         },
         {
-            "name": "Formula 1 GP Azerbaijan",
+            "name": "Formula 1 GP Azerbaijan --- SD",
             "type": "live_event",
             "league": "Formula 1 GP",
             "time": "13:00",
@@ -140,6 +140,24 @@
                 {
                     "original_url": "http://193.47.62.44/hls/RRRR.m3u8",
                     "m3u_url": "http://193.47.62.44/hls/RRRR.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Formula 1 GP Azerbaijan --- HD",
+            "type": "live_event",
+            "league": "Formula 1 GP",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Azerbaijan --- HD.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4b4df0b9-c5a6-42c8-9056-bcd57c151062/master.m3u8",
+                    "m3u_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4b4df0b9-c5a6-42c8-9056-bcd57c151062/master.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4b4df0b9-c5a6-42c8-9056-bcd57c151062/master.m3u8",
+                    "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4b4df0b9-c5a6-42c8-9056-bcd57c151062/master.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
