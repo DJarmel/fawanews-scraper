@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-25T13:17:04.091359",
-    "total_with_streams": 27,
+    "fetched_at": "2026-09-25T13:44:39.559477",
+    "total_with_streams": 29,
     "events_with_streams": [
         {
             "name": "Mozambique vs Senegal --- CH 1",
@@ -112,6 +112,34 @@
                 {
                     "original_url": "http://www.rtmpcdn.com/live/a4dd943a-1faf-4c00-befa-db0fb5d7b0a5.m3u8",
                     "m3u_url": "http://www.rtmpcdn.com/live/a4dd943a-1faf-4c00-befa-db0fb5d7b0a5.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "India vs Panama",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/India vs Panama.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/GIIIA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/GIIIA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Azerbaijan U21 vs Czech Republic U21",
+            "type": "live_event",
+            "league": "Euro U21 Qualification",
+            "time": "14:45",
+            "page_link": "http://www.fawanews.sc/Azerbaijan U21 vs Czech Republic U21.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/GIII.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/GIII.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
