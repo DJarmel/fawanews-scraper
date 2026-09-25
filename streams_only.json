@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-25T16:46:06.836967",
-    "total_with_streams": 49,
+    "fetched_at": "2026-09-25T17:15:12.905813",
+    "total_with_streams": 54,
     "events_with_streams": [
         {
             "name": "Nigeria vs Madagascar --- CH 1",
@@ -284,34 +284,100 @@
             ]
         },
         {
-            "name": "Niger vs Lesotho --- CH 1",
+            "name": "Fenerbahce vs Virtus Bologna",
             "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "16:00",
-            "page_link": "http://www.fawanews.sc/Niger vs Lesotho.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "league": "Basketball Euroleague",
+            "time": "18:45",
+            "page_link": "http://www.fawanews.sc/Fenerbahce vs Virtus Bologna.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.41/hls/AGGGQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/AGGGQ.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.44/hls/CAAAQQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/CAAAQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
         {
-            "name": "Niger vs Lesotho --- CH 2",
+            "name": "Switzerland U21 vs Luxembourg U21",
             "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "16:00",
-            "page_link": "http://www.fawanews.sc/Niger vs Lesotho --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "league": "Euro U21 Qualification",
+            "time": "18:30",
+            "page_link": "http://www.fawanews.sc/Switzerland U21 vs Luxembourg U21.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "https://www.rtmpcdn.com/live/62815578-1daf-4c32-a4ce-fd900094747f.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/62815578-1daf-4c32-a4ce-fd900094747f.m3u8|Referer=http://www.fawanews.sc/"
-                },
+                    "original_url": "http://193.47.62.44/hls/CAAAQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/CAAAQQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "US Oyonnax vs Nevers",
+            "type": "live_event",
+            "league": "France Rugby Pro D2",
+            "time": "18:30",
+            "page_link": "http://www.fawanews.sc/US Oyonnax vs Nevers.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1658978316324356098/0MfeHTZ8_400x400.jpg",
+            "streams": [
                 {
-                    "original_url": "http://www.rtmpcdn.com/live/62815578-1daf-4c32-a4ce-fd900094747f.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/62815578-1daf-4c32-a4ce-fd900094747f.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.44/hls/CAAAQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/CAAAQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "US Dax vs Nissa",
+            "type": "live_event",
+            "league": "France Rugby Pro D2",
+            "time": "18:30",
+            "page_link": "http://www.fawanews.sc/US Dax vs Nissa.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1658978316324356098/0MfeHTZ8_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/CAAAQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/CAAAQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Provence Rugby vs Aurillac",
+            "type": "live_event",
+            "league": "France Rugby Pro D2",
+            "time": "18:30",
+            "page_link": "http://www.fawanews.sc/Provence Rugby vs Aurillac.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1658978316324356098/0MfeHTZ8_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/CAAAQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/CAAAQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Biarritz Olympique vs Montauban",
+            "type": "live_event",
+            "league": "France Rugby Pro D2",
+            "time": "18:30",
+            "page_link": "http://www.fawanews.sc/Biarritz Olympique vs Montauban.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1658978316324356098/0MfeHTZ8_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/CAAAQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/CAAAQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Angouleme vs Agen",
+            "type": "live_event",
+            "league": "France Rugby Pro D2",
+            "time": "18:30",
+            "page_link": "http://www.fawanews.sc/Angouleme vs Agen.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1658978316324356098/0MfeHTZ8_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/CAAAQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/CAAAQ.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
