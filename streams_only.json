@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-25T12:48:20.807108",
-    "total_with_streams": 26,
+    "fetched_at": "2026-09-25T13:17:04.091359",
+    "total_with_streams": 27,
     "events_with_streams": [
         {
             "name": "Mozambique vs Senegal --- CH 1",
@@ -34,12 +34,12 @@
             "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "https://www.rtmpcdn.com/live/e169fae7-7e66-4e59-bb3e-3f2935f02d92.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/e169fae7-7e66-4e59-bb3e-3f2935f02d92.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "https://live3.dyrur1.com/live/j374oi0pgwvhgqo_00375a46bf33f4f64843a544a09072d0_540p.m3u8?auth_key=1790355489-0-0-54980e599648f60e652acef1121b8207",
+                    "m3u_url": "https://live3.dyrur1.com/live/j374oi0pgwvhgqo_00375a46bf33f4f64843a544a09072d0_540p.m3u8?auth_key=1790355489-0-0-54980e599648f60e652acef1121b8207|Referer=http://www.fawanews.sc/"
                 },
                 {
-                    "original_url": "http://www.rtmpcdn.com/live/e169fae7-7e66-4e59-bb3e-3f2935f02d92.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/e169fae7-7e66-4e59-bb3e-3f2935f02d92.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://live3.dyrur1.com/live/j374oi0pgwvhgqo_00375a46bf33f4f64843a544a09072d0_540p.m3u8?auth_key=1790355489-0-0-54980e599648f60e652acef1121b8207",
+                    "m3u_url": "http://live3.dyrur1.com/live/j374oi0pgwvhgqo_00375a46bf33f4f64843a544a09072d0_540p.m3u8?auth_key=1790355489-0-0-54980e599648f60e652acef1121b8207|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -74,12 +74,12 @@
             "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "https://www.rtmpcdn.com/live/65c30cb6-64cb-48f8-b813-fd0ff2465890.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/65c30cb6-64cb-48f8-b813-fd0ff2465890.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "https://live.dyrur1.com/live/74372554_aa36642ee8642197d778e96d252a3565_540p.m3u8?auth_key=1790355489-0-0-b2afdb6ed64b35fe08643b7ebda5304e",
+                    "m3u_url": "https://live.dyrur1.com/live/74372554_aa36642ee8642197d778e96d252a3565_540p.m3u8?auth_key=1790355489-0-0-b2afdb6ed64b35fe08643b7ebda5304e|Referer=http://www.fawanews.sc/"
                 },
                 {
-                    "original_url": "http://www.rtmpcdn.com/live/65c30cb6-64cb-48f8-b813-fd0ff2465890.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/65c30cb6-64cb-48f8-b813-fd0ff2465890.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://live.dyrur1.com/live/74372554_aa36642ee8642197d778e96d252a3565_540p.m3u8?auth_key=1790355489-0-0-b2afdb6ed64b35fe08643b7ebda5304e",
+                    "m3u_url": "http://live.dyrur1.com/live/74372554_aa36642ee8642197d778e96d252a3565_540p.m3u8?auth_key=1790355489-0-0-b2afdb6ed64b35fe08643b7ebda5304e|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -158,6 +158,20 @@
                 {
                     "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4b4df0b9-c5a6-42c8-9056-bcd57c151062/master.m3u8",
                     "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4b4df0b9-c5a6-42c8-9056-bcd57c151062/master.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Golf Laver Cup",
+            "type": "live_event",
+            "league": "Golf",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Golf Laver Cup.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1316345715359059969/Ue5DSzp4_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/GOOOO.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/GOOOO.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
