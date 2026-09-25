@@ -1,6 +1,6 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-25T10:15:26.187150",
+    "fetched_at": "2026-09-25T10:43:29.592976",
     "total_with_streams": 16,
     "events_with_streams": [
         {
@@ -8,12 +8,12 @@
             "type": "live_event",
             "league": "Friendly Match",
             "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Australia vs Brazil.html",
+            "page_link": "http://www.fawanews.sc/Australia vs Brazil1.html",
             "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.55/hls/JBBBAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/JBBBAA.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.55/hls/JBBBAXA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/JBBBAXA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -26,12 +26,12 @@
             "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "https://www.rtmpcdn.com/live/ea2089c8-a994-4c74-ac42-17b1ee90ecc0.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/ea2089c8-a994-4c74-ac42-17b1ee90ecc0.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "https://live.dyrur1.com/live/73685470_623ef0b2493572bc19507e1119f992c4_540p.m3u8?auth_key=1790345945-0-0-cec9c2e999bc869075ae92927e05af6d",
+                    "m3u_url": "https://live.dyrur1.com/live/73685470_623ef0b2493572bc19507e1119f992c4_540p.m3u8?auth_key=1790345945-0-0-cec9c2e999bc869075ae92927e05af6d|Referer=http://www.fawanews.sc/"
                 },
                 {
-                    "original_url": "http://www.rtmpcdn.com/live/ea2089c8-a994-4c74-ac42-17b1ee90ecc0.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/ea2089c8-a994-4c74-ac42-17b1ee90ecc0.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://live.dyrur1.com/live/73685470_623ef0b2493572bc19507e1119f992c4_540p.m3u8?auth_key=1790345945-0-0-cec9c2e999bc869075ae92927e05af6d",
+                    "m3u_url": "http://live.dyrur1.com/live/73685470_623ef0b2493572bc19507e1119f992c4_540p.m3u8?auth_key=1790345945-0-0-cec9c2e999bc869075ae92927e05af6d|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
