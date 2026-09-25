@@ -2,7 +2,7 @@
     "source": "fawanews.sc",
     "source_url": "http://www.fawanews.sc/",
     "referer": "http://www.fawanews.sc/",
-    "fetched_at": "2026-09-25T00:47:03.776127",
+    "fetched_at": "2026-09-25T01:14:11.792230",
     "total_live_events": 36,
     "total_news_articles": 19,
     "live_events": [
@@ -370,14 +370,14 @@
             ]
         },
         {
-            "name": "Phoenix Mercury W vs Las Vegas Aces W",
+            "name": "Phoenix Mercury W vs Las Vegas Aces W --- CH 1",
             "type": "live_event",
             "league": "WNBA Basketball",
             "time": "03:00",
             "image_url": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
             "page_link": "http://www.fawanews.sc/Phoenix Mercury W vs Las Vegas Aces W.html",
             "home_team": "Phoenix Mercury W",
-            "away_team": "Las Vegas Aces W",
+            "away_team": "Las Vegas Aces W --- CH 1",
             "page_status": 200,
             "page_title": "FawaNews - Phoenix Mercury W vs Las Vegas Aces W - Your Home of Sport",
             "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
@@ -421,14 +421,67 @@
             ]
         },
         {
-            "name": "Los Angeles Sparks W vs Golden State Valkyries W",
+            "name": "Phoenix Mercury W vs Las Vegas Aces W --- CH 2",
+            "type": "live_event",
+            "league": "WNBA Basketball",
+            "time": "03:00",
+            "image_url": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Phoenix Mercury W vs Las Vegas Aces W --- CH 2.html",
+            "home_team": "Phoenix Mercury W",
+            "away_team": "Las Vegas Aces W --- CH 2",
+            "page_status": 200,
+            "page_title": "FawaNews - Phoenix Mercury W vs Las Vegas Aces W - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "https://www.rtmpcdn.com/live/1b9b92cc-648b-4f72-a5d5-a635eb6e36b4.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://www.rtmpcdn.com/live/1b9b92cc-648b-4f72-a5d5-a635eb6e36b4.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://www.rtmpcdn.com/live/1b9b92cc-648b-4f72-a5d5-a635eb6e36b4.m3u8",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "https://www.rtmpcdn.com/live/1b9b92cc-648b-4f72-a5d5-a635eb6e36b4.m3u8",
+                "http://www.rtmpcdn.com/live/1b9b92cc-648b-4f72-a5d5-a635eb6e36b4.m3u8"
+            ]
+        },
+        {
+            "name": "Los Angeles Sparks W vs Golden State Valkyries W --- CH 1",
             "type": "live_event",
             "league": "WNBA Basketball",
             "time": "03:00",
             "image_url": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
             "page_link": "http://www.fawanews.sc/Los Angeles Sparks W vs Golden State Valkyries W.html",
             "home_team": "Los Angeles Sparks W",
-            "away_team": "Golden State Valkyries W",
+            "away_team": "Golden State Valkyries W --- CH 1",
             "page_status": 200,
             "page_title": "FawaNews - Los Angeles Sparks W vs Golden State Valkyries W - Your Home of Sport",
             "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
@@ -469,6 +522,59 @@
             },
             "best_stream_urls": [
                 "http://193.47.62.59/hls/FOOOAAAQ.m3u8"
+            ]
+        },
+        {
+            "name": "Los Angeles Sparks W vs Golden State Valkyries W --- CH 2",
+            "type": "live_event",
+            "league": "WNBA Basketball",
+            "time": "03:00",
+            "image_url": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Los Angeles Sparks W vs Golden State Valkyries W --- CH 2.html",
+            "home_team": "Los Angeles Sparks W",
+            "away_team": "Golden State Valkyries W --- CH 2",
+            "page_status": 200,
+            "page_title": "FawaNews - Los Angeles Sparks W vs Golden State Valkyries W - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "https://www.rtmpcdn.com/live/cfde16d4-f95e-4b2f-b9a4-fc75e9db0cc6.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://www.rtmpcdn.com/live/cfde16d4-f95e-4b2f-b9a4-fc75e9db0cc6.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://www.rtmpcdn.com/live/cfde16d4-f95e-4b2f-b9a4-fc75e9db0cc6.m3u8",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "https://www.rtmpcdn.com/live/cfde16d4-f95e-4b2f-b9a4-fc75e9db0cc6.m3u8",
+                "http://www.rtmpcdn.com/live/cfde16d4-f95e-4b2f-b9a4-fc75e9db0cc6.m3u8"
             ]
         },
         {
@@ -622,108 +728,6 @@
             },
             "best_stream_urls": [
                 "http://193.47.62.59/hls/FOOOAA.m3u8"
-            ]
-        },
-        {
-            "name": "South Korea W vs China W",
-            "type": "live_event",
-            "league": "Basketball Asian Games",
-            "time": "02:00",
-            "image_url": "https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/South Korea W vs China W.html",
-            "home_team": "South Korea W",
-            "away_team": "China W",
-            "page_status": 200,
-            "page_title": "FawaNews - South Korea W vs China W - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.44/hls/FOOOA.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.44/hls/FOOOA.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.44/hls/FOOOA.m3u8"
-            ]
-        },
-        {
-            "name": "Japan W vs Chinese Taipei W",
-            "type": "live_event",
-            "league": "Basketball Asian Games",
-            "time": "02:00",
-            "image_url": "https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Japan W vs Chinese Taipei W.html",
-            "home_team": "Japan W",
-            "away_team": "Chinese Taipei W",
-            "page_status": 200,
-            "page_title": "FawaNews - Japan W vs Chinese Taipei W - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.44/hls/FOOO.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.44/hls/FOOO.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.44/hls/FOOO.m3u8"
             ]
         },
         {
@@ -2344,7 +2348,6 @@
                     "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1906746122388840449/bbvdz2cM_400x400.jpg",
@@ -2383,7 +2386,6 @@
                     "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1906746122388840449/bbvdz2cM_400x400.jpg",
@@ -2416,7 +2418,6 @@
                     "http://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1906746122388840449/bbvdz2cM_400x400.jpg",
@@ -2513,7 +2514,6 @@
                     "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1906746122388840449/bbvdz2cM_400x400.jpg",
@@ -2552,7 +2552,6 @@
                     "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1906746122388840449/bbvdz2cM_400x400.jpg",
@@ -2585,7 +2584,6 @@
                     "http://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1906746122388840449/bbvdz2cM_400x400.jpg",
@@ -2681,7 +2679,6 @@
                     "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1906746122388840449/bbvdz2cM_400x400.jpg",
@@ -2720,7 +2717,6 @@
                     "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1906746122388840449/bbvdz2cM_400x400.jpg",
@@ -2753,7 +2749,6 @@
                     "http://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1906746122388840449/bbvdz2cM_400x400.jpg",
@@ -2857,7 +2852,6 @@
                     "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1906746122388840449/bbvdz2cM_400x400.jpg",
@@ -2896,7 +2890,6 @@
                     "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1906746122388840449/bbvdz2cM_400x400.jpg",
@@ -2929,7 +2922,6 @@
                     "http://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1906746122388840449/bbvdz2cM_400x400.jpg",
@@ -3025,7 +3017,6 @@
                     "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1906746122388840449/bbvdz2cM_400x400.jpg",
@@ -3064,7 +3055,6 @@
                     "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1906746122388840449/bbvdz2cM_400x400.jpg",
@@ -3097,7 +3087,6 @@
                     "http://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1906746122388840449/bbvdz2cM_400x400.jpg",

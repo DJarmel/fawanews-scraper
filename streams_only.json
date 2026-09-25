@@ -1,6 +1,6 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-25T00:47:03.776127",
+    "fetched_at": "2026-09-25T01:14:11.792230",
     "total_with_streams": 36,
     "events_with_streams": [
         {
@@ -110,7 +110,7 @@
             ]
         },
         {
-            "name": "Phoenix Mercury W vs Las Vegas Aces W",
+            "name": "Phoenix Mercury W vs Las Vegas Aces W --- CH 1",
             "type": "live_event",
             "league": "WNBA Basketball",
             "time": "03:00",
@@ -124,7 +124,25 @@
             ]
         },
         {
-            "name": "Los Angeles Sparks W vs Golden State Valkyries W",
+            "name": "Phoenix Mercury W vs Las Vegas Aces W --- CH 2",
+            "type": "live_event",
+            "league": "WNBA Basketball",
+            "time": "03:00",
+            "page_link": "http://www.fawanews.sc/Phoenix Mercury W vs Las Vegas Aces W --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/1b9b92cc-648b-4f72-a5d5-a635eb6e36b4.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/1b9b92cc-648b-4f72-a5d5-a635eb6e36b4.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/1b9b92cc-648b-4f72-a5d5-a635eb6e36b4.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/1b9b92cc-648b-4f72-a5d5-a635eb6e36b4.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Los Angeles Sparks W vs Golden State Valkyries W --- CH 1",
             "type": "live_event",
             "league": "WNBA Basketball",
             "time": "03:00",
@@ -134,6 +152,24 @@
                 {
                     "original_url": "http://193.47.62.59/hls/FOOOAAAQ.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/FOOOAAAQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Los Angeles Sparks W vs Golden State Valkyries W --- CH 2",
+            "type": "live_event",
+            "league": "WNBA Basketball",
+            "time": "03:00",
+            "page_link": "http://www.fawanews.sc/Los Angeles Sparks W vs Golden State Valkyries W --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/cfde16d4-f95e-4b2f-b9a4-fc75e9db0cc6.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/cfde16d4-f95e-4b2f-b9a4-fc75e9db0cc6.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/cfde16d4-f95e-4b2f-b9a4-fc75e9db0cc6.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/cfde16d4-f95e-4b2f-b9a4-fc75e9db0cc6.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -176,34 +212,6 @@
                 {
                     "original_url": "http://193.47.62.59/hls/FOOOAA.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/FOOOAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "South Korea W vs China W",
-            "type": "live_event",
-            "league": "Basketball Asian Games",
-            "time": "02:00",
-            "page_link": "http://www.fawanews.sc/South Korea W vs China W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/FOOOA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/FOOOA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Japan W vs Chinese Taipei W",
-            "type": "live_event",
-            "league": "Basketball Asian Games",
-            "time": "02:00",
-            "page_link": "http://www.fawanews.sc/Japan W vs Chinese Taipei W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/FOOO.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/FOOO.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
