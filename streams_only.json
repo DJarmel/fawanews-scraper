@@ -1,8 +1,190 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-25T11:15:14.925823",
-    "total_with_streams": 16,
+    "fetched_at": "2026-09-25T11:43:40.583078",
+    "total_with_streams": 25,
     "events_with_streams": [
+        {
+            "name": "Mozambique vs Senegal --- CH 1",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Mozambique vs Senegal.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/NAAAQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/NAAAQQ.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/NAAAQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/NAAAQQ.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/NAAAQQ.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/NAAAQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Mozambique vs Senegal --- CH 2",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Mozambique vs Senegal --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/e169fae7-7e66-4e59-bb3e-3f2935f02d92.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/e169fae7-7e66-4e59-bb3e-3f2935f02d92.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/e169fae7-7e66-4e59-bb3e-3f2935f02d92.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/e169fae7-7e66-4e59-bb3e-3f2935f02d92.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Tanzania vs Guinea Bissau --- CH 1",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Tanzania vs Guinea Bissau.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/NAAAQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/NAAAQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/NAAAQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/NAAAQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/NAAAQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/NAAAQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Tanzania vs Guinea Bissau --- CH 2",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Tanzania vs Guinea Bissau --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/65c30cb6-64cb-48f8-b813-fd0ff2465890.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/65c30cb6-64cb-48f8-b813-fd0ff2465890.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/65c30cb6-64cb-48f8-b813-fd0ff2465890.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/65c30cb6-64cb-48f8-b813-fd0ff2465890.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Sudan vs Ethiopia --- CH 1",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Sudan vs Ethiopia.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/NAAAQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/NAAAQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Sudan vs Ethiopia --- CH 2",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Sudan vs Ethiopia --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/a4dd943a-1faf-4c00-befa-db0fb5d7b0a5.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/a4dd943a-1faf-4c00-befa-db0fb5d7b0a5.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/a4dd943a-1faf-4c00-befa-db0fb5d7b0a5.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/a4dd943a-1faf-4c00-befa-db0fb5d7b0a5.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Indonesia vs Singapore",
+            "type": "live_event",
+            "league": "ASEAN Championship",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Indonesia vs Singapore.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/NAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/NAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Formula 1 GP Azerbaijan",
+            "type": "live_event",
+            "league": "Formula 1 GP",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Azerbaijan.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/RRRR.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/RRRR.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Horse Racing --- CH 1",
+            "type": "live_event",
+            "league": "Horse Racing",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Horse Racing 11.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/vavavava.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/vavavava.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Horse Racing --- CH 2",
+            "type": "live_event",
+            "league": "Horse Racing",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Horse Racing 22.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.194/hls/vavavavaq.m3u8",
+                    "m3u_url": "http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Golf FedEx Open de France",
+            "type": "live_event",
+            "league": "Golf",
+            "time": "12:30",
+            "page_link": "http://www.fawanews.sc/Golf FedEx Open de France.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2102312615414304768/XJZf8j_A_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/ELLLAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/ELLLAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
         {
             "name": "Australia vs Brazil --- CH 1",
             "type": "live_event",
@@ -212,34 +394,6 @@
                 {
                     "original_url": "http://193.47.62.41/hls/XAXAXADDD.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/XAXAXADDD.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Bangladesh vs Malaysia",
-            "type": "live_event",
-            "league": "ASEAN Cup",
-            "time": "10:00",
-            "page_link": "http://www.fawanews.sc/Bangladesh vs Malaysia.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/doooW.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/doooW.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Formula 1 GP Azerbaijan",
-            "type": "live_event",
-            "league": "Formula 1 GP",
-            "time": "09:30",
-            "page_link": "http://www.fawanews.sc/Formula 1 GP Azerbaijan.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/RRRR.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/RRRR.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         }
