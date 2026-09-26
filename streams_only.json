@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-26T16:43:22.037871",
-    "total_with_streams": 61,
+    "fetched_at": "2026-09-26T17:14:37.569658",
+    "total_with_streams": 67,
     "events_with_streams": [
         {
             "name": "Iceland vs Estonia --- CH 1",
@@ -132,16 +132,16 @@
             ]
         },
         {
-            "name": "MMA Oktagon 94",
+            "name": "Zuffa Boxing 11 : Fisher vs Pirotton",
             "type": "live_event",
-            "league": "MMA Fighting",
-            "time": "17:00",
-            "page_link": "http://www.fawanews.sc/MMA Oktagon 94.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1933644695852216320/wQhK_eGO_400x400.jpg",
+            "league": "Boxing",
+            "time": "--:--",
+            "page_link": "http://www.fawanews.sc/Zuffa Boxing 11_Fisher vs Pirotton.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1286085471177781250/NoQS24sO_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.50/hls/kikikiA.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/kikikiA.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.50/hls/DSSS1QQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/DSSS1QQQQQ.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -149,7 +149,7 @@
             "name": "Boxing : Davies vs Collins",
             "type": "live_event",
             "league": "Boxing",
-            "time": "17:00",
+            "time": "--:--",
             "page_link": "http://www.fawanews.sc/Boxing_Davies v Collins.html",
             "image_url": "https://pbs.twimg.com/profile_images/1286085471177781250/NoQS24sO_400x400.jpg",
             "streams": [
@@ -160,16 +160,100 @@
             ]
         },
         {
-            "name": "Kentucky vs South Alabama",
+            "name": "MMA Oktagon 94",
+            "type": "live_event",
+            "league": "MMA Fighting",
+            "time": "--:--",
+            "page_link": "http://www.fawanews.sc/MMA Oktagon 94.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1933644695852216320/wQhK_eGO_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/kikikiA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/kikikiA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "MMA Cage Warriors",
+            "type": "live_event",
+            "league": "MMA Fighting",
+            "time": "18:30",
+            "page_link": "http://www.fawanews.sc/MMA Cage Warriors.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2033556565949571072/eWsw95pz_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/DSSS1Q.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/DSSS1Q.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Maryland vs UCLA",
             "type": "live_event",
             "league": "NCAA American Football",
-            "time": "17:45",
-            "page_link": "http://www.fawanews.sc/Kentucky vs South Alabama.html",
+            "time": "18:30",
+            "page_link": "http://www.fawanews.sc/Maryland vs UCLA.html",
             "image_url": "https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.44/hls/DADADAQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/DADADAQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.50/hls/DSSS1QQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/DSSS1QQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Detroit Tigers vs Pittsburgh Pirates",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "18:10",
+            "page_link": "http://www.fawanews.sc/Detroit Tigers vs Pittsburgh Pirates.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/DSSS1QQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/DSSS1QQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "FIM Speedway Grand Prix",
+            "type": "live_event",
+            "league": "Speedway",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/FIM Speedway Grand Prix.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1975122084096290816/YNK7l0uP_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/DSSS1QQQQQa.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/DSSS1QQQQQa.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Eastern Michigan vs Lindenwood Lions",
+            "type": "live_event",
+            "league": "NCAA American Football",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Eastern Michigan vs Lindenwood Lions.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/DSSS1QQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/DSSS1QQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Malta U21 vs Northern Ireland U21",
+            "type": "live_event",
+            "league": "Euro U21 Qualification",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Malta U21 vs Northern Ireland U21.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/DSSS1.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/DSSS1.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
