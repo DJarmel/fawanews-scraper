@@ -17,16 +17,28 @@ http://193.47.62.50/hls/YCCCQQ.m3u8|Referer=http://www.fawanews.sc/
 http://193.47.62.50/hls/YCCCQ.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Brynas vs Lulea" tvg-logo="https://pbs.twimg.com/profile_images/2052693259969871878/ek73wcjc_400x400.jpg" group-title="Sweden Hockey SHL",Brynas vs Lulea - 14:15
 http://193.47.62.50/hls/YCCC.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Slovenia vs Scotland [1]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Slovenia vs Scotland [1] - 14:00
+#EXTINF:-1 tvg-name="Slovenia vs Scotland --- CH 1 [1]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Slovenia vs Scotland --- CH 1 [1] - 14:00
 http://193.47.62.55/hls/YCCCQQQQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Slovenia vs Scotland [2]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Slovenia vs Scotland [2] - 14:00
+#EXTINF:-1 tvg-name="Slovenia vs Scotland --- CH 1 [2]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Slovenia vs Scotland --- CH 1 [2] - 14:00
 http://193.47.62.59/hls/YCCCQQQQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="South Africa vs Guinea [1]" tvg-logo="https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg" group-title="Africa Cup of Nations Qualification",South Africa vs Guinea [1] - 14:00
+#EXTINF:-1 tvg-name="Slovenia vs Scotland --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Slovenia vs Scotland --- CH 2 [1] - 14:00
+https://www.rtmpcdn.com/live/e27fbc8c-02e8-4a1d-aab6-d8178c23903d.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Slovenia vs Scotland --- CH 2 [2]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Slovenia vs Scotland --- CH 2 [2] - 14:00
+http://www.rtmpcdn.com/live/e27fbc8c-02e8-4a1d-aab6-d8178c23903d.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="South Africa vs Guinea --- CH 1 [1]" tvg-logo="https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg" group-title="Africa Cup of Nations Qualification",South Africa vs Guinea --- CH 1 [1] - 14:00
 http://193.47.62.41/hls/YCCCQQQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="South Africa vs Guinea [2]" tvg-logo="https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg" group-title="Africa Cup of Nations Qualification",South Africa vs Guinea [2] - 14:00
+#EXTINF:-1 tvg-name="South Africa vs Guinea --- CH 1 [2]" tvg-logo="https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg" group-title="Africa Cup of Nations Qualification",South Africa vs Guinea --- CH 1 [2] - 14:00
 http://193.47.62.44/hls/YCCCQQQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Kenya vs Eritrea" tvg-logo="https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg" group-title="Africa Cup of Nations Qualification",Kenya vs Eritrea - 14:00
+#EXTINF:-1 tvg-name="South Africa vs Guinea --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg" group-title="Africa Cup of Nations Qualification",South Africa vs Guinea --- CH 2 [1] - 14:00
+https://www.rtmpcdn.com/live/ab7dc69c-9f26-4d40-8f55-da536b6ec524.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="South Africa vs Guinea --- CH 2 [2]" tvg-logo="https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg" group-title="Africa Cup of Nations Qualification",South Africa vs Guinea --- CH 2 [2] - 14:00
+http://www.rtmpcdn.com/live/ab7dc69c-9f26-4d40-8f55-da536b6ec524.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Kenya vs Eritrea --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg" group-title="Africa Cup of Nations Qualification",Kenya vs Eritrea --- CH 1 - 14:00
 http://193.47.62.50/hls/DUUUUAAAA.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Kenya vs Eritrea --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg" group-title="Africa Cup of Nations Qualification",Kenya vs Eritrea --- CH 2 [1] - 14:00
+https://www.rtmpcdn.com/live/d93be377-5c59-4c1c-aa08-ae83409861a5.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Kenya vs Eritrea --- CH 2 [2]" tvg-logo="https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg" group-title="Africa Cup of Nations Qualification",Kenya vs Eritrea --- CH 2 [2] - 14:00
+http://www.rtmpcdn.com/live/d93be377-5c59-4c1c-aa08-ae83409861a5.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Uppsala W vs Djurgarden W" tvg-logo="https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg" group-title="Sweden Women Allsvenskan",Uppsala W vs Djurgarden W - 14:00
 http://193.47.62.50/hls/DUUUUAA.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Hammarby W vs Eskilstuna Utd W" tvg-logo="https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg" group-title="Sweden Women Allsvenskan",Hammarby W vs Eskilstuna Utd W - 14:00
