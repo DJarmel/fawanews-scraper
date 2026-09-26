@@ -1,104 +1,8 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-26T12:46:24.177201",
-    "total_with_streams": 38,
+    "fetched_at": "2026-09-26T13:14:29.600821",
+    "total_with_streams": 34,
     "events_with_streams": [
-        {
-            "name": "Formula 1 GP Azerbaijan --- SD",
-            "type": "live_event",
-            "league": "Formula 1 GP",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Formula 1 GP Azerbaijan_sd.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/vlll.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/vlll.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://193.47.62.59/hls/vlll.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/vlll.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Formula 1 GP Azerbaijan --- HD",
-            "type": "live_event",
-            "league": "Formula 1 GP",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Formula 1 GP Azerbaijan_hd.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ffc4b41e-2b1c-4ac2-881b-4daff84a5056/master.m3u8",
-                    "m3u_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ffc4b41e-2b1c-4ac2-881b-4daff84a5056/master.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ffc4b41e-2b1c-4ac2-881b-4daff84a5056/master.m3u8",
-                    "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ffc4b41e-2b1c-4ac2-881b-4daff84a5056/master.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Formula 1 GP Azerbaijan --- HD 2",
-            "type": "live_event",
-            "league": "Formula 1 GP",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Formula 1 GP Azerbaijan_hd2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://tedesco.formaturamaxi.com.br/f1.m3u8",
-                    "m3u_url": "https://tedesco.formaturamaxi.com.br/f1.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://tedesco.formaturamaxi.com.br/f1.m3u8",
-                    "m3u_url": "http://tedesco.formaturamaxi.com.br/f1.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Rogle vs Linkoping",
-            "type": "live_event",
-            "league": "Sweden Hockey SHL",
-            "time": "14:15",
-            "page_link": "http://www.fawanews.sc/Rogle vs Linkoping.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2052693259969871878/ek73wcjc_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/YCCCQQ.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/YCCCQQ.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "IF Bjorkloven vs Farjestad",
-            "type": "live_event",
-            "league": "Sweden Hockey SHL",
-            "time": "14:15",
-            "page_link": "http://www.fawanews.sc/IF Bjorkloven vs Farjestad.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2052693259969871878/ek73wcjc_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/YCCCQ.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/YCCCQ.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Brynas vs Lulea",
-            "type": "live_event",
-            "league": "Sweden Hockey SHL",
-            "time": "14:15",
-            "page_link": "http://www.fawanews.sc/Brynas vs Lulea.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2052693259969871878/ek73wcjc_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/YCCC.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/YCCC.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
         {
             "name": "Slovenia vs Scotland --- CH 1",
             "type": "live_event",
@@ -204,44 +108,80 @@
             ]
         },
         {
-            "name": "Uppsala W vs Djurgarden W",
+            "name": "Formula 1 GP Azerbaijan --- HD",
             "type": "live_event",
-            "league": "Sweden Women Allsvenskan",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Uppsala W vs Djurgarden W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg",
+            "league": "Formula 1 GP",
+            "time": "--:--",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Azerbaijan_hd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.50/hls/DUUUUAA.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/DUUUUAA.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ffc4b41e-2b1c-4ac2-881b-4daff84a5056/master.m3u8",
+                    "m3u_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ffc4b41e-2b1c-4ac2-881b-4daff84a5056/master.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ffc4b41e-2b1c-4ac2-881b-4daff84a5056/master.m3u8",
+                    "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ffc4b41e-2b1c-4ac2-881b-4daff84a5056/master.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
         {
-            "name": "Hammarby W vs Eskilstuna Utd W",
+            "name": "Formula 1 GP Azerbaijan --- HD 2",
             "type": "live_event",
-            "league": "Sweden Women Allsvenskan",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Hammarby W vs Eskilstuna Utd W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg",
+            "league": "Formula 1 GP",
+            "time": "--:--",
+            "page_link": "http://www.fawanews.sc/Formula 1 GP Azerbaijan_hd2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.50/hls/DUUUUA.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/DUUUUA.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "https://tedesco.formaturamaxi.com.br/f1.m3u8",
+                    "m3u_url": "https://tedesco.formaturamaxi.com.br/f1.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://tedesco.formaturamaxi.com.br/f1.m3u8",
+                    "m3u_url": "http://tedesco.formaturamaxi.com.br/f1.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
         {
-            "name": "AIK W vs Vaxjo DFF W",
+            "name": "Rogle vs Linkoping",
             "type": "live_event",
-            "league": "Sweden Women Allsvenskan",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/AIK W vs Vaxjo DFF W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg",
+            "league": "Sweden Hockey SHL",
+            "time": "14:15",
+            "page_link": "http://www.fawanews.sc/Rogle vs Linkoping.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2052693259969871878/ek73wcjc_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.50/hls/DUUUU.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/DUUUU.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.50/hls/YCCCQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/YCCCQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "IF Bjorkloven vs Farjestad",
+            "type": "live_event",
+            "league": "Sweden Hockey SHL",
+            "time": "14:15",
+            "page_link": "http://www.fawanews.sc/IF Bjorkloven vs Farjestad.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2052693259969871878/ek73wcjc_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/YCCCQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/YCCCQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Brynas vs Lulea",
+            "type": "live_event",
+            "league": "Sweden Hockey SHL",
+            "time": "14:15",
+            "page_link": "http://www.fawanews.sc/Brynas vs Lulea.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2052693259969871878/ek73wcjc_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/YCCC.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/YCCC.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
