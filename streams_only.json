@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-26T14:15:08.182343",
-    "total_with_streams": 51,
+    "fetched_at": "2026-09-26T14:43:02.235609",
+    "total_with_streams": 57,
     "events_with_streams": [
         {
             "name": "Slovenia vs Scotland --- CH 1",
@@ -104,6 +104,118 @@
                 {
                     "original_url": "http://www.rtmpcdn.com/live/d93be377-5c59-4c1c-aa08-ae83409861a5.m3u8",
                     "m3u_url": "http://www.rtmpcdn.com/live/d93be377-5c59-4c1c-aa08-ae83409861a5.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Akron vs UNLV Rebels",
+            "type": "live_event",
+            "league": "NCAA American Football",
+            "time": "16:30",
+            "page_link": "http://www.fawanews.sc/Akron vs UNLV Rebels.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/FFFFQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/FFFFQQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "France W vs Canada W",
+            "type": "live_event",
+            "league": "Rugby Women",
+            "time": "16:45",
+            "page_link": "http://www.fawanews.sc/France W vs Canada W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/FFFFQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/FFFFQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Scotland W vs Australia W",
+            "type": "live_event",
+            "league": "Rugby Women",
+            "time": "16:10",
+            "page_link": "http://www.fawanews.sc/Scotland W vs Australia W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/FFFFQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/FFFFQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Kuwait vs Iraq",
+            "type": "live_event",
+            "league": "Arabian Gulf Cup",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Kuwait vs Iraq.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/FFFFQQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/FFFFQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Finland vs Slovenia",
+            "type": "live_event",
+            "league": "Volleyball European Championship",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Finland vs Slovenia.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1129730799639646209/UVAhxHiK_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/FFFFQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/FFFFQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Georgia U21 vs Greece U21",
+            "type": "live_event",
+            "league": "Euro U21 Qualification",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Georgia U21 vs Greece U21.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/FFFFQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/FFFFQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Croatia U21 vs Hungary U21",
+            "type": "live_event",
+            "league": "Euro U21 Qualification",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Croatia U21 vs Hungary U21.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/FFFFQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/FFFFQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Utsikten vs Jonkoping",
+            "type": "live_event",
+            "league": "Sweden Division 1",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Utsikten vs Jonkoping.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/FFFF.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/FFFF.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -706,34 +818,6 @@
                 {
                     "original_url": "http://193.47.62.50/hls/FPPPVVA.m3u8",
                     "m3u_url": "http://193.47.62.50/hls/FPPPVVA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Darts ANZ Premier League",
-            "type": "live_event",
-            "league": "Darts",
-            "time": "10:00",
-            "page_link": "http://www.fawanews.sc/Darts ANZ Premier League.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/fiii.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/fiii.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Tennis WTA Billie Jean King Cup",
-            "type": "live_event",
-            "league": "Tennis WTA",
-            "time": "10:00",
-            "page_link": "http://www.fawanews.sc/Tennis WTA Billie Jean King Cup.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/XAXAXADDD.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/XAXAXADDD.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         }
