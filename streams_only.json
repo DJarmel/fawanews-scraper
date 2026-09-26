@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-26T09:41:12.924463",
-    "total_with_streams": 9,
+    "fetched_at": "2026-09-26T10:14:06.613365",
+    "total_with_streams": 16,
     "events_with_streams": [
         {
             "name": "Formula 1 GP Azerbaijan",
@@ -18,6 +18,104 @@
                 {
                     "original_url": "http://193.47.62.59/hls/vlll.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/vlll.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Lions vs Leinster",
+            "type": "live_event",
+            "league": "United Rugby Championship",
+            "time": "12:30",
+            "page_link": "http://www.fawanews.sc/Lions vs Leinster.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1845772290597834760/5IXMkq0j_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/FPPPVVAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/FPPPVVAAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Vietnam vs Philippines",
+            "type": "live_event",
+            "league": "ASEAN Championship",
+            "time": "12:30",
+            "page_link": "http://www.fawanews.sc/Vietnam vs Philippines.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/FPPPVVAAA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/FPPPVVAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Golf PGA Presidents Cup",
+            "type": "live_event",
+            "league": "Golf PGA",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Golf PGA Presidents Cup_2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/FPPPVVAA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/FPPPVVAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Golf FedEx Open de France",
+            "type": "live_event",
+            "league": "Golf",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Golf FedEx Open de France_2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2102312615414304768/XJZf8j_A_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/FPPPVVA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/FPPPVVA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Trollhattan vs Tvaaker",
+            "type": "live_event",
+            "league": "Sweden Division 1",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Trollhattan vs Tvaaker.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/FPPPVV.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/FPPPVV.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Rosengard vs Hassleholms IF",
+            "type": "live_event",
+            "league": "Sweden Division 1",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Rosengard vs Hassleholms IF.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/FPPPV.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/FPPPV.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Kristianstad W vs Vittsjo W",
+            "type": "live_event",
+            "league": "Sweden Women Allsvenskan",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Kristianstad W vs Vittsjo W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/FPPP.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/FPPP.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
