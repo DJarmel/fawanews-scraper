@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-26T16:15:34.245732",
-    "total_with_streams": 50,
+    "fetched_at": "2026-09-26T16:43:22.037871",
+    "total_with_streams": 61,
     "events_with_streams": [
         {
             "name": "Iceland vs Estonia --- CH 1",
@@ -156,6 +156,160 @@
                 {
                     "original_url": "http://193.47.62.50/hls/kikiki.m3u8",
                     "m3u_url": "http://193.47.62.50/hls/kikiki.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Kentucky vs South Alabama",
+            "type": "live_event",
+            "league": "NCAA American Football",
+            "time": "17:45",
+            "page_link": "http://www.fawanews.sc/Kentucky vs South Alabama.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/DADADAQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/DADADAQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Washington Nationals vs New York Mets",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "17:45",
+            "page_link": "http://www.fawanews.sc/Washington Nationals vs New York Mets.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/DSSS.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/DSSS.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Wigan Warriors vs Wakefield",
+            "type": "live_event",
+            "league": "English Rugby Super League",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Wigan Warriors vs Wakefield.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2038972517776531456/qwqDiPOu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/DADADAQQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/DADADAQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Sale Sharks vs Bristol",
+            "type": "live_event",
+            "league": "English Premiership Rugby",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Sale Sharks vs Bristol.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1947922197328134144/2PBgulm5_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/DADADAQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/DADADAQQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Zebre vs Bulls",
+            "type": "live_event",
+            "league": "United Rugby Championship",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Zebre vs Bulls.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1845772290597834760/5IXMkq0j_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/DADADAQQQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/DADADAQQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Munster vs Glasgow Warriors",
+            "type": "live_event",
+            "league": "United Rugby Championship",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Munster vs Glasgow Warriors.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1845772290597834760/5IXMkq0j_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/FPPPVVAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/FPPPVVAAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Oldham vs Salford",
+            "type": "live_event",
+            "league": "English League Two",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Oldham vs Salford.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2066809302329757696/8JzdRXMH_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/DADADA.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/DADADA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Tenerife vs Cadiz CF",
+            "type": "live_event",
+            "league": "Spanish Segunda Liga",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Tenerife vs Cadiz CF.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2043992816377049088/r9FnBdQu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/DADADAQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/DADADAQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Celta Vigo B vs Sabadell",
+            "type": "live_event",
+            "league": "Spanish Segunda Liga",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Celta Vigo B vs Sabadell.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2043992816377049088/r9FnBdQu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/DADADAQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/DADADAQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Madrid CFF W vs Alaves W",
+            "type": "live_event",
+            "league": "Spanish Liga F Women",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Madrid CFF W vs Alaves W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2034221282649116672/9gcwTqQp_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/DADADAQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/DADADAQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Kansas City Current W vs Denver Summit W",
+            "type": "live_event",
+            "league": "USA NWSL Women",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Kansas City Current W vs Denver Summit W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/DADADAQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/DADADAQQQQ.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
