@@ -2,10 +2,624 @@
     "source": "fawanews.sc",
     "source_url": "http://www.fawanews.sc/",
     "referer": "http://www.fawanews.sc/",
-    "fetched_at": "2026-09-26T18:17:26.905284",
-    "total_live_events": 61,
+    "fetched_at": "2026-09-26T18:45:45.201413",
+    "total_live_events": 66,
     "total_news_articles": 19,
     "live_events": [
+        {
+            "name": "UEFA Nations League Simulcast",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/UEFA Nations League Simulcast.html",
+            "page_status": 200,
+            "page_title": "FawaNews - UEFA Nations League Simulcast - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.44/hls/AYYYY.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.44/hls/AYYYY.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.44/hls/AYYYY.m3u8"
+            ]
+        },
+        {
+            "name": "England vs Spain --- CH 1",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/England vs Spain.html",
+            "home_team": "England",
+            "away_team": "Spain --- CH 1",
+            "page_status": 200,
+            "page_title": "FawaNews - England vs Spain - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.41/hls/DKKKAAAA.m3u8",
+                    "http://193.47.62.44/hls/DKKKAAAA.m3u8",
+                    "http://193.47.62.55/hls/DKKKAAAA.m3u8",
+                    "http://193.47.62.59/hls/DKKKAAAA.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.41/hls/DKKKAAAA.m3u8",
+                    "http://193.47.62.44/hls/DKKKAAAA.m3u8",
+                    "http://193.47.62.55/hls/DKKKAAAA.m3u8",
+                    "http://193.47.62.59/hls/DKKKAAAA.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.41/hls/DKKKAAAA.m3u8",
+                "http://193.47.62.44/hls/DKKKAAAA.m3u8",
+                "http://193.47.62.55/hls/DKKKAAAA.m3u8",
+                "http://193.47.62.59/hls/DKKKAAAA.m3u8"
+            ]
+        },
+        {
+            "name": "England vs Spain --- CH 2",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/England vs Spain --- CH 2.html",
+            "home_team": "England",
+            "away_team": "Spain --- CH 2",
+            "page_status": 200,
+            "page_title": "FawaNews - England vs Spain - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "https://www.rtmpcdn.com/live/06ddaf0c-7799-48b4-be66-27df2fe640dc.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://www.rtmpcdn.com/live/06ddaf0c-7799-48b4-be66-27df2fe640dc.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://www.rtmpcdn.com/live/06ddaf0c-7799-48b4-be66-27df2fe640dc.m3u8",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "https://www.rtmpcdn.com/live/06ddaf0c-7799-48b4-be66-27df2fe640dc.m3u8",
+                "http://www.rtmpcdn.com/live/06ddaf0c-7799-48b4-be66-27df2fe640dc.m3u8"
+            ]
+        },
+        {
+            "name": "Czech Republic vs Croatia --- CH 1",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Czech Republic vs Croatia.html",
+            "home_team": "Czech Republic",
+            "away_team": "Croatia --- CH 1",
+            "page_status": 200,
+            "page_title": "FawaNews - Czech Republic vs Croatia - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.41/hls/DKKKAAA.m3u8",
+                    "http://193.47.62.44/hls/DKKKAAA.m3u8",
+                    "http://193.47.62.55/hls/DKKKAAA.m3u8",
+                    "http://193.47.62.59/hls/DKKKAAA.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.41/hls/DKKKAAA.m3u8",
+                    "http://193.47.62.44/hls/DKKKAAA.m3u8",
+                    "http://193.47.62.55/hls/DKKKAAA.m3u8",
+                    "http://193.47.62.59/hls/DKKKAAA.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.41/hls/DKKKAAA.m3u8",
+                "http://193.47.62.44/hls/DKKKAAA.m3u8",
+                "http://193.47.62.55/hls/DKKKAAA.m3u8",
+                "http://193.47.62.59/hls/DKKKAAA.m3u8"
+            ]
+        },
+        {
+            "name": "Czech Republic vs Croatia --- CH 2",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Czech Republic vs Croatia --- CH 2.html",
+            "home_team": "Czech Republic",
+            "away_team": "Croatia --- CH 2",
+            "page_status": 200,
+            "page_title": "FawaNews - Czech Republic vs Croatia - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "https://www.rtmpcdn.com/live/233db093-4047-4227-841b-beb62a459717.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://www.rtmpcdn.com/live/233db093-4047-4227-841b-beb62a459717.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://www.rtmpcdn.com/live/233db093-4047-4227-841b-beb62a459717.m3u8",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "https://www.rtmpcdn.com/live/233db093-4047-4227-841b-beb62a459717.m3u8",
+                "http://www.rtmpcdn.com/live/233db093-4047-4227-841b-beb62a459717.m3u8"
+            ]
+        },
+        {
+            "name": "North Macedonia vs Switzerland --- CH 1",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/North Macedonia vs Switzerland.html",
+            "home_team": "North Macedonia",
+            "away_team": "Switzerland --- CH 1",
+            "page_status": 200,
+            "page_title": "FawaNews - North Macedonia vs Switzerland - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.41/hls/DKKKAA.m3u8",
+                    "http://193.47.62.44/hls/DKKKAA.m3u8",
+                    "http://193.47.62.55/hls/DKKKAA.m3u8",
+                    "http://193.47.62.59/hls/DKKKAA.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.41/hls/DKKKAA.m3u8",
+                    "http://193.47.62.44/hls/DKKKAA.m3u8",
+                    "http://193.47.62.55/hls/DKKKAA.m3u8",
+                    "http://193.47.62.59/hls/DKKKAA.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.41/hls/DKKKAA.m3u8",
+                "http://193.47.62.44/hls/DKKKAA.m3u8",
+                "http://193.47.62.55/hls/DKKKAA.m3u8",
+                "http://193.47.62.59/hls/DKKKAA.m3u8"
+            ]
+        },
+        {
+            "name": "North Macedonia vs Switzerland --- CH 2",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/North Macedonia vs Switzerland --- CH 2.html",
+            "home_team": "North Macedonia",
+            "away_team": "Switzerland --- CH 2",
+            "page_status": 200,
+            "page_title": "FawaNews - North Macedonia vs Switzerland - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "https://www.rtmpcdn.com/live/344c9b8d-42c0-4c31-85c6-35df66357b6e.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://www.rtmpcdn.com/live/344c9b8d-42c0-4c31-85c6-35df66357b6e.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://www.rtmpcdn.com/live/344c9b8d-42c0-4c31-85c6-35df66357b6e.m3u8",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "https://www.rtmpcdn.com/live/344c9b8d-42c0-4c31-85c6-35df66357b6e.m3u8",
+                "http://www.rtmpcdn.com/live/344c9b8d-42c0-4c31-85c6-35df66357b6e.m3u8"
+            ]
+        },
+        {
+            "name": "Slovakia vs Moldova --- CH 1",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Slovakia vs Moldova.html",
+            "home_team": "Slovakia",
+            "away_team": "Moldova --- CH 1",
+            "page_status": 200,
+            "page_title": "FawaNews - Slovakia vs Moldova - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.41/hls/DKKKA.m3u8",
+                    "http://193.47.62.44/hls/DKKKA.m3u8",
+                    "http://193.47.62.55/hls/DKKKA.m3u8",
+                    "http://193.47.62.59/hls/DKKKA.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.41/hls/DKKKA.m3u8",
+                    "http://193.47.62.44/hls/DKKKA.m3u8",
+                    "http://193.47.62.55/hls/DKKKA.m3u8",
+                    "http://193.47.62.59/hls/DKKKA.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.41/hls/DKKKA.m3u8",
+                "http://193.47.62.44/hls/DKKKA.m3u8",
+                "http://193.47.62.55/hls/DKKKA.m3u8",
+                "http://193.47.62.59/hls/DKKKA.m3u8"
+            ]
+        },
+        {
+            "name": "Slovakia vs Moldova --- CH 2",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Slovakia vs Moldova --- CH 2.html",
+            "home_team": "Slovakia",
+            "away_team": "Moldova --- CH 2",
+            "page_status": 200,
+            "page_title": "FawaNews - Slovakia vs Moldova - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "https://www.rtmpcdn.com/live/41fee358-5701-4d6f-83c9-5f82eb0700eb.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://www.rtmpcdn.com/live/41fee358-5701-4d6f-83c9-5f82eb0700eb.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://www.rtmpcdn.com/live/41fee358-5701-4d6f-83c9-5f82eb0700eb.m3u8",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "https://www.rtmpcdn.com/live/41fee358-5701-4d6f-83c9-5f82eb0700eb.m3u8",
+                "http://www.rtmpcdn.com/live/41fee358-5701-4d6f-83c9-5f82eb0700eb.m3u8"
+            ]
+        },
+        {
+            "name": "Albania vs Belarus --- CH 1",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Albania vs Belarus.html",
+            "home_team": "Albania",
+            "away_team": "Belarus --- CH 1",
+            "page_status": 200,
+            "page_title": "FawaNews - Albania vs Belarus - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.41/hls/DKKK.m3u8",
+                    "http://193.47.62.44/hls/DKKK.m3u8",
+                    "http://193.47.62.55/hls/DKKK.m3u8",
+                    "http://193.47.62.59/hls/DKKK.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.41/hls/DKKK.m3u8",
+                    "http://193.47.62.44/hls/DKKK.m3u8",
+                    "http://193.47.62.55/hls/DKKK.m3u8",
+                    "http://193.47.62.59/hls/DKKK.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.41/hls/DKKK.m3u8",
+                "http://193.47.62.44/hls/DKKK.m3u8",
+                "http://193.47.62.55/hls/DKKK.m3u8",
+                "http://193.47.62.59/hls/DKKK.m3u8"
+            ]
+        },
+        {
+            "name": "Albania vs Belarus --- CH 2",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Albania vs Belarus --- CH 2.html",
+            "home_team": "Albania",
+            "away_team": "Belarus --- CH 2",
+            "page_status": 200,
+            "page_title": "FawaNews - Albania vs Belarus - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "https://www.rtmpcdn.com/live/6d627e06-f3d1-4122-8b5f-27dd422abf46.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://www.rtmpcdn.com/live/6d627e06-f3d1-4122-8b5f-27dd422abf46.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://www.rtmpcdn.com/live/6d627e06-f3d1-4122-8b5f-27dd422abf46.m3u8",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "https://www.rtmpcdn.com/live/6d627e06-f3d1-4122-8b5f-27dd422abf46.m3u8",
+                "http://www.rtmpcdn.com/live/6d627e06-f3d1-4122-8b5f-27dd422abf46.m3u8"
+            ]
+        },
         {
             "name": "Zuffa Boxing 11 : Fisher vs Pirotton",
             "type": "live_event",
@@ -255,355 +869,6 @@
             },
             "best_stream_urls": [
                 "http://193.47.62.50/hls/DSSS1Q.m3u8"
-            ]
-        },
-        {
-            "name": "UEFA Nations League Simulcast",
-            "type": "live_event",
-            "league": "UEFA Nations League",
-            "time": "19:45",
-            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/UEFA Nations League Simulcast.html",
-            "page_status": 200,
-            "page_title": "FawaNews - UEFA Nations League Simulcast - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.44/hls/AYYYY.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.44/hls/AYYYY.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.44/hls/AYYYY.m3u8"
-            ]
-        },
-        {
-            "name": "England vs Spain",
-            "type": "live_event",
-            "league": "UEFA Nations League",
-            "time": "19:45",
-            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/England vs Spain.html",
-            "home_team": "England",
-            "away_team": "Spain",
-            "page_status": 200,
-            "page_title": "FawaNews - England vs Spain - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.41/hls/DKKKAAAA.m3u8",
-                    "http://193.47.62.44/hls/DKKKAAAA.m3u8",
-                    "http://193.47.62.55/hls/DKKKAAAA.m3u8",
-                    "http://193.47.62.59/hls/DKKKAAAA.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.41/hls/DKKKAAAA.m3u8",
-                    "http://193.47.62.44/hls/DKKKAAAA.m3u8",
-                    "http://193.47.62.55/hls/DKKKAAAA.m3u8",
-                    "http://193.47.62.59/hls/DKKKAAAA.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.41/hls/DKKKAAAA.m3u8",
-                "http://193.47.62.44/hls/DKKKAAAA.m3u8",
-                "http://193.47.62.55/hls/DKKKAAAA.m3u8",
-                "http://193.47.62.59/hls/DKKKAAAA.m3u8"
-            ]
-        },
-        {
-            "name": "Czech Republic vs Croatia",
-            "type": "live_event",
-            "league": "UEFA Nations League",
-            "time": "19:45",
-            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Czech Republic vs Croatia.html",
-            "home_team": "Czech Republic",
-            "away_team": "Croatia",
-            "page_status": 200,
-            "page_title": "FawaNews - Czech Republic vs Croatia - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.41/hls/DKKKAAA.m3u8",
-                    "http://193.47.62.44/hls/DKKKAAA.m3u8",
-                    "http://193.47.62.55/hls/DKKKAAA.m3u8",
-                    "http://193.47.62.59/hls/DKKKAAA.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.41/hls/DKKKAAA.m3u8",
-                    "http://193.47.62.44/hls/DKKKAAA.m3u8",
-                    "http://193.47.62.55/hls/DKKKAAA.m3u8",
-                    "http://193.47.62.59/hls/DKKKAAA.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.41/hls/DKKKAAA.m3u8",
-                "http://193.47.62.44/hls/DKKKAAA.m3u8",
-                "http://193.47.62.55/hls/DKKKAAA.m3u8",
-                "http://193.47.62.59/hls/DKKKAAA.m3u8"
-            ]
-        },
-        {
-            "name": "North Macedonia vs Switzerland",
-            "type": "live_event",
-            "league": "UEFA Nations League",
-            "time": "19:45",
-            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/North Macedonia vs Switzerland.html",
-            "home_team": "North Macedonia",
-            "away_team": "Switzerland",
-            "page_status": 200,
-            "page_title": "FawaNews - North Macedonia vs Switzerland - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.41/hls/DKKKAA.m3u8",
-                    "http://193.47.62.44/hls/DKKKAA.m3u8",
-                    "http://193.47.62.55/hls/DKKKAA.m3u8",
-                    "http://193.47.62.59/hls/DKKKAA.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.41/hls/DKKKAA.m3u8",
-                    "http://193.47.62.44/hls/DKKKAA.m3u8",
-                    "http://193.47.62.55/hls/DKKKAA.m3u8",
-                    "http://193.47.62.59/hls/DKKKAA.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.41/hls/DKKKAA.m3u8",
-                "http://193.47.62.44/hls/DKKKAA.m3u8",
-                "http://193.47.62.55/hls/DKKKAA.m3u8",
-                "http://193.47.62.59/hls/DKKKAA.m3u8"
-            ]
-        },
-        {
-            "name": "Slovakia vs Moldova",
-            "type": "live_event",
-            "league": "UEFA Nations League",
-            "time": "19:45",
-            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Slovakia vs Moldova.html",
-            "home_team": "Slovakia",
-            "away_team": "Moldova",
-            "page_status": 200,
-            "page_title": "FawaNews - Slovakia vs Moldova - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.41/hls/DKKKA.m3u8",
-                    "http://193.47.62.44/hls/DKKKA.m3u8",
-                    "http://193.47.62.55/hls/DKKKA.m3u8",
-                    "http://193.47.62.59/hls/DKKKA.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.41/hls/DKKKA.m3u8",
-                    "http://193.47.62.44/hls/DKKKA.m3u8",
-                    "http://193.47.62.55/hls/DKKKA.m3u8",
-                    "http://193.47.62.59/hls/DKKKA.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.41/hls/DKKKA.m3u8",
-                "http://193.47.62.44/hls/DKKKA.m3u8",
-                "http://193.47.62.55/hls/DKKKA.m3u8",
-                "http://193.47.62.59/hls/DKKKA.m3u8"
-            ]
-        },
-        {
-            "name": "Albania vs Belarus",
-            "type": "live_event",
-            "league": "UEFA Nations League",
-            "time": "19:45",
-            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Albania vs Belarus.html",
-            "home_team": "Albania",
-            "away_team": "Belarus",
-            "page_status": 200,
-            "page_title": "FawaNews - Albania vs Belarus - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.41/hls/DKKK.m3u8",
-                    "http://193.47.62.44/hls/DKKK.m3u8",
-                    "http://193.47.62.55/hls/DKKK.m3u8",
-                    "http://193.47.62.59/hls/DKKK.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.41/hls/DKKK.m3u8",
-                    "http://193.47.62.44/hls/DKKK.m3u8",
-                    "http://193.47.62.55/hls/DKKK.m3u8",
-                    "http://193.47.62.59/hls/DKKK.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.41/hls/DKKK.m3u8",
-                "http://193.47.62.44/hls/DKKK.m3u8",
-                "http://193.47.62.55/hls/DKKK.m3u8",
-                "http://193.47.62.59/hls/DKKK.m3u8"
             ]
         },
         {
@@ -3626,11 +3891,11 @@
                 "mp4_links": [],
                 "js_links": [
                     "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1286085471177781250/NoQS24sO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1940954590309957632/wkD83W5C_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1933644695852216320/wQhK_eGO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2033556565949571072/eWsw95pz_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1845772290597834760/5IXMkq0j_400x400.png",
                     "https://pbs.twimg.com/profile_images/1766404207723032576/t5cxyxlX_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg",
@@ -3679,11 +3944,11 @@
                 "all_candidate_urls": [
                     "https://www.google.com/",
                     "http://www.fawanews.sc/",
+                    "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1286085471177781250/NoQS24sO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1940954590309957632/wkD83W5C_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1933644695852216320/wQhK_eGO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2033556565949571072/eWsw95pz_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1845772290597834760/5IXMkq0j_400x400.png",
                     "https://pbs.twimg.com/profile_images/1766404207723032576/t5cxyxlX_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg",
@@ -3726,11 +3991,11 @@
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPQmXrh03sQ9GY58oNjuhr0FJUVZeCjsZuwI0-dgL149XwOEU1Vg6OuXM9jFfzr1lCVmN3RyRb2hnr_x2BqzqeX85ww3QZ6nN1jyiDaHptCmDsX71MtHauG9OUG7o_6dWZZvTzIiBGSRExxFB3tqpbdogVtDk04oNEyisQwMoyBab7Y9f2w826B-95/s320/_128317661_gettyimages-1246229936.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
+                    "http://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1286085471177781250/NoQS24sO_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1940954590309957632/wkD83W5C_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1933644695852216320/wQhK_eGO_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2033556565949571072/eWsw95pz_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1845772290597834760/5IXMkq0j_400x400.png",
                     "http://pbs.twimg.com/profile_images/1766404207723032576/t5cxyxlX_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg",
@@ -3837,11 +4102,11 @@
                 "mp4_links": [],
                 "js_links": [
                     "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1286085471177781250/NoQS24sO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1940954590309957632/wkD83W5C_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1933644695852216320/wQhK_eGO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2033556565949571072/eWsw95pz_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1845772290597834760/5IXMkq0j_400x400.png",
                     "https://pbs.twimg.com/profile_images/1766404207723032576/t5cxyxlX_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg",
@@ -3890,11 +4155,11 @@
                 "all_candidate_urls": [
                     "https://www.google.com/",
                     "http://www.fawanews.sc/",
+                    "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1286085471177781250/NoQS24sO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1940954590309957632/wkD83W5C_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1933644695852216320/wQhK_eGO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2033556565949571072/eWsw95pz_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1845772290597834760/5IXMkq0j_400x400.png",
                     "https://pbs.twimg.com/profile_images/1766404207723032576/t5cxyxlX_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg",
@@ -3937,11 +4202,11 @@
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPQmXrh03sQ9GY58oNjuhr0FJUVZeCjsZuwI0-dgL149XwOEU1Vg6OuXM9jFfzr1lCVmN3RyRb2hnr_x2BqzqeX85ww3QZ6nN1jyiDaHptCmDsX71MtHauG9OUG7o_6dWZZvTzIiBGSRExxFB3tqpbdogVtDk04oNEyisQwMoyBab7Y9f2w826B-95/s320/_128317661_gettyimages-1246229936.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
+                    "http://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1286085471177781250/NoQS24sO_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1940954590309957632/wkD83W5C_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1933644695852216320/wQhK_eGO_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2033556565949571072/eWsw95pz_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1845772290597834760/5IXMkq0j_400x400.png",
                     "http://pbs.twimg.com/profile_images/1766404207723032576/t5cxyxlX_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg",
@@ -4047,11 +4312,11 @@
                 "mp4_links": [],
                 "js_links": [
                     "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1286085471177781250/NoQS24sO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1940954590309957632/wkD83W5C_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1933644695852216320/wQhK_eGO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2033556565949571072/eWsw95pz_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1845772290597834760/5IXMkq0j_400x400.png",
                     "https://pbs.twimg.com/profile_images/1766404207723032576/t5cxyxlX_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg",
@@ -4100,11 +4365,11 @@
                 "all_candidate_urls": [
                     "https://www.google.com/",
                     "http://www.fawanews.sc/",
+                    "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1286085471177781250/NoQS24sO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1940954590309957632/wkD83W5C_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1933644695852216320/wQhK_eGO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2033556565949571072/eWsw95pz_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1845772290597834760/5IXMkq0j_400x400.png",
                     "https://pbs.twimg.com/profile_images/1766404207723032576/t5cxyxlX_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg",
@@ -4147,11 +4412,11 @@
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPQmXrh03sQ9GY58oNjuhr0FJUVZeCjsZuwI0-dgL149XwOEU1Vg6OuXM9jFfzr1lCVmN3RyRb2hnr_x2BqzqeX85ww3QZ6nN1jyiDaHptCmDsX71MtHauG9OUG7o_6dWZZvTzIiBGSRExxFB3tqpbdogVtDk04oNEyisQwMoyBab7Y9f2w826B-95/s320/_128317661_gettyimages-1246229936.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
+                    "http://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1286085471177781250/NoQS24sO_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1940954590309957632/wkD83W5C_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1933644695852216320/wQhK_eGO_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2033556565949571072/eWsw95pz_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1845772290597834760/5IXMkq0j_400x400.png",
                     "http://pbs.twimg.com/profile_images/1766404207723032576/t5cxyxlX_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg",
@@ -4265,11 +4530,11 @@
                 "mp4_links": [],
                 "js_links": [
                     "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1286085471177781250/NoQS24sO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1940954590309957632/wkD83W5C_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1933644695852216320/wQhK_eGO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2033556565949571072/eWsw95pz_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1845772290597834760/5IXMkq0j_400x400.png",
                     "https://pbs.twimg.com/profile_images/1766404207723032576/t5cxyxlX_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg",
@@ -4318,11 +4583,11 @@
                 "all_candidate_urls": [
                     "https://www.google.com/",
                     "http://www.fawanews.sc/",
+                    "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1286085471177781250/NoQS24sO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1940954590309957632/wkD83W5C_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1933644695852216320/wQhK_eGO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2033556565949571072/eWsw95pz_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1845772290597834760/5IXMkq0j_400x400.png",
                     "https://pbs.twimg.com/profile_images/1766404207723032576/t5cxyxlX_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg",
@@ -4365,11 +4630,11 @@
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPQmXrh03sQ9GY58oNjuhr0FJUVZeCjsZuwI0-dgL149XwOEU1Vg6OuXM9jFfzr1lCVmN3RyRb2hnr_x2BqzqeX85ww3QZ6nN1jyiDaHptCmDsX71MtHauG9OUG7o_6dWZZvTzIiBGSRExxFB3tqpbdogVtDk04oNEyisQwMoyBab7Y9f2w826B-95/s320/_128317661_gettyimages-1246229936.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
+                    "http://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1286085471177781250/NoQS24sO_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1940954590309957632/wkD83W5C_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1933644695852216320/wQhK_eGO_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2033556565949571072/eWsw95pz_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1845772290597834760/5IXMkq0j_400x400.png",
                     "http://pbs.twimg.com/profile_images/1766404207723032576/t5cxyxlX_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg",
@@ -4475,11 +4740,11 @@
                 "mp4_links": [],
                 "js_links": [
                     "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1286085471177781250/NoQS24sO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1940954590309957632/wkD83W5C_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1933644695852216320/wQhK_eGO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2033556565949571072/eWsw95pz_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1845772290597834760/5IXMkq0j_400x400.png",
                     "https://pbs.twimg.com/profile_images/1766404207723032576/t5cxyxlX_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg",
@@ -4528,11 +4793,11 @@
                 "all_candidate_urls": [
                     "https://www.google.com/",
                     "http://www.fawanews.sc/",
+                    "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1286085471177781250/NoQS24sO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1940954590309957632/wkD83W5C_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1933644695852216320/wQhK_eGO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2033556565949571072/eWsw95pz_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1845772290597834760/5IXMkq0j_400x400.png",
                     "https://pbs.twimg.com/profile_images/1766404207723032576/t5cxyxlX_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg",
@@ -4575,11 +4840,11 @@
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPQmXrh03sQ9GY58oNjuhr0FJUVZeCjsZuwI0-dgL149XwOEU1Vg6OuXM9jFfzr1lCVmN3RyRb2hnr_x2BqzqeX85ww3QZ6nN1jyiDaHptCmDsX71MtHauG9OUG7o_6dWZZvTzIiBGSRExxFB3tqpbdogVtDk04oNEyisQwMoyBab7Y9f2w826B-95/s320/_128317661_gettyimages-1246229936.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
+                    "http://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1286085471177781250/NoQS24sO_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1940954590309957632/wkD83W5C_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1933644695852216320/wQhK_eGO_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2033556565949571072/eWsw95pz_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1845772290597834760/5IXMkq0j_400x400.png",
                     "http://pbs.twimg.com/profile_images/1766404207723032576/t5cxyxlX_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg",
