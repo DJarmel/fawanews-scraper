@@ -1,42 +1,66 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Iceland vs Estonia --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Iceland vs Estonia --- CH 1 - 17:00
-http://193.47.62.41/hls/Z111A.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Iceland vs Estonia --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Iceland vs Estonia --- CH 2 [1] - 17:00
-https://www.rtmpcdn.com/live/a77c0828-8589-493b-9699-a8e624953f16.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Iceland vs Estonia --- CH 2 [2]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Iceland vs Estonia --- CH 2 [2] - 17:00
-http://www.rtmpcdn.com/live/a77c0828-8589-493b-9699-a8e624953f16.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Bulgaria vs Luxembourg --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Bulgaria vs Luxembourg --- CH 1 - 17:00
-http://193.47.62.44/hls/Z111AAA.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Bulgaria vs Luxembourg --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Bulgaria vs Luxembourg --- CH 2 [1] - 17:00
-https://www.rtmpcdn.com/live/4a34ea24-efd9-4b6c-80f8-e18b66b2c97a.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Bulgaria vs Luxembourg --- CH 2 [2]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Bulgaria vs Luxembourg --- CH 2 [2] - 17:00
-http://www.rtmpcdn.com/live/4a34ea24-efd9-4b6c-80f8-e18b66b2c97a.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Faroe Islands vs Kazakhstan --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Faroe Islands vs Kazakhstan --- CH 1 - 17:00
-http://193.47.62.44/hls/Z111AA.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Faroe Islands vs Kazakhstan --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Faroe Islands vs Kazakhstan --- CH 2 [1] - 17:00
-https://www.rtmpcdn.com/live/0d02c6d3-dc04-4310-b79a-36d4b9f8da11.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Faroe Islands vs Kazakhstan --- CH 2 [2]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Faroe Islands vs Kazakhstan --- CH 2 [2] - 17:00
-http://www.rtmpcdn.com/live/0d02c6d3-dc04-4310-b79a-36d4b9f8da11.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="San Marino vs Finland --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",San Marino vs Finland --- CH 1 - 17:00
-http://193.47.62.41/hls/Z111.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="San Marino vs Finland --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",San Marino vs Finland --- CH 2 [1] - 17:00
-https://www.rtmpcdn.com/live/628a5a69-0012-4fa7-84c2-6e599b6d5769.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="San Marino vs Finland --- CH 2 [2]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",San Marino vs Finland --- CH 2 [2] - 17:00
-http://www.rtmpcdn.com/live/628a5a69-0012-4fa7-84c2-6e599b6d5769.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Zuffa Boxing 11 : Fisher vs Pirotton" tvg-logo="https://pbs.twimg.com/profile_images/1286085471177781250/NoQS24sO_400x400.jpg" group-title="Boxing",Zuffa Boxing 11 : Fisher vs Pirotton - --:--
 http://193.47.62.50/hls/DSSS1QQQQQ.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="MMA BKFC 94 : Till vs Romero" tvg-logo="https://pbs.twimg.com/profile_images/1940954590309957632/wkD83W5C_400x400.jpg" group-title="MMA Fighting",MMA BKFC 94 : Till vs Romero - --:--
+http://193.47.62.50/hls/AYYYYa.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Boxing : Davies vs Collins" tvg-logo="https://pbs.twimg.com/profile_images/1286085471177781250/NoQS24sO_400x400.jpg" group-title="Boxing",Boxing : Davies vs Collins - --:--
 http://193.47.62.50/hls/kikiki.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="MMA Oktagon 94" tvg-logo="https://pbs.twimg.com/profile_images/1933644695852216320/wQhK_eGO_400x400.jpg" group-title="MMA Fighting",MMA Oktagon 94 - --:--
 http://193.47.62.50/hls/kikikiA.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="MMA Cage Warriors" tvg-logo="https://pbs.twimg.com/profile_images/2033556565949571072/eWsw95pz_400x400.jpg" group-title="MMA Fighting",MMA Cage Warriors - --:--
 http://193.47.62.50/hls/DSSS1Q.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="UEFA Nations League Simulcast" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",UEFA Nations League Simulcast - 19:45
+http://193.47.62.44/hls/AYYYY.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="England vs Spain [1]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",England vs Spain [1] - 19:45
+http://193.47.62.41/hls/DKKKAAAA.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="England vs Spain [2]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",England vs Spain [2] - 19:45
+http://193.47.62.44/hls/DKKKAAAA.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="England vs Spain [3]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",England vs Spain [3] - 19:45
+http://193.47.62.55/hls/DKKKAAAA.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="England vs Spain [4]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",England vs Spain [4] - 19:45
+http://193.47.62.59/hls/DKKKAAAA.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Czech Republic vs Croatia [1]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Czech Republic vs Croatia [1] - 19:45
+http://193.47.62.41/hls/DKKKAAA.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Czech Republic vs Croatia [2]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Czech Republic vs Croatia [2] - 19:45
+http://193.47.62.44/hls/DKKKAAA.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Czech Republic vs Croatia [3]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Czech Republic vs Croatia [3] - 19:45
+http://193.47.62.55/hls/DKKKAAA.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Czech Republic vs Croatia [4]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Czech Republic vs Croatia [4] - 19:45
+http://193.47.62.59/hls/DKKKAAA.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="North Macedonia vs Switzerland [1]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",North Macedonia vs Switzerland [1] - 19:45
+http://193.47.62.41/hls/DKKKAA.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="North Macedonia vs Switzerland [2]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",North Macedonia vs Switzerland [2] - 19:45
+http://193.47.62.44/hls/DKKKAA.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="North Macedonia vs Switzerland [3]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",North Macedonia vs Switzerland [3] - 19:45
+http://193.47.62.55/hls/DKKKAA.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="North Macedonia vs Switzerland [4]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",North Macedonia vs Switzerland [4] - 19:45
+http://193.47.62.59/hls/DKKKAA.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Slovakia vs Moldova [1]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Slovakia vs Moldova [1] - 19:45
+http://193.47.62.41/hls/DKKKA.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Slovakia vs Moldova [2]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Slovakia vs Moldova [2] - 19:45
+http://193.47.62.44/hls/DKKKA.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Slovakia vs Moldova [3]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Slovakia vs Moldova [3] - 19:45
+http://193.47.62.55/hls/DKKKA.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Slovakia vs Moldova [4]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Slovakia vs Moldova [4] - 19:45
+http://193.47.62.59/hls/DKKKA.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Albania vs Belarus [1]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Albania vs Belarus [1] - 19:45
+http://193.47.62.41/hls/DKKK.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Albania vs Belarus [2]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Albania vs Belarus [2] - 19:45
+http://193.47.62.44/hls/DKKK.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Albania vs Belarus [3]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Albania vs Belarus [3] - 19:45
+http://193.47.62.55/hls/DKKK.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Albania vs Belarus [4]" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg" group-title="UEFA Nations League",Albania vs Belarus [4] - 19:45
+http://193.47.62.59/hls/DKKK.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Scarlets vs Cardiff Rugby" tvg-logo="https://pbs.twimg.com/profile_images/1845772290597834760/5IXMkq0j_400x400.png" group-title="United Rugby Championship",Scarlets vs Cardiff Rugby - 19:45
 http://193.47.62.44/hls/DADADAQQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Panathinaikos vs PAOK" tvg-logo="https://pbs.twimg.com/profile_images/1766404207723032576/t5cxyxlX_400x400.jpg" group-title="Basketball Greece Super Cup",Panathinaikos vs PAOK - 19:00
 http://193.47.62.50/hls/RRRRAAAAAQQQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Oman vs Saudi Arabia" tvg-logo="https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg" group-title="Arabian Gulf Cup",Oman vs Saudi Arabia - 19:00
+#EXTINF:-1 tvg-name="Oman vs Saudi Arabia --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg" group-title="Arabian Gulf Cup",Oman vs Saudi Arabia --- CH 1 - 19:00
 http://193.47.62.50/hls/FFFFQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Oman vs Saudi Arabia --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg" group-title="Arabian Gulf Cup",Oman vs Saudi Arabia --- CH 2 [1] - 19:00
+https://www.rtmpcdn.com/live/135291f5-fda8-46b5-af7a-d422e9cd725a.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Oman vs Saudi Arabia --- CH 2 [2]" tvg-logo="https://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg" group-title="Arabian Gulf Cup",Oman vs Saudi Arabia --- CH 2 [2] - 19:00
+http://www.rtmpcdn.com/live/135291f5-fda8-46b5-af7a-d422e9cd725a.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Cerro Largo vs Nacional" tvg-logo="https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg" group-title="Uruguay Liga AUF",Cerro Largo vs Nacional - 19:00
 http://193.47.62.50/hls/RRRRAAAAAQQ.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Roda vs Waalwijk" tvg-logo="https://pbs.twimg.com/profile_images/1818212439587954688/cfENWUEg_400x400.jpg" group-title="Dutch Eerste Divisie",Roda vs Waalwijk - 19:00
@@ -125,43 +149,7 @@ http://193.47.62.50/hls/NUUUQ.m3u8|Referer=http://www.fawanews.sc/
 http://193.47.62.50/hls/NUUU.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Akron vs UNLV Rebels" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="NCAA American Football",Akron vs UNLV Rebels - 17:00
 http://193.47.62.50/hls/FFFFQQQQQQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Kuwait vs Iraq --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg" group-title="Arabian Gulf Cup",Kuwait vs Iraq --- CH 1 - 16:55
-http://193.47.62.50/hls/FFFFQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Kuwait vs Iraq --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg" group-title="Arabian Gulf Cup",Kuwait vs Iraq --- CH 2 [1] - 16:55
-https://www.rtmpcdn.com/live/d7149645-7a0c-403c-80cb-7336c17795dd.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Kuwait vs Iraq --- CH 2 [2]" tvg-logo="https://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg" group-title="Arabian Gulf Cup",Kuwait vs Iraq --- CH 2 [2] - 16:55
-http://www.rtmpcdn.com/live/d7149645-7a0c-403c-80cb-7336c17795dd.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Everton-Liverpool XI vs World XI" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Everton-Liverpool XI vs World XI - 16:45
-http://193.47.62.55/hls/NTTTAAAAZ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="France W vs Canada W" tvg-logo="https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg" group-title="Rugby Women",France W vs Canada W - 16:45
-http://193.47.62.50/hls/FFFFQQQQQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Scotland W vs Australia W" tvg-logo="https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg" group-title="Rugby Women",Scotland W vs Australia W - 16:10
-http://193.47.62.50/hls/FFFFQQQQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Finland vs Slovenia" tvg-logo="https://pbs.twimg.com/profile_images/1129730799639646209/UVAhxHiK_400x400.png" group-title="Volleyball European Championship",Finland vs Slovenia - 16:00
-http://193.47.62.50/hls/FFFFQQQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Georgia U21 vs Greece U21" tvg-logo="https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg" group-title="Euro U21 Qualification",Georgia U21 vs Greece U21 - 16:00
-http://193.47.62.50/hls/FFFFQQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Croatia U21 vs Hungary U21" tvg-logo="https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg" group-title="Euro U21 Qualification",Croatia U21 vs Hungary U21 - 16:00
-http://193.47.62.50/hls/FFFFQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Utsikten vs Jonkoping" tvg-logo="https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg" group-title="Sweden Division 1",Utsikten vs Jonkoping - 16:00
-http://193.47.62.50/hls/FFFF.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Stade Francais Paris vs Lyon" tvg-logo="https://pbs.twimg.com/profile_images/1660209856731643905/f1K1xeM7_400x400.jpg" group-title="France Rugby Top14",Stade Francais Paris vs Lyon - 15:35
-http://193.47.62.50/hls/ykkkqQQQQQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="RC Toulonnais vs Vannes" tvg-logo="https://pbs.twimg.com/profile_images/1660209856731643905/f1K1xeM7_400x400.jpg" group-title="France Rugby Top14",RC Toulonnais vs Vannes - 15:35
-http://193.47.62.50/hls/ykkkqQQQQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Racing 92 vs Aviron Bayonnais" tvg-logo="https://pbs.twimg.com/profile_images/1660209856731643905/f1K1xeM7_400x400.jpg" group-title="France Rugby Top14",Racing 92 vs Aviron Bayonnais - 15:35
-http://193.47.62.50/hls/ykkkqQQQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Clermont vs Castres Olympique" tvg-logo="https://pbs.twimg.com/profile_images/1660209856731643905/f1K1xeM7_400x400.jpg" group-title="France Rugby Top14",Clermont vs Castres Olympique - 15:35
-http://193.47.62.50/hls/ykkkqQQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Heracles vs Vitesse" tvg-logo="https://pbs.twimg.com/profile_images/1818212439587954688/cfENWUEg_400x400.jpg" group-title="Dutch Eerste Divisie",Heracles vs Vitesse - 15:30
-http://193.47.62.50/hls/ykkkq.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Logrono W vs Barcelona W" tvg-logo="https://pbs.twimg.com/profile_images/2034221282649116672/9gcwTqQp_400x400.jpg" group-title="Spanish Liga F Women",Logrono W vs Barcelona W - 15:30
-http://193.47.62.50/hls/ykkkqQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Granada CF vs Andorra" tvg-logo="https://pbs.twimg.com/profile_images/2043992816377049088/r9FnBdQu_400x400.jpg" group-title="Spanish Segunda Liga",Granada CF vs Andorra - 15:15
-http://193.47.62.50/hls/abbbQ.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Tennis Laver Cup" tvg-logo="https://pbs.twimg.com/profile_images/1316345715359059969/Ue5DSzp4_400x400.jpg" group-title="Tennis",Tennis Laver Cup - 13:00
 http://193.47.62.50/hls/abbbQQ.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Golf PGA Presidents Cup" tvg-logo="https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg" group-title="Golf PGA",Golf PGA Presidents Cup - 13:00
 http://193.47.62.50/hls/FPPPVVAA.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Golf FedEx Open de France" tvg-logo="https://pbs.twimg.com/profile_images/2102312615414304768/XJZf8j_A_400x400.jpg" group-title="Golf",Golf FedEx Open de France - 12:00
-http://193.47.62.50/hls/FPPPVVA.m3u8|Referer=http://www.fawanews.sc/
