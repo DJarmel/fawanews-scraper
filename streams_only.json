@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-26T17:14:37.569658",
-    "total_with_streams": 67,
+    "fetched_at": "2026-09-26T17:43:01.648569",
+    "total_with_streams": 78,
     "events_with_streams": [
         {
             "name": "Iceland vs Estonia --- CH 1",
@@ -177,13 +177,167 @@
             "name": "MMA Cage Warriors",
             "type": "live_event",
             "league": "MMA Fighting",
-            "time": "18:30",
+            "time": "--:--",
             "page_link": "http://www.fawanews.sc/MMA Cage Warriors.html",
             "image_url": "https://pbs.twimg.com/profile_images/2033556565949571072/eWsw95pz_400x400.jpg",
             "streams": [
                 {
                     "original_url": "http://193.47.62.50/hls/DSSS1Q.m3u8",
                     "m3u_url": "http://193.47.62.50/hls/DSSS1Q.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Scarlets vs Cardiff Rugby",
+            "type": "live_event",
+            "league": "United Rugby Championship",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Scarlets vs Cardiff Rugby.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1845772290597834760/5IXMkq0j_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/DADADAQQQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/DADADAQQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Panathinaikos vs PAOK",
+            "type": "live_event",
+            "league": "Basketball Greece Super Cup",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Panathinaikos vs PAOK.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1766404207723032576/t5cxyxlX_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/RRRRAAAAAQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/RRRRAAAAAQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Oman vs Saudi Arabia",
+            "type": "live_event",
+            "league": "Arabian Gulf Cup",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Oman vs Saudi Arabia.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/FFFFQQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/FFFFQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Cerro Largo vs Nacional",
+            "type": "live_event",
+            "league": "Uruguay Liga AUF",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Cerro Largo vs Nacional.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/RRRRAAAAAQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/RRRRAAAAAQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Roda vs Waalwijk",
+            "type": "live_event",
+            "league": "Dutch Eerste Divisie",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Roda vs Waalwijk.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818212439587954688/cfENWUEg_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/RRRRAAAAAQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/RRRRAAAAAQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "NAC Breda vs Eindhoven FC",
+            "type": "live_event",
+            "league": "Dutch Eerste Divisie",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/NAC Breda vs Eindhoven FC.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818212439587954688/cfENWUEg_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/RRRRAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/RRRRAAAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Maastricht vs Helmond",
+            "type": "live_event",
+            "league": "Dutch Eerste Divisie",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Maastricht vs Helmond.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818212439587954688/cfENWUEg_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/RRRRAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/RRRRAAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "FC Volendam vs Venlo",
+            "type": "live_event",
+            "league": "Dutch Eerste Divisie",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/FC Volendam vs Venlo.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818212439587954688/cfENWUEg_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/RRRRAAA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/RRRRAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "FC Emmen vs FC Oss",
+            "type": "live_event",
+            "league": "Dutch Eerste Divisie",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/FC Emmen vs FC Oss.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818212439587954688/cfENWUEg_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/RRRRAA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/RRRRAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Purdue vs Notre Dame",
+            "type": "live_event",
+            "league": "NCAA American Football",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Purdue vs Notre Dame.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/RRRRA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/RRRRA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Georgia State Panthers vs Northern Illinois",
+            "type": "live_event",
+            "league": "NCAA American Football",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Georgia State Panthers vs Northern Illinois.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/RRRR.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/RRRR.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
