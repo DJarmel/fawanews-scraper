@@ -1,26 +1,8 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-27T11:42:32.275333",
-    "total_with_streams": 34,
+    "fetched_at": "2026-09-27T12:18:40.010871",
+    "total_with_streams": 38,
     "events_with_streams": [
-        {
-            "name": "Australia vs South Africa",
-            "type": "live_event",
-            "league": "Rugby Friendly",
-            "time": "10:30",
-            "page_link": "http://www.fawanews.sc/Australia vs South Africa.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/AEEE.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/AEEE.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://193.47.62.50/hls/AEEE.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/AEEE.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
         {
             "name": "Boxing : Inoue vs Nasukawa 2",
             "type": "live_event",
@@ -36,30 +18,114 @@
             ]
         },
         {
-            "name": "Valladolid vs Cordoba",
+            "name": "Lithuania vs Azerbaijan",
             "type": "live_event",
-            "league": "Spanish Segunda Liga",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Valladolid vs Cordoba.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2043992816377049088/r9FnBdQu_400x400.jpg",
+            "league": "UEFA Nations League",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Lithuania vs Azerbaijan.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.44/hls/ZFFFAAAQ.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/ZFFFAAAQ.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.59/hls/E666QQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/E666QQQQ.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
         {
-            "name": "Manchester Utd W vs West Ham W",
+            "name": "Olando Pirates U23 vs Kaizer Chiefs U23",
+            "type": "live_event",
+            "league": "South Africa Diski Challenge",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Olando Pirates U23 vs Kaizer Chiefs U23.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ZAZAZA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ZAZAZA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Tottenham W vs Aston Villa W",
             "type": "live_event",
             "league": "English Women Super League",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Manchester Utd W vs West Ham W.html",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Tottenham W vs Aston Villa W.html",
             "image_url": "https://pbs.twimg.com/profile_images/2095475297214758912/FzYuFMEr_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.44/hls/ZFFF.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/ZFFF.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.59/hls/E666QQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/E666QQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Liverpool W vs Everton W",
+            "type": "live_event",
+            "league": "English Women Super League",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Liverpool W vs Everton W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2095475297214758912/FzYuFMEr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/E666QQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/E666QQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Birmingham W vs Crystal Palace W",
+            "type": "live_event",
+            "league": "English Women Super League",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Birmingham W vs Crystal Palace W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2095475297214758912/FzYuFMEr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/E666Q.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/E666Q.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Sassuolo W vs AS Roma W",
+            "type": "live_event",
+            "league": "Italy Women Serie A",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Sassuolo W vs AS Roma W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/E666.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/E666.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Cycling UCI Road World Championships",
+            "type": "live_event",
+            "league": "Cycling",
+            "time": "13:50",
+            "page_link": "http://www.fawanews.sc/Cycling UCI Road World Championships.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1158457373423472641/ltjhInLQ_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/ZFFFAAAQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/ZFFFAAAQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "De Graafschap vs FC Den Bosch",
+            "type": "live_event",
+            "league": "Dutch Eerste Divisie",
+            "time": "13:30",
+            "page_link": "http://www.fawanews.sc/De Graafschap vs FC Den Bosch.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818212439587954688/cfENWUEg_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/ZFFFAAAQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/ZFFFAAAQQ.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -78,7 +144,85 @@
             ]
         },
         {
-            "name": "Shanghai Shenhua vs Zenit",
+            "name": "World Superbikes Italy",
+            "type": "live_event",
+            "league": "Superbikes",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/World Superbikes Italy.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1486618439510806530/0sditKjT_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/EZEZEZEZA.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/EZEZEZEZA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Valladolid vs Cordoba --- CH 1",
+            "type": "live_event",
+            "league": "Spanish Segunda Liga",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Valladolid vs Cordoba.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2043992816377049088/r9FnBdQu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/ZFFFAAAQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/ZFFFAAAQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Valladolid vs Cordoba --- CH 2",
+            "type": "live_event",
+            "league": "Spanish Segunda Liga",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Valladolid vs Cordoba --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2043992816377049088/r9FnBdQu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live1.dyrur1.com/live/72477448_713a73ee10ae73fbdac26f60e8801b0d_540p.m3u8?auth_key=1790524468-0-0-7e03008a327bf0b8e0d2235cbe27ee03",
+                    "m3u_url": "https://live1.dyrur1.com/live/72477448_713a73ee10ae73fbdac26f60e8801b0d_540p.m3u8?auth_key=1790524468-0-0-7e03008a327bf0b8e0d2235cbe27ee03|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://live1.dyrur1.com/live/72477448_713a73ee10ae73fbdac26f60e8801b0d_540p.m3u8?auth_key=1790524468-0-0-7e03008a327bf0b8e0d2235cbe27ee03",
+                    "m3u_url": "http://live1.dyrur1.com/live/72477448_713a73ee10ae73fbdac26f60e8801b0d_540p.m3u8?auth_key=1790524468-0-0-7e03008a327bf0b8e0d2235cbe27ee03|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Manchester Utd W vs West Ham W --- CH 1",
+            "type": "live_event",
+            "league": "English Women Super League",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Manchester Utd W vs West Ham W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2095475297214758912/FzYuFMEr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/ZFFF.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/ZFFF.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Manchester Utd W vs West Ham W --- CH 2",
+            "type": "live_event",
+            "league": "English Women Super League",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Manchester Utd W vs West Ham W --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2095475297214758912/FzYuFMEr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.dyrur1.com/live/73346030_a94c561da384157391168f59a135a187_540p.m3u8?auth_key=1790524551-0-0-08f9849e2a8af5f773ead3c1b5340b08",
+                    "m3u_url": "https://live2.dyrur1.com/live/73346030_a94c561da384157391168f59a135a187_540p.m3u8?auth_key=1790524551-0-0-08f9849e2a8af5f773ead3c1b5340b08|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://live2.dyrur1.com/live/73346030_a94c561da384157391168f59a135a187_540p.m3u8?auth_key=1790524551-0-0-08f9849e2a8af5f773ead3c1b5340b08",
+                    "m3u_url": "http://live2.dyrur1.com/live/73346030_a94c561da384157391168f59a135a187_540p.m3u8?auth_key=1790524551-0-0-08f9849e2a8af5f773ead3c1b5340b08|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Shanghai Shenhua vs Zenit --- CH 1",
             "type": "live_event",
             "league": "Friendly Match",
             "time": "13:00",
@@ -88,6 +232,24 @@
                 {
                     "original_url": "http://193.47.62.44/hls/ZFFFA.m3u8",
                     "m3u_url": "http://193.47.62.44/hls/ZFFFA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Shanghai Shenhua vs Zenit --- CH 2",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Shanghai Shenhua vs Zenit --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/419b636c-0490-4a54-8b28-3da45b81a4ed.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/419b636c-0490-4a54-8b28-3da45b81a4ed.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/419b636c-0490-4a54-8b28-3da45b81a4ed.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/419b636c-0490-4a54-8b28-3da45b81a4ed.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -162,20 +324,6 @@
                 {
                     "original_url": "http://live.dyrur1.com/live/74297864_3349a5995ff06f5abca3c251053a9af7_540p.m3u8?auth_key=1790523255-0-0-84c9a12a57971e20c4e36fb39b7abfe1",
                     "m3u_url": "http://live.dyrur1.com/live/74297864_3349a5995ff06f5abca3c251053a9af7_540p.m3u8?auth_key=1790523255-0-0-84c9a12a57971e20c4e36fb39b7abfe1|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Richards Bay U23 vs Milford FC U23",
-            "type": "live_event",
-            "league": "South Africa Diski Challenge",
-            "time": "12:00",
-            "page_link": "http://www.fawanews.sc/Richards Bay U23 vs Milford FC U23.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/ZAZAZA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/ZAZAZA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -344,90 +492,6 @@
                 {
                     "original_url": "http://193.47.62.194/hls/vavavava.m3u8",
                     "m3u_url": "http://193.47.62.194/hls/vavavava.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Umea FC vs FBK Karlstad",
-            "type": "live_event",
-            "league": "Sweden Division 1",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Umea FC vs FBK Karlstad.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/BHHHAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/BHHHAAAAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Gangwon vs Incheon",
-            "type": "live_event",
-            "league": "South Korea K League",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Gangwon vs Incheon.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/BHHHAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/BHHHAAAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Cambodia vs Myanmar",
-            "type": "live_event",
-            "league": "ASEAN Cup",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Cambodia vs Myanmar.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/BHHHAAA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/BHHHAAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Valencia W vs Costa Adeje Tenerife W",
-            "type": "live_event",
-            "league": "Spanish Liga F Women",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Valencia W vs Costa Adeje Tenerife W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2034221282649116672/9gcwTqQp_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/BHHHAA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/BHHHAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Athletic Bilbao W vs Atl Madrid W",
-            "type": "live_event",
-            "league": "Spanish Liga F Women",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Athletic Bilbao W vs Atl Madrid W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2034221282649116672/9gcwTqQp_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/BHHHA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/BHHHA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Zambia U20 vs Namibia U20",
-            "type": "live_event",
-            "league": "COSAFA Champions League",
-            "time": "10:00",
-            "page_link": "http://www.fawanews.sc/Zambia U20 vs Namibia U20.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1585877185382043649/dT99TLst_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/BHHH.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/BHHH.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
