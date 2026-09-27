@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-27T10:42:05.570070",
-    "total_with_streams": 23,
+    "fetched_at": "2026-09-27T11:14:07.559204",
+    "total_with_streams": 24,
     "events_with_streams": [
         {
             "name": "Australia vs South Africa",
@@ -32,6 +32,20 @@
                 {
                     "original_url": "http://193.47.62.44/hls/bbbbbAAAa.m3u8",
                     "m3u_url": "http://193.47.62.44/hls/bbbbbAAAa.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Richards Bay U23 vs Milford FC U23",
+            "type": "live_event",
+            "league": "South Africa Diski Challenge",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Richards Bay U23 vs Milford FC U23.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/ZAZAZA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/ZAZAZA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
