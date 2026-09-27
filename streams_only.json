@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-27T12:47:26.809398",
-    "total_with_streams": 39,
+    "fetched_at": "2026-09-27T13:14:25.852919",
+    "total_with_streams": 43,
     "events_with_streams": [
         {
             "name": "Boxing : Inoue vs Nasukawa 2",
@@ -64,7 +64,7 @@
             ]
         },
         {
-            "name": "Tottenham W vs Aston Villa W",
+            "name": "Tottenham W vs Aston Villa W --- CH 1",
             "type": "live_event",
             "league": "English Women Super League",
             "time": "14:00",
@@ -78,7 +78,25 @@
             ]
         },
         {
-            "name": "Liverpool W vs Everton W",
+            "name": "Tottenham W vs Aston Villa W --- CH 2",
+            "type": "live_event",
+            "league": "English Women Super League",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Tottenham W vs Aston Villa W --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2095475297214758912/FzYuFMEr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.dyrur1.com/live/73346032_389bb2b9d9bbee1bd0ffb4651c3d7566_540p.m3u8?auth_key=1790527973-0-0-dc783ee5b3d3f473c4f76ec21e80a4b6",
+                    "m3u_url": "https://live2.dyrur1.com/live/73346032_389bb2b9d9bbee1bd0ffb4651c3d7566_540p.m3u8?auth_key=1790527973-0-0-dc783ee5b3d3f473c4f76ec21e80a4b6|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://live2.dyrur1.com/live/73346032_389bb2b9d9bbee1bd0ffb4651c3d7566_540p.m3u8?auth_key=1790527973-0-0-dc783ee5b3d3f473c4f76ec21e80a4b6",
+                    "m3u_url": "http://live2.dyrur1.com/live/73346032_389bb2b9d9bbee1bd0ffb4651c3d7566_540p.m3u8?auth_key=1790527973-0-0-dc783ee5b3d3f473c4f76ec21e80a4b6|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Liverpool W vs Everton W --- CH 1",
             "type": "live_event",
             "league": "English Women Super League",
             "time": "14:00",
@@ -92,7 +110,25 @@
             ]
         },
         {
-            "name": "Birmingham W vs Crystal Palace W",
+            "name": "Liverpool W vs Everton W --- CH 2",
+            "type": "live_event",
+            "league": "English Women Super League",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Liverpool W vs Everton W --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2095475297214758912/FzYuFMEr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live1.dyrur1.com/live/73346036_4d354e51321dbc95f5e4d6d5437bc367_540p.m3u8?auth_key=1790527973-0-0-fb2380b220169737e148c3f2b8f1d9f2",
+                    "m3u_url": "https://live1.dyrur1.com/live/73346036_4d354e51321dbc95f5e4d6d5437bc367_540p.m3u8?auth_key=1790527973-0-0-fb2380b220169737e148c3f2b8f1d9f2|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://live1.dyrur1.com/live/73346036_4d354e51321dbc95f5e4d6d5437bc367_540p.m3u8?auth_key=1790527973-0-0-fb2380b220169737e148c3f2b8f1d9f2",
+                    "m3u_url": "http://live1.dyrur1.com/live/73346036_4d354e51321dbc95f5e4d6d5437bc367_540p.m3u8?auth_key=1790527973-0-0-fb2380b220169737e148c3f2b8f1d9f2|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Birmingham W vs Crystal Palace W --- CH 1",
             "type": "live_event",
             "league": "English Women Super League",
             "time": "14:00",
@@ -102,6 +138,24 @@
                 {
                     "original_url": "http://193.47.62.59/hls/E666Q.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/E666Q.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Birmingham W vs Crystal Palace W --- CH 2",
+            "type": "live_event",
+            "league": "English Women Super League",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Birmingham W vs Crystal Palace W --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2095475297214758912/FzYuFMEr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live.dyrur1.com/live/73346034_04583e30808888307bf923ef461c6b62_540p.m3u8?auth_key=1790527973-0-0-0b9c479119680a13d2859be0606edbcd",
+                    "m3u_url": "https://live.dyrur1.com/live/73346034_04583e30808888307bf923ef461c6b62_540p.m3u8?auth_key=1790527973-0-0-0b9c479119680a13d2859be0606edbcd|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://live.dyrur1.com/live/73346034_04583e30808888307bf923ef461c6b62_540p.m3u8?auth_key=1790527973-0-0-0b9c479119680a13d2859be0606edbcd",
+                    "m3u_url": "http://live.dyrur1.com/live/73346034_04583e30808888307bf923ef461c6b62_540p.m3u8?auth_key=1790527973-0-0-0b9c479119680a13d2859be0606edbcd|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -130,6 +184,20 @@
                 {
                     "original_url": "http://193.47.62.44/hls/ZFFFAAAQQQ.m3u8",
                     "m3u_url": "http://193.47.62.44/hls/ZFFFAAAQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Barcelona vs Zamalek",
+            "type": "live_event",
+            "league": "Handball Club World Championship",
+            "time": "13:30",
+            "page_link": "http://www.fawanews.sc/Barcelona vs Zamalek.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1282235062914887682/I50SovTK_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/CEEEE.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/CEEEE.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
