@@ -73,6 +73,8 @@ http://193.47.62.50/hls/K999AAAAAAAAAQQQ.m3u8|Referer=http://www.fawanews.sc/
 http://193.47.62.50/hls/K999AAAAAAAAAQQ.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Jordan vs Syria" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Jordan vs Syria - 18:00
 http://193.47.62.50/hls/K999AAAAAAAAAQ.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Wigan Warriors W vs York Valkyrie W" tvg-logo="https://pbs.twimg.com/profile_images/2038972517776531456/qwqDiPOu_400x400.jpg" group-title="English Rugby Super League",Wigan Warriors W vs York Valkyrie W - 17:30
+http://193.47.62.50/hls/ZSSS.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Malta vs Liechtenstein" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Malta vs Liechtenstein - 17:30
 http://193.47.62.50/hls/K999AAAAAAAAA.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Eibar vs Las Palmas" tvg-logo="https://pbs.twimg.com/profile_images/2043992816377049088/r9FnBdQu_400x400.jpg" group-title="Spanish Segunda Liga",Eibar vs Las Palmas - 17:30
@@ -81,8 +83,12 @@ http://193.47.62.50/hls/K999AAAAAAAA.m3u8|Referer=http://www.fawanews.sc/
 http://193.47.62.50/hls/K999AAAAAAA.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Golf PGA Presidents Cup" tvg-logo="https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg" group-title="Golf PGA",Golf PGA Presidents Cup - 17:00
 http://193.47.62.50/hls/J777AAAAa.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Spain U20 W vs North Korea U20 W" tvg-logo="https://pbs.twimg.com/profile_images/1800424366703857665/cFuM2ynZ_400x400.jpg" group-title="World Cup Women U20",Spain U20 W vs North Korea U20 W - 17:00
+#EXTINF:-1 tvg-name="Spain U20 W vs North Korea U20 W --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1800424366703857665/cFuM2ynZ_400x400.jpg" group-title="World Cup Women U20",Spain U20 W vs North Korea U20 W --- CH 1 - 17:00
 http://193.47.62.50/hls/K999AAAA.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Spain U20 W vs North Korea U20 W --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/1800424366703857665/cFuM2ynZ_400x400.jpg" group-title="World Cup Women U20",Spain U20 W vs North Korea U20 W --- CH 2 [1] - 17:00
+https://live4.dyrur1.com/live/75001622_87b4215bc591b7903e1fae68abbbb43c_540p.m3u8?auth_key=1790539985-0-0-8f2bbae8d27aefe03ae828ae1e2deb24|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Spain U20 W vs North Korea U20 W --- CH 2 [2]" tvg-logo="https://pbs.twimg.com/profile_images/1800424366703857665/cFuM2ynZ_400x400.jpg" group-title="World Cup Women U20",Spain U20 W vs North Korea U20 W --- CH 2 [2] - 17:00
+http://live4.dyrur1.com/live/75001622_87b4215bc591b7903e1fae68abbbb43c_540p.m3u8?auth_key=1790539985-0-0-8f2bbae8d27aefe03ae828ae1e2deb24|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Yemen vs Qatar --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2082830186618220544/hgedrGV6_400x400.jpg" group-title="Arabian Gulf Cup",Yemen vs Qatar --- CH 1 - 16:55
 http://193.47.62.50/hls/K999AA.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Yemen vs Qatar --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/2082830186618220544/hgedrGV6_400x400.jpg" group-title="Arabian Gulf Cup",Yemen vs Qatar --- CH 2 [1] - 16:55
