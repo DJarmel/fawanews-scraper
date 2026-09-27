@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-27T12:18:40.010871",
-    "total_with_streams": 38,
+    "fetched_at": "2026-09-27T12:47:26.809398",
+    "total_with_streams": 39,
     "events_with_streams": [
         {
             "name": "Boxing : Inoue vs Nasukawa 2",
@@ -18,7 +18,7 @@
             ]
         },
         {
-            "name": "Lithuania vs Azerbaijan",
+            "name": "Lithuania vs Azerbaijan --- CH 1",
             "type": "live_event",
             "league": "UEFA Nations League",
             "time": "14:00",
@@ -28,6 +28,24 @@
                 {
                     "original_url": "http://193.47.62.59/hls/E666QQQQ.m3u8",
                     "m3u_url": "http://193.47.62.59/hls/E666QQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Lithuania vs Azerbaijan --- CH 2",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Lithuania vs Azerbaijan --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/fca9238e-867c-437a-91c1-eeeecaded21a.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/fca9238e-867c-437a-91c1-eeeecaded21a.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/fca9238e-867c-437a-91c1-eeeecaded21a.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/fca9238e-867c-437a-91c1-eeeecaded21a.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
