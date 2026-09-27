@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-27T10:14:16.133903",
-    "total_with_streams": 16,
+    "fetched_at": "2026-09-27T10:42:05.570070",
+    "total_with_streams": 23,
     "events_with_streams": [
         {
             "name": "Australia vs South Africa",
@@ -36,6 +36,20 @@
             ]
         },
         {
+            "name": "Rangers W vs Celtic W",
+            "type": "live_event",
+            "league": "Scottish Women Premiership",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Rangers W vs Celtic W.html",
+            "image_url": "https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/RAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/RAAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
             "name": "Tennis Laver Cup",
             "type": "live_event",
             "league": "Tennis",
@@ -50,6 +64,104 @@
             ]
         },
         {
+            "name": "Cycling Pro Series Zagreb",
+            "type": "live_event",
+            "league": "Cycling",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Cycling Pro Series zagreb.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1158457373423472641/ltjhInLQ_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/RAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/RAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Trelleborg vs Angelholm",
+            "type": "live_event",
+            "league": "Sweden Division 1",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Trelleborg vs Angelholm.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/YAAAQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/YAAAQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Eskilsminne vs AFC Malmo",
+            "type": "live_event",
+            "league": "Sweden Division 1",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Eskilsminne vs AFC Malmo.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/YAAAQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/YAAAQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Arlanda vs Enkoping SK",
+            "type": "live_event",
+            "league": "Sweden Division 1",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Arlanda vs Enkoping SK.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/YAAAQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/YAAAQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Inter W vs Fiorentina W",
+            "type": "live_event",
+            "league": "Italy Women Serie A",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Inter W vs Fiorentina W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/YAAAQQ.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/YAAAQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Rosengard W vs Pitea W",
+            "type": "live_event",
+            "league": "Sweden Women Allsvenskan",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/Rosengard W vs Pitea W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/YAAAQ.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/YAAAQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "IF Brommapojkarna W vs Malmo FF W",
+            "type": "live_event",
+            "league": "Sweden Women Allsvenskan",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/IF Brommapojkarna W vs Malmo FF W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1111583953910198273/hmyjzwP5_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/YAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/YAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
             "name": "Golf FedEx Open de France",
             "type": "live_event",
             "league": "Golf",
@@ -60,20 +172,6 @@
                 {
                     "original_url": "http://193.47.62.50/hls/FPPPVVA.m3u8",
                     "m3u_url": "http://193.47.62.50/hls/FPPPVVA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Ternana W vs Como W",
-            "type": "live_event",
-            "league": "Italy Women Serie A",
-            "time": "11:30",
-            "page_link": "http://www.fawanews.sc/Ternana W vs Como W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/BHHHAAAAAQQ.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/BHHHAAAAAQQ.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
