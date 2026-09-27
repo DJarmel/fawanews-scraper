@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Hong Kong vs Laos" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="ASEAN Cup",Hong Kong vs Laos - 08:00
+http://193.47.62.55/hls/bbbbb.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Tennis WTA Seoul" tvg-logo="https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg" group-title="Tennis WTA",Tennis WTA Seoul - 07:30
+http://193.47.62.50/hls/abbbQQ.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Penrith Panthers vs Newcastle Knights" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="NRL",Penrith Panthers vs Newcastle Knights - 07:00
 http://193.47.62.50/hls/AAAAZ.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Hawkes Bay vs Taranaki" tvg-logo="https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg" group-title="Rugby NZ NPC",Hawkes Bay vs Taranaki - 05:05

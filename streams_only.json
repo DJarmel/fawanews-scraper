@@ -1,8 +1,36 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-27T07:14:45.206505",
-    "total_with_streams": 21,
+    "fetched_at": "2026-09-27T07:42:28.478152",
+    "total_with_streams": 23,
     "events_with_streams": [
+        {
+            "name": "Hong Kong vs Laos",
+            "type": "live_event",
+            "league": "ASEAN Cup",
+            "time": "08:00",
+            "page_link": "http://www.fawanews.sc/Hong Kong vs Laos.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/bbbbb.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/bbbbb.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Tennis WTA Seoul",
+            "type": "live_event",
+            "league": "Tennis WTA",
+            "time": "07:30",
+            "page_link": "http://www.fawanews.sc/Tennis WTA Seoul.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/abbbQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/abbbQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
         {
             "name": "Penrith Panthers vs Newcastle Knights",
             "type": "live_event",
