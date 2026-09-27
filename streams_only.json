@@ -1,6 +1,6 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-27T20:15:09.369236",
+    "fetched_at": "2026-09-27T20:42:55.164404",
     "total_with_streams": 58,
     "events_with_streams": [
         {
@@ -262,146 +262,114 @@
             ]
         },
         {
-            "name": "Washington Commanders vs Seattle Seahawks",
+            "name": "Barranquilla vs Real Cundinamarca",
             "type": "live_event",
-            "league": "NFL American Football",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/NFL_Washington Commanders vs Seattle Seahawks.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
+            "league": "Colombia Primera B",
+            "time": "23:00",
+            "page_link": "http://www.fawanews.sc/Barranquilla vs Real Cundinamarca.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.43/hls/PPPPZZZZ.m3u8",
-                    "m3u_url": "http://193.47.62.43/hls/PPPPZZZZ.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://193.47.62.47/hls/PPPPZZZZ.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/PPPPZZZZ.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.50/hls/C888QQQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/C888QQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
         {
-            "name": "Pittsburgh Steelers vs Cincinnati Bengals",
+            "name": "Fortaleza vs Athletic Club",
             "type": "live_event",
-            "league": "NFL American Football",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/NFL_Pittsburgh Steelers vs Cincinnati Bengals.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
+            "league": "Brazil Serie B",
+            "time": "22:30",
+            "page_link": "http://www.fawanews.sc/Fortaleza vs Athletic Club.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.58/hls/KZZZVVV.m3u8",
-                    "m3u_url": "http://193.47.62.58/hls/KZZZVVV.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://193.47.62.53/hls/KZZZVVV.m3u8",
-                    "m3u_url": "http://193.47.62.53/hls/KZZZVVV.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.50/hls/C888QQQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/C888QQQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
         {
-            "name": "New York Giants vs Tennessee Titans",
+            "name": "Bolivar vs Blooming",
             "type": "live_event",
-            "league": "NFL American Football",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/NFL_New York Giants vs Tennessee Titans.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
+            "league": "Bolivia Copa",
+            "time": "22:15",
+            "page_link": "http://www.fawanews.sc/Bolivar vs Blooming.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.43/hls/PPPPZZZ.m3u8",
-                    "m3u_url": "http://193.47.62.43/hls/PPPPZZZ.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://193.47.62.47/hls/PPPPZZZ.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/PPPPZZZ.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.50/hls/C888QQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/C888QQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
         {
-            "name": "Miami Dolphins vs Kansas City Chiefs",
+            "name": "Bay FC W vs Orlando Pride W",
             "type": "live_event",
-            "league": "NFL American Football",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/NFL_Miami Dolphins vs Kansas City Chiefs.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
+            "league": "USA NWSL Women",
+            "time": "22:00",
+            "page_link": "http://www.fawanews.sc/Bay FC W vs Orlando Pride W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.58/hls/KZZZVV.m3u8",
-                    "m3u_url": "http://193.47.62.58/hls/KZZZVV.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://193.47.62.53/hls/KZZZVV.m3u8",
-                    "m3u_url": "http://193.47.62.53/hls/KZZZVV.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.50/hls/C888QQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/C888QQQQQ.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
         {
-            "name": "Jacksonville Jaguars vs New England Patriots",
+            "name": "Defensor Sp vs Danubio",
             "type": "live_event",
-            "league": "NFL American Football",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/NFL_Jacksonville Jaguars vs New England Patriots.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
+            "league": "Uruguay Liga AUF",
+            "time": "22:00",
+            "page_link": "http://www.fawanews.sc/Defensor Sp vs Danubio.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.43/hls/PPPPZZ.m3u8",
-                    "m3u_url": "http://193.47.62.43/hls/PPPPZZ.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://193.47.62.47/hls/PPPPZZ.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/PPPPZZ.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.50/hls/C888QQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/C888QQQQ.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
         {
-            "name": "Indianapolis Colts vs Houston Texans",
+            "name": "Jaguares de Cordoba vs Alianza",
             "type": "live_event",
-            "league": "NFL American Football",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/NFL_Indianapolis Colts vs Houston Texans.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
+            "league": "Colombia Primera A",
+            "time": "22:00",
+            "page_link": "http://www.fawanews.sc/Jaguares de Cordoba vs Alianza.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.58/hls/KZZZV.m3u8",
-                    "m3u_url": "http://193.47.62.58/hls/KZZZV.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://193.47.62.53/hls/KZZZV.m3u8",
-                    "m3u_url": "http://193.47.62.53/hls/KZZZV.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.50/hls/C888QQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/C888QQQ.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
         {
-            "name": "Cleveland Browns vs Carolina Panthers",
+            "name": "Bolivia vs Paraguay",
             "type": "live_event",
-            "league": "NFL American Football",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/NFL_Cleveland Browns vs Carolina Panthers.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
+            "league": "Friendly Match",
+            "time": "21:30",
+            "page_link": "http://www.fawanews.sc/Bolivia vs Paraguay.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.58/hls/KZZZ.m3u8",
-                    "m3u_url": "http://193.47.62.58/hls/KZZZ.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://193.47.62.53/hls/KZZZ.m3u8",
-                    "m3u_url": "http://193.47.62.53/hls/KZZZ.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.50/hls/C888QQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/C888QQ.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
         {
-            "name": "Buffalo Bills vs Los Angeles Chargers",
+            "name": "U De Chile vs Everton",
             "type": "live_event",
-            "league": "NFL American Football",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/NFL_Buffalo Bills vs Los Angeles Chargers.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
+            "league": "Chile Copa",
+            "time": "21:30",
+            "page_link": "http://www.fawanews.sc/U De Chile vs Everton.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.43/hls/PPPP.m3u8",
-                    "m3u_url": "http://193.47.62.43/hls/PPPP.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://193.47.62.47/hls/PPPP.m3u8",
-                    "m3u_url": "http://193.47.62.47/hls/PPPP.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.50/hls/C888Q.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/C888Q.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
