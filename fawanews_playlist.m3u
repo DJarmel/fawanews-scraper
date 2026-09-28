@@ -5,14 +5,24 @@ http://193.47.62.194/hls/vavavava.m3u8|Referer=http://www.fawanews.sc/
 http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Malaysia vs Indonesia" tvg-logo="https://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg" group-title="ASEAN Championship",Malaysia vs Indonesia - 12:30
 http://193.47.62.55/hls/NUUUQQQQQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="South Korea vs Uruguay" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",South Korea vs Uruguay - 12:00
+#EXTINF:-1 tvg-name="South Korea vs Uruguay --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",South Korea vs Uruguay --- CH 1 - 12:00
 http://193.47.62.55/hls/NUUUQQQQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Japan vs Venezuela" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Japan vs Venezuela - 11:25
+#EXTINF:-1 tvg-name="South Korea vs Uruguay --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",South Korea vs Uruguay --- CH 2 [1] - 12:00
+https://www.rtmpcdn.com/live/3fa46661-9052-4514-b242-da788c0b4900.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="South Korea vs Uruguay --- CH 2 [2]" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",South Korea vs Uruguay --- CH 2 [2] - 12:00
+http://www.rtmpcdn.com/live/3fa46661-9052-4514-b242-da788c0b4900.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Japan vs Venezuela --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Japan vs Venezuela --- CH 1 - 11:25
 http://193.47.62.55/hls/NUUUQQQ.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Japan vs Venezuela --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Japan vs Venezuela --- CH 2 [1] - 11:25
+https://www.rtmpcdn.com/live/225e3b8e-74db-4671-82f6-bba870e312a9.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Japan vs Venezuela --- CH 2 [2]" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Japan vs Venezuela --- CH 2 [2] - 11:25
+http://www.rtmpcdn.com/live/225e3b8e-74db-4671-82f6-bba870e312a9.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Tennis ATP Hangzhou" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis ATP Hangzhou - 10:30
 http://193.47.62.55/hls/NUUUQQ.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Tennis ATP Chengdu" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis ATP Chengdu - 10:00
 http://193.47.62.55/hls/NUUUQ.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Singapore vs Bangladesh" tvg-logo="https://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg" group-title="ASEAN Championship",Singapore vs Bangladesh - 10:00
+http://193.47.62.55/hls/NUUUX.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Snooker Shenzhen Open --- Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Shenzhen Open --- Table 1 - 10:00
 http://193.47.62.44/hls/grrrAAA.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Snooker Shenzhen Open --- Table 2" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Shenzhen Open --- Table 2 - 10:00

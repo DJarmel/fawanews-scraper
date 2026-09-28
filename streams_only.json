@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-28T08:46:01.174265",
-    "total_with_streams": 11,
+    "fetched_at": "2026-09-28T09:17:59.171824",
+    "total_with_streams": 14,
     "events_with_streams": [
         {
             "name": "Horse Racing --- CH 1",
@@ -46,7 +46,7 @@
             ]
         },
         {
-            "name": "South Korea vs Uruguay",
+            "name": "South Korea vs Uruguay --- CH 1",
             "type": "live_event",
             "league": "Friendly Match",
             "time": "12:00",
@@ -60,7 +60,25 @@
             ]
         },
         {
-            "name": "Japan vs Venezuela",
+            "name": "South Korea vs Uruguay --- CH 2",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "12:00",
+            "page_link": "http://www.fawanews.sc/South Korea vs Uruguay --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/3fa46661-9052-4514-b242-da788c0b4900.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/3fa46661-9052-4514-b242-da788c0b4900.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/3fa46661-9052-4514-b242-da788c0b4900.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/3fa46661-9052-4514-b242-da788c0b4900.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Japan vs Venezuela --- CH 1",
             "type": "live_event",
             "league": "Friendly Match",
             "time": "11:25",
@@ -70,6 +88,24 @@
                 {
                     "original_url": "http://193.47.62.55/hls/NUUUQQQ.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/NUUUQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Japan vs Venezuela --- CH 2",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "11:25",
+            "page_link": "http://www.fawanews.sc/Japan vs Venezuela --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/225e3b8e-74db-4671-82f6-bba870e312a9.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/225e3b8e-74db-4671-82f6-bba870e312a9.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/225e3b8e-74db-4671-82f6-bba870e312a9.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/225e3b8e-74db-4671-82f6-bba870e312a9.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -98,6 +134,20 @@
                 {
                     "original_url": "http://193.47.62.55/hls/NUUUQ.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/NUUUQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Singapore vs Bangladesh",
+            "type": "live_event",
+            "league": "ASEAN Championship",
+            "time": "10:00",
+            "page_link": "http://www.fawanews.sc/Singapore vs Bangladesh1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/NUUUX.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/NUUUX.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
