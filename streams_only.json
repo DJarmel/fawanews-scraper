@@ -1,19 +1,61 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-28T14:48:02.305437",
-    "total_with_streams": 13,
+    "fetched_at": "2026-09-28T15:17:52.299153",
+    "total_with_streams": 12,
     "events_with_streams": [
         {
-            "name": "Malaysia vs Indonesia",
+            "name": "Al-Ittifaq vs Al Urooba",
             "type": "live_event",
-            "league": "ASEAN Championship",
-            "time": "13:30",
-            "page_link": "http://www.fawanews.sc/Malaysia vs Indonesia.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg",
+            "league": "UAE Presidents Cup",
+            "time": "15:45",
+            "page_link": "http://www.fawanews.sc/Al-Ittifaq vs Al Urooba.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.55/hls/NUUUQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/NUUUQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.55/hls/V111A.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/V111A.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Al Arabi vs Al Thaid",
+            "type": "live_event",
+            "league": "UAE Presidents Cup",
+            "time": "15:45",
+            "page_link": "http://www.fawanews.sc/Al Arabi vs Al Thaid.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/V111.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/V111.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Kyrgyzstan vs Maldives",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Kyrgyzstan vs Maldives.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/NUUUQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/NUUUQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Croatia U19 vs France U19",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "14:30",
+            "page_link": "http://www.fawanews.sc/Croatia U19 vs France U19.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/NUUUQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/NUUUQQQQ.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -98,70 +140,6 @@
                 {
                     "original_url": "http://193.47.62.44/hls/grrr.m3u8",
                     "m3u_url": "http://193.47.62.44/hls/grrr.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "South Korea vs Uruguay --- CH 1",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "12:00",
-            "page_link": "http://www.fawanews.sc/South Korea vs Uruguay.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/NUUUQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/NUUUQQQQ.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "South Korea vs Uruguay --- CH 2",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "12:00",
-            "page_link": "http://www.fawanews.sc/South Korea vs Uruguay --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://www.rtmpcdn.com/live/3fa46661-9052-4514-b242-da788c0b4900.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/3fa46661-9052-4514-b242-da788c0b4900.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://www.rtmpcdn.com/live/3fa46661-9052-4514-b242-da788c0b4900.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/3fa46661-9052-4514-b242-da788c0b4900.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Japan vs Venezuela --- CH 1",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "11:25",
-            "page_link": "http://www.fawanews.sc/Japan vs Venezuela.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/NUUUQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/NUUUQQQ.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Japan vs Venezuela --- CH 2",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "11:25",
-            "page_link": "http://www.fawanews.sc/Japan vs Venezuela --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://www.rtmpcdn.com/live/225e3b8e-74db-4671-82f6-bba870e312a9.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/225e3b8e-74db-4671-82f6-bba870e312a9.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://www.rtmpcdn.com/live/225e3b8e-74db-4671-82f6-bba870e312a9.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/225e3b8e-74db-4671-82f6-bba870e312a9.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },

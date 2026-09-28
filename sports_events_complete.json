@@ -2,28 +2,28 @@
     "source": "fawanews.sc",
     "source_url": "http://www.fawanews.sc/",
     "referer": "http://www.fawanews.sc/",
-    "fetched_at": "2026-09-28T14:48:02.305437",
-    "total_live_events": 13,
+    "fetched_at": "2026-09-28T15:17:52.299153",
+    "total_live_events": 12,
     "total_news_articles": 19,
     "live_events": [
         {
-            "name": "Malaysia vs Indonesia",
+            "name": "Al-Ittifaq vs Al Urooba",
             "type": "live_event",
-            "league": "ASEAN Championship",
-            "time": "13:30",
-            "image_url": "https://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Malaysia vs Indonesia.html",
-            "home_team": "Malaysia",
-            "away_team": "Indonesia",
+            "league": "UAE Presidents Cup",
+            "time": "15:45",
+            "image_url": "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Al-Ittifaq vs Al Urooba.html",
+            "home_team": "Al-Ittifaq",
+            "away_team": "Al Urooba",
             "page_status": 200,
-            "page_title": "FawaNews - Malaysia vs Indonesia - Your Home of Sport",
+            "page_title": "FawaNews - Al-Ittifaq vs Al Urooba - Your Home of Sport",
             "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
             "stream_data": {
                 "iframe_sources": [],
                 "video_sources": [],
                 "embed_sources": [],
                 "m3u8_links": [
-                    "http://193.47.62.55/hls/NUUUQQQQQ.m3u8"
+                    "http://193.47.62.55/hls/V111A.m3u8"
                 ],
                 "mpd_links": [],
                 "mp4_links": [],
@@ -40,7 +40,7 @@
                     "https://twitter.com/share?ref_src=twsrc%5Etfw",
                     "https://platform.twitter.com/widgets.js",
                     "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.55/hls/NUUUQQQQQ.m3u8",
+                    "http://193.47.62.55/hls/V111A.m3u8",
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
@@ -54,7 +54,160 @@
                 ]
             },
             "best_stream_urls": [
-                "http://193.47.62.55/hls/NUUUQQQQQ.m3u8"
+                "http://193.47.62.55/hls/V111A.m3u8"
+            ]
+        },
+        {
+            "name": "Al Arabi vs Al Thaid",
+            "type": "live_event",
+            "league": "UAE Presidents Cup",
+            "time": "15:45",
+            "image_url": "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Al Arabi vs Al Thaid.html",
+            "home_team": "Al Arabi",
+            "away_team": "Al Thaid",
+            "page_status": 200,
+            "page_title": "FawaNews - Al Arabi vs Al Thaid - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.55/hls/V111.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.55/hls/V111.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.55/hls/V111.m3u8"
+            ]
+        },
+        {
+            "name": "Kyrgyzstan vs Maldives",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "15:00",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Kyrgyzstan vs Maldives.html",
+            "home_team": "Kyrgyzstan",
+            "away_team": "Maldives",
+            "page_status": 200,
+            "page_title": "FawaNews - Kyrgyzstan vs Maldives - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.55/hls/NUUUQQQ.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.55/hls/NUUUQQQ.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.55/hls/NUUUQQQ.m3u8"
+            ]
+        },
+        {
+            "name": "Croatia U19 vs France U19",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "14:30",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Croatia U19 vs France U19.html",
+            "home_team": "Croatia U19",
+            "away_team": "France U19",
+            "page_status": 200,
+            "page_title": "FawaNews - Croatia U19 vs France U19 - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.55/hls/NUUUQQQQ.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.55/hls/NUUUQQQQ.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.55/hls/NUUUQQQQ.m3u8"
             ]
         },
         {
@@ -349,214 +502,6 @@
             },
             "best_stream_urls": [
                 "http://193.47.62.44/hls/grrr.m3u8"
-            ]
-        },
-        {
-            "name": "South Korea vs Uruguay --- CH 1",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "12:00",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/South Korea vs Uruguay.html",
-            "home_team": "South Korea",
-            "away_team": "Uruguay --- CH 1",
-            "page_status": 200,
-            "page_title": "FawaNews - South Korea vs Uruguay - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.55/hls/NUUUQQQQ.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.55/hls/NUUUQQQQ.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.55/hls/NUUUQQQQ.m3u8"
-            ]
-        },
-        {
-            "name": "South Korea vs Uruguay --- CH 2",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "12:00",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/South Korea vs Uruguay --- CH 2.html",
-            "home_team": "South Korea",
-            "away_team": "Uruguay --- CH 2",
-            "page_status": 200,
-            "page_title": "FawaNews - South Korea vs Uruguay - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "https://www.rtmpcdn.com/live/3fa46661-9052-4514-b242-da788c0b4900.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://www.rtmpcdn.com/live/3fa46661-9052-4514-b242-da788c0b4900.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://www.rtmpcdn.com/live/3fa46661-9052-4514-b242-da788c0b4900.m3u8",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "https://www.rtmpcdn.com/live/3fa46661-9052-4514-b242-da788c0b4900.m3u8",
-                "http://www.rtmpcdn.com/live/3fa46661-9052-4514-b242-da788c0b4900.m3u8"
-            ]
-        },
-        {
-            "name": "Japan vs Venezuela --- CH 1",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "11:25",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Japan vs Venezuela.html",
-            "home_team": "Japan",
-            "away_team": "Venezuela --- CH 1",
-            "page_status": 200,
-            "page_title": "FawaNews - Japan vs Venezuela - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.55/hls/NUUUQQQ.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.55/hls/NUUUQQQ.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.55/hls/NUUUQQQ.m3u8"
-            ]
-        },
-        {
-            "name": "Japan vs Venezuela --- CH 2",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "11:25",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Japan vs Venezuela --- CH 2.html",
-            "home_team": "Japan",
-            "away_team": "Venezuela --- CH 2",
-            "page_status": 200,
-            "page_title": "FawaNews - Japan vs Venezuela - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "https://www.rtmpcdn.com/live/225e3b8e-74db-4671-82f6-bba870e312a9.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://www.rtmpcdn.com/live/225e3b8e-74db-4671-82f6-bba870e312a9.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://www.rtmpcdn.com/live/225e3b8e-74db-4671-82f6-bba870e312a9.m3u8",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "https://www.rtmpcdn.com/live/225e3b8e-74db-4671-82f6-bba870e312a9.m3u8",
-                "http://www.rtmpcdn.com/live/225e3b8e-74db-4671-82f6-bba870e312a9.m3u8"
             ]
         },
         {
@@ -1131,10 +1076,10 @@
                 "mp4_links": [],
                 "js_links": [
                     "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
                     "https://blogger.googleusercontent.com/img/a/AVvXsEgVFu6gbhG0s9Aw8lV77cSNoQNBAyo9vp4t43LWOJX5-6K1QjOcO5u9W9347voJapikVazPivvnOLuZK0GbOAeiTOEYF7M-4yItB4qUG0rub_dayuftj8oIYhMtU37PLzEaFGOjSUYWJt4KuBt9dYBIOGnxA2sbRbI6yXXusnWJFHXbLW9QOxZArKPM8aM",
                     "https://blogger.googleusercontent.com/img/a/AVvXsEizAGjqjoQ_F4UZDDErOUUzNs8ilyrv43NNUf1UUx3iD8z06GxYzSL70HRgOIiVa8y7NpIGpXoZNfJshi5fjJ5Z1LnTGpXEtahXPQ06pcRgo14NqctoVnY85PxWFRt24GVwPdBca9cAcd92POkieQooMZTwIqspjIH5VcXcwwWpgN6Ztp3GR-a8YefkR18",
@@ -1162,10 +1107,10 @@
                 "all_candidate_urls": [
                     "https://www.google.com/",
                     "http://www.fawanews.sc/",
-                    "https://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
                     "https://blogger.googleusercontent.com/img/a/AVvXsEgVFu6gbhG0s9Aw8lV77cSNoQNBAyo9vp4t43LWOJX5-6K1QjOcO5u9W9347voJapikVazPivvnOLuZK0GbOAeiTOEYF7M-4yItB4qUG0rub_dayuftj8oIYhMtU37PLzEaFGOjSUYWJt4KuBt9dYBIOGnxA2sbRbI6yXXusnWJFHXbLW9QOxZArKPM8aM",
                     "https://blogger.googleusercontent.com/img/a/AVvXsEizAGjqjoQ_F4UZDDErOUUzNs8ilyrv43NNUf1UUx3iD8z06GxYzSL70HRgOIiVa8y7NpIGpXoZNfJshi5fjJ5Z1LnTGpXEtahXPQ06pcRgo14NqctoVnY85PxWFRt24GVwPdBca9cAcd92POkieQooMZTwIqspjIH5VcXcwwWpgN6Ztp3GR-a8YefkR18",
@@ -1187,10 +1132,10 @@
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPQmXrh03sQ9GY58oNjuhr0FJUVZeCjsZuwI0-dgL149XwOEU1Vg6OuXM9jFfzr1lCVmN3RyRb2hnr_x2BqzqeX85ww3QZ6nN1jyiDaHptCmDsX71MtHauG9OUG7o_6dWZZvTzIiBGSRExxFB3tqpbdogVtDk04oNEyisQwMoyBab7Y9f2w826B-95/s320/_128317661_gettyimages-1246229936.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
-                    "http://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
                     "http://blogger.googleusercontent.com/img/a/AVvXsEgVFu6gbhG0s9Aw8lV77cSNoQNBAyo9vp4t43LWOJX5-6K1QjOcO5u9W9347voJapikVazPivvnOLuZK0GbOAeiTOEYF7M-4yItB4qUG0rub_dayuftj8oIYhMtU37PLzEaFGOjSUYWJt4KuBt9dYBIOGnxA2sbRbI6yXXusnWJFHXbLW9QOxZArKPM8aM",
                     "http://blogger.googleusercontent.com/img/a/AVvXsEizAGjqjoQ_F4UZDDErOUUzNs8ilyrv43NNUf1UUx3iD8z06GxYzSL70HRgOIiVa8y7NpIGpXoZNfJshi5fjJ5Z1LnTGpXEtahXPQ06pcRgo14NqctoVnY85PxWFRt24GVwPdBca9cAcd92POkieQooMZTwIqspjIH5VcXcwwWpgN6Ztp3GR-a8YefkR18",
@@ -1276,10 +1221,10 @@
                 "mp4_links": [],
                 "js_links": [
                     "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
                     "https://blogger.googleusercontent.com/img/a/AVvXsEgVFu6gbhG0s9Aw8lV77cSNoQNBAyo9vp4t43LWOJX5-6K1QjOcO5u9W9347voJapikVazPivvnOLuZK0GbOAeiTOEYF7M-4yItB4qUG0rub_dayuftj8oIYhMtU37PLzEaFGOjSUYWJt4KuBt9dYBIOGnxA2sbRbI6yXXusnWJFHXbLW9QOxZArKPM8aM",
                     "https://blogger.googleusercontent.com/img/a/AVvXsEizAGjqjoQ_F4UZDDErOUUzNs8ilyrv43NNUf1UUx3iD8z06GxYzSL70HRgOIiVa8y7NpIGpXoZNfJshi5fjJ5Z1LnTGpXEtahXPQ06pcRgo14NqctoVnY85PxWFRt24GVwPdBca9cAcd92POkieQooMZTwIqspjIH5VcXcwwWpgN6Ztp3GR-a8YefkR18",
@@ -1307,10 +1252,10 @@
                 "all_candidate_urls": [
                     "https://www.google.com/",
                     "http://www.fawanews.sc/",
-                    "https://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
                     "https://blogger.googleusercontent.com/img/a/AVvXsEgVFu6gbhG0s9Aw8lV77cSNoQNBAyo9vp4t43LWOJX5-6K1QjOcO5u9W9347voJapikVazPivvnOLuZK0GbOAeiTOEYF7M-4yItB4qUG0rub_dayuftj8oIYhMtU37PLzEaFGOjSUYWJt4KuBt9dYBIOGnxA2sbRbI6yXXusnWJFHXbLW9QOxZArKPM8aM",
                     "https://blogger.googleusercontent.com/img/a/AVvXsEizAGjqjoQ_F4UZDDErOUUzNs8ilyrv43NNUf1UUx3iD8z06GxYzSL70HRgOIiVa8y7NpIGpXoZNfJshi5fjJ5Z1LnTGpXEtahXPQ06pcRgo14NqctoVnY85PxWFRt24GVwPdBca9cAcd92POkieQooMZTwIqspjIH5VcXcwwWpgN6Ztp3GR-a8YefkR18",
@@ -1332,10 +1277,10 @@
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPQmXrh03sQ9GY58oNjuhr0FJUVZeCjsZuwI0-dgL149XwOEU1Vg6OuXM9jFfzr1lCVmN3RyRb2hnr_x2BqzqeX85ww3QZ6nN1jyiDaHptCmDsX71MtHauG9OUG7o_6dWZZvTzIiBGSRExxFB3tqpbdogVtDk04oNEyisQwMoyBab7Y9f2w826B-95/s320/_128317661_gettyimages-1246229936.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
-                    "http://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
                     "http://blogger.googleusercontent.com/img/a/AVvXsEgVFu6gbhG0s9Aw8lV77cSNoQNBAyo9vp4t43LWOJX5-6K1QjOcO5u9W9347voJapikVazPivvnOLuZK0GbOAeiTOEYF7M-4yItB4qUG0rub_dayuftj8oIYhMtU37PLzEaFGOjSUYWJt4KuBt9dYBIOGnxA2sbRbI6yXXusnWJFHXbLW9QOxZArKPM8aM",
                     "http://blogger.googleusercontent.com/img/a/AVvXsEizAGjqjoQ_F4UZDDErOUUzNs8ilyrv43NNUf1UUx3iD8z06GxYzSL70HRgOIiVa8y7NpIGpXoZNfJshi5fjJ5Z1LnTGpXEtahXPQ06pcRgo14NqctoVnY85PxWFRt24GVwPdBca9cAcd92POkieQooMZTwIqspjIH5VcXcwwWpgN6Ztp3GR-a8YefkR18",
@@ -1420,10 +1365,10 @@
                 "mp4_links": [],
                 "js_links": [
                     "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
                     "https://blogger.googleusercontent.com/img/a/AVvXsEgVFu6gbhG0s9Aw8lV77cSNoQNBAyo9vp4t43LWOJX5-6K1QjOcO5u9W9347voJapikVazPivvnOLuZK0GbOAeiTOEYF7M-4yItB4qUG0rub_dayuftj8oIYhMtU37PLzEaFGOjSUYWJt4KuBt9dYBIOGnxA2sbRbI6yXXusnWJFHXbLW9QOxZArKPM8aM",
                     "https://blogger.googleusercontent.com/img/a/AVvXsEizAGjqjoQ_F4UZDDErOUUzNs8ilyrv43NNUf1UUx3iD8z06GxYzSL70HRgOIiVa8y7NpIGpXoZNfJshi5fjJ5Z1LnTGpXEtahXPQ06pcRgo14NqctoVnY85PxWFRt24GVwPdBca9cAcd92POkieQooMZTwIqspjIH5VcXcwwWpgN6Ztp3GR-a8YefkR18",
@@ -1451,10 +1396,10 @@
                 "all_candidate_urls": [
                     "https://www.google.com/",
                     "http://www.fawanews.sc/",
-                    "https://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
                     "https://blogger.googleusercontent.com/img/a/AVvXsEgVFu6gbhG0s9Aw8lV77cSNoQNBAyo9vp4t43LWOJX5-6K1QjOcO5u9W9347voJapikVazPivvnOLuZK0GbOAeiTOEYF7M-4yItB4qUG0rub_dayuftj8oIYhMtU37PLzEaFGOjSUYWJt4KuBt9dYBIOGnxA2sbRbI6yXXusnWJFHXbLW9QOxZArKPM8aM",
                     "https://blogger.googleusercontent.com/img/a/AVvXsEizAGjqjoQ_F4UZDDErOUUzNs8ilyrv43NNUf1UUx3iD8z06GxYzSL70HRgOIiVa8y7NpIGpXoZNfJshi5fjJ5Z1LnTGpXEtahXPQ06pcRgo14NqctoVnY85PxWFRt24GVwPdBca9cAcd92POkieQooMZTwIqspjIH5VcXcwwWpgN6Ztp3GR-a8YefkR18",
@@ -1476,10 +1421,10 @@
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPQmXrh03sQ9GY58oNjuhr0FJUVZeCjsZuwI0-dgL149XwOEU1Vg6OuXM9jFfzr1lCVmN3RyRb2hnr_x2BqzqeX85ww3QZ6nN1jyiDaHptCmDsX71MtHauG9OUG7o_6dWZZvTzIiBGSRExxFB3tqpbdogVtDk04oNEyisQwMoyBab7Y9f2w826B-95/s320/_128317661_gettyimages-1246229936.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
-                    "http://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
                     "http://blogger.googleusercontent.com/img/a/AVvXsEgVFu6gbhG0s9Aw8lV77cSNoQNBAyo9vp4t43LWOJX5-6K1QjOcO5u9W9347voJapikVazPivvnOLuZK0GbOAeiTOEYF7M-4yItB4qUG0rub_dayuftj8oIYhMtU37PLzEaFGOjSUYWJt4KuBt9dYBIOGnxA2sbRbI6yXXusnWJFHXbLW9QOxZArKPM8aM",
                     "http://blogger.googleusercontent.com/img/a/AVvXsEizAGjqjoQ_F4UZDDErOUUzNs8ilyrv43NNUf1UUx3iD8z06GxYzSL70HRgOIiVa8y7NpIGpXoZNfJshi5fjJ5Z1LnTGpXEtahXPQ06pcRgo14NqctoVnY85PxWFRt24GVwPdBca9cAcd92POkieQooMZTwIqspjIH5VcXcwwWpgN6Ztp3GR-a8YefkR18",
@@ -1572,10 +1517,10 @@
                 "mp4_links": [],
                 "js_links": [
                     "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
                     "https://blogger.googleusercontent.com/img/a/AVvXsEgVFu6gbhG0s9Aw8lV77cSNoQNBAyo9vp4t43LWOJX5-6K1QjOcO5u9W9347voJapikVazPivvnOLuZK0GbOAeiTOEYF7M-4yItB4qUG0rub_dayuftj8oIYhMtU37PLzEaFGOjSUYWJt4KuBt9dYBIOGnxA2sbRbI6yXXusnWJFHXbLW9QOxZArKPM8aM",
                     "https://blogger.googleusercontent.com/img/a/AVvXsEizAGjqjoQ_F4UZDDErOUUzNs8ilyrv43NNUf1UUx3iD8z06GxYzSL70HRgOIiVa8y7NpIGpXoZNfJshi5fjJ5Z1LnTGpXEtahXPQ06pcRgo14NqctoVnY85PxWFRt24GVwPdBca9cAcd92POkieQooMZTwIqspjIH5VcXcwwWpgN6Ztp3GR-a8YefkR18",
@@ -1603,10 +1548,10 @@
                 "all_candidate_urls": [
                     "https://www.google.com/",
                     "http://www.fawanews.sc/",
-                    "https://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
                     "https://blogger.googleusercontent.com/img/a/AVvXsEgVFu6gbhG0s9Aw8lV77cSNoQNBAyo9vp4t43LWOJX5-6K1QjOcO5u9W9347voJapikVazPivvnOLuZK0GbOAeiTOEYF7M-4yItB4qUG0rub_dayuftj8oIYhMtU37PLzEaFGOjSUYWJt4KuBt9dYBIOGnxA2sbRbI6yXXusnWJFHXbLW9QOxZArKPM8aM",
                     "https://blogger.googleusercontent.com/img/a/AVvXsEizAGjqjoQ_F4UZDDErOUUzNs8ilyrv43NNUf1UUx3iD8z06GxYzSL70HRgOIiVa8y7NpIGpXoZNfJshi5fjJ5Z1LnTGpXEtahXPQ06pcRgo14NqctoVnY85PxWFRt24GVwPdBca9cAcd92POkieQooMZTwIqspjIH5VcXcwwWpgN6Ztp3GR-a8YefkR18",
@@ -1628,10 +1573,10 @@
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPQmXrh03sQ9GY58oNjuhr0FJUVZeCjsZuwI0-dgL149XwOEU1Vg6OuXM9jFfzr1lCVmN3RyRb2hnr_x2BqzqeX85ww3QZ6nN1jyiDaHptCmDsX71MtHauG9OUG7o_6dWZZvTzIiBGSRExxFB3tqpbdogVtDk04oNEyisQwMoyBab7Y9f2w826B-95/s320/_128317661_gettyimages-1246229936.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
-                    "http://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
                     "http://blogger.googleusercontent.com/img/a/AVvXsEgVFu6gbhG0s9Aw8lV77cSNoQNBAyo9vp4t43LWOJX5-6K1QjOcO5u9W9347voJapikVazPivvnOLuZK0GbOAeiTOEYF7M-4yItB4qUG0rub_dayuftj8oIYhMtU37PLzEaFGOjSUYWJt4KuBt9dYBIOGnxA2sbRbI6yXXusnWJFHXbLW9QOxZArKPM8aM",
                     "http://blogger.googleusercontent.com/img/a/AVvXsEizAGjqjoQ_F4UZDDErOUUzNs8ilyrv43NNUf1UUx3iD8z06GxYzSL70HRgOIiVa8y7NpIGpXoZNfJshi5fjJ5Z1LnTGpXEtahXPQ06pcRgo14NqctoVnY85PxWFRt24GVwPdBca9cAcd92POkieQooMZTwIqspjIH5VcXcwwWpgN6Ztp3GR-a8YefkR18",
@@ -1716,10 +1661,10 @@
                 "mp4_links": [],
                 "js_links": [
                     "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
                     "https://blogger.googleusercontent.com/img/a/AVvXsEgVFu6gbhG0s9Aw8lV77cSNoQNBAyo9vp4t43LWOJX5-6K1QjOcO5u9W9347voJapikVazPivvnOLuZK0GbOAeiTOEYF7M-4yItB4qUG0rub_dayuftj8oIYhMtU37PLzEaFGOjSUYWJt4KuBt9dYBIOGnxA2sbRbI6yXXusnWJFHXbLW9QOxZArKPM8aM",
                     "https://blogger.googleusercontent.com/img/a/AVvXsEizAGjqjoQ_F4UZDDErOUUzNs8ilyrv43NNUf1UUx3iD8z06GxYzSL70HRgOIiVa8y7NpIGpXoZNfJshi5fjJ5Z1LnTGpXEtahXPQ06pcRgo14NqctoVnY85PxWFRt24GVwPdBca9cAcd92POkieQooMZTwIqspjIH5VcXcwwWpgN6Ztp3GR-a8YefkR18",
@@ -1747,10 +1692,10 @@
                 "all_candidate_urls": [
                     "https://www.google.com/",
                     "http://www.fawanews.sc/",
-                    "https://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
                     "https://blogger.googleusercontent.com/img/a/AVvXsEgVFu6gbhG0s9Aw8lV77cSNoQNBAyo9vp4t43LWOJX5-6K1QjOcO5u9W9347voJapikVazPivvnOLuZK0GbOAeiTOEYF7M-4yItB4qUG0rub_dayuftj8oIYhMtU37PLzEaFGOjSUYWJt4KuBt9dYBIOGnxA2sbRbI6yXXusnWJFHXbLW9QOxZArKPM8aM",
                     "https://blogger.googleusercontent.com/img/a/AVvXsEizAGjqjoQ_F4UZDDErOUUzNs8ilyrv43NNUf1UUx3iD8z06GxYzSL70HRgOIiVa8y7NpIGpXoZNfJshi5fjJ5Z1LnTGpXEtahXPQ06pcRgo14NqctoVnY85PxWFRt24GVwPdBca9cAcd92POkieQooMZTwIqspjIH5VcXcwwWpgN6Ztp3GR-a8YefkR18",
@@ -1772,10 +1717,10 @@
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPQmXrh03sQ9GY58oNjuhr0FJUVZeCjsZuwI0-dgL149XwOEU1Vg6OuXM9jFfzr1lCVmN3RyRb2hnr_x2BqzqeX85ww3QZ6nN1jyiDaHptCmDsX71MtHauG9OUG7o_6dWZZvTzIiBGSRExxFB3tqpbdogVtDk04oNEyisQwMoyBab7Y9f2w826B-95/s320/_128317661_gettyimages-1246229936.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
-                    "http://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
                     "http://blogger.googleusercontent.com/img/a/AVvXsEgVFu6gbhG0s9Aw8lV77cSNoQNBAyo9vp4t43LWOJX5-6K1QjOcO5u9W9347voJapikVazPivvnOLuZK0GbOAeiTOEYF7M-4yItB4qUG0rub_dayuftj8oIYhMtU37PLzEaFGOjSUYWJt4KuBt9dYBIOGnxA2sbRbI6yXXusnWJFHXbLW9QOxZArKPM8aM",
                     "http://blogger.googleusercontent.com/img/a/AVvXsEizAGjqjoQ_F4UZDDErOUUzNs8ilyrv43NNUf1UUx3iD8z06GxYzSL70HRgOIiVa8y7NpIGpXoZNfJshi5fjJ5Z1LnTGpXEtahXPQ06pcRgo14NqctoVnY85PxWFRt24GVwPdBca9cAcd92POkieQooMZTwIqspjIH5VcXcwwWpgN6Ztp3GR-a8YefkR18",
