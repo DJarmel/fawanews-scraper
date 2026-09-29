@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Australia vs Brazil --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Australia vs Brazil --- CH 1 - 11:00
-http://193.47.62.55/hls/veeeAA.m3u8|Referer=http://www.fawanews.sc/
+http://193.47.62.55/hls/veeeAAX.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Australia vs Brazil --- CH 3 [1]" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Australia vs Brazil --- CH 3 [1] - 11:00
+https://live4.dyrur1.com/live/73685552_1a6bc98940d353f3d4b0911f1b0d3440_h540p.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Australia vs Brazil --- CH 3 [2]" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Australia vs Brazil --- CH 3 [2] - 11:00
+http://live4.dyrur1.com/live/73685552_1a6bc98940d353f3d4b0911f1b0d3440_h540p.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Australia vs Brazil --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Australia vs Brazil --- CH 2 [1] - 11:00
 https://www.rtmpcdn.com/live/2306a6cf-768f-47fc-9883-ccc8f9856224.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Australia vs Brazil --- CH 2 [2]" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Australia vs Brazil --- CH 2 [2] - 11:00
