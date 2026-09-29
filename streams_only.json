@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-29T14:47:18.626258",
-    "total_with_streams": 20,
+    "fetched_at": "2026-09-29T15:17:55.058978",
+    "total_with_streams": 12,
     "events_with_streams": [
         {
             "name": "Madagascar vs Tanzania --- CH 1",
@@ -36,162 +36,44 @@
             ]
         },
         {
-            "name": "Lesotho vs Morocco --- CH 1",
+            "name": "Iceland U21 vs Switzerland U21",
             "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Lesotho vs Morocco1.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "league": "Euro U21 Qualification",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Iceland U21 vs Switzerland U21.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.59/hls/EHHHHAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/EHHHHAAAAA.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.55/hls/auuuQQ.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/auuuQQ.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
         {
-            "name": "Lesotho vs Morocco --- CH 2",
+            "name": "Palm City vs Dibba Al Hisn",
             "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Lesotho vs Morocco --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "league": "UAE Presidents Cup",
+            "time": "15:40",
+            "page_link": "http://www.fawanews.sc/Palm City vs Dibba Al Hisn.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "https://www.rtmpcdn.com/live/d7cea3f1-30e9-4a19-ab2b-e9cf5b22fd41.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/d7cea3f1-30e9-4a19-ab2b-e9cf5b22fd41.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://www.rtmpcdn.com/live/d7cea3f1-30e9-4a19-ab2b-e9cf5b22fd41.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/d7cea3f1-30e9-4a19-ab2b-e9cf5b22fd41.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.55/hls/auuuQ.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/auuuQ.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
         {
-            "name": "Ethiopia vs Senegal --- CH 1",
+            "name": "Al Fujairah vs Al Jazira Hamra",
             "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Ethiopia vs Senegal2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "league": "UAE Presidents Cup",
+            "time": "15:35",
+            "page_link": "http://www.fawanews.sc/Al Fujairah vs Al Jazira Hamra.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.44/hls/EHHHHAAAAX.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/EHHHHAAAAX.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Ethiopia vs Senegal --- CH 2",
-            "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Ethiopia vs Senegal --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://www.rtmpcdn.com/live/e4991261-1bea-4515-be6f-3abe51f54dbd.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/e4991261-1bea-4515-be6f-3abe51f54dbd.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://www.rtmpcdn.com/live/e4991261-1bea-4515-be6f-3abe51f54dbd.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/e4991261-1bea-4515-be6f-3abe51f54dbd.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "South Sudan vs Egypt --- CH 1",
-            "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/South Sudan vs Egypt1.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/EHHHHAAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/EHHHHAAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "South Sudan vs Egypt --- CH 2",
-            "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/South Sudan vs Egypt --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://www.rtmpcdn.com/live/f950c555-3551-4cf4-bc19-e8cf68fcd899.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/f950c555-3551-4cf4-bc19-e8cf68fcd899.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://www.rtmpcdn.com/live/f950c555-3551-4cf4-bc19-e8cf68fcd899.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/f950c555-3551-4cf4-bc19-e8cf68fcd899.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Mozambique vs Sudan --- CH 1",
-            "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Mozambique vs Sudan1.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/EHHHHAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/EHHHHAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Mozambique vs Sudan --- CH 2",
-            "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Mozambique vs Sudan --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://www.rtmpcdn.com/live/029100ff-448e-4087-8661-c1d1f788b69c.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/029100ff-448e-4087-8661-c1d1f788b69c.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://www.rtmpcdn.com/live/029100ff-448e-4087-8661-c1d1f788b69c.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/029100ff-448e-4087-8661-c1d1f788b69c.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Burundi vs Algeria --- CH 1",
-            "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Burundi vs Algeria1.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/EHHHHA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/EHHHHA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Burundi vs Algeria --- CH 2",
-            "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Burundi vs Algeria --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://www.rtmpcdn.com/live/818f657c-997d-44b8-9fba-56c606249370.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/818f657c-997d-44b8-9fba-56c606249370.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://www.rtmpcdn.com/live/818f657c-997d-44b8-9fba-56c606249370.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/818f657c-997d-44b8-9fba-56c606249370.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.55/hls/auuu.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/auuu.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -206,20 +88,6 @@
                 {
                     "original_url": "http://193.47.62.55/hls/AIIIQ.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/AIIIQ.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Thailand vs Vietnam",
-            "type": "live_event",
-            "league": "ASEAN Cup",
-            "time": "13:30",
-            "page_link": "http://www.fawanews.sc/Thailand vs Vietnam1.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/EGGGC.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/EGGGC.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
