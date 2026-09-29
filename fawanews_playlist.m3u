@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Indiana Fever W vs Las Vegas Aces W --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Indiana Fever W vs Las Vegas Aces W --- CH 1 - 23:30
+http://193.47.62.44/hls/AAAA.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Indiana Fever W vs Las Vegas Aces W --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Indiana Fever W vs Las Vegas Aces W --- CH 2 [1] - 23:30
+https://www.rtmpcdn.com/live/86ce6589-e411-4a43-87a5-b0e03c420b19.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Indiana Fever W vs Las Vegas Aces W --- CH 2 [2]" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="WNBA Basketball",Indiana Fever W vs Las Vegas Aces W --- CH 2 [2] - 23:30
+http://www.rtmpcdn.com/live/86ce6589-e411-4a43-87a5-b0e03c420b19.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Botafogo SP vs Ponte Preta" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie B",Botafogo SP vs Ponte Preta - 23:30
 http://193.47.62.41/hls/RFFFQQQ.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Real Potosi vs Academia del Balompie" tvg-logo="https://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg" group-title="Bolivia Copa",Real Potosi vs Academia del Balompie - 23:00
