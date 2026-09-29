@@ -1,8 +1,40 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-29T13:47:36.023319",
-    "total_with_streams": 22,
+    "fetched_at": "2026-09-29T14:16:42.787973",
+    "total_with_streams": 20,
     "events_with_streams": [
+        {
+            "name": "Madagascar vs Tanzania --- CH 1",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Madagascar vs Tanzania1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/EHHHHAAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/EHHHHAAAAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Madagascar vs Tanzania --- CH 2",
+            "type": "live_event",
+            "league": "Africa Cup of Nations Qualification",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Madagascar vs Tanzania --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/a9ae09cb-a47f-4658-b028-404135be932b.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/a9ae09cb-a47f-4658-b028-404135be932b.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/a9ae09cb-a47f-4658-b028-404135be932b.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/a9ae09cb-a47f-4658-b028-404135be932b.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
         {
             "name": "Lesotho vs Morocco --- CH 1",
             "type": "live_event",
@@ -164,52 +196,16 @@
             ]
         },
         {
-            "name": "Comoros vs Namibia --- CH 2",
+            "name": "Slovenia U21 vs Israel U21",
             "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Comoros vs Namibia --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://www.rtmpcdn.com/live/088c677d-0fea-4d05-92a1-4906966a87eb.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/088c677d-0fea-4d05-92a1-4906966a87eb.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://www.rtmpcdn.com/live/088c677d-0fea-4d05-92a1-4906966a87eb.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/088c677d-0fea-4d05-92a1-4906966a87eb.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Madagascar vs Tanzania --- CH 1",
-            "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
+            "league": "Euro U21 Qualification",
             "time": "15:00",
-            "page_link": "http://www.fawanews.sc/Madagascar vs Tanzania.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Slovenia U21 vs Israel U21.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.50/hls/HHHHAAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/HHHHAAAAAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Madagascar vs Tanzania --- CH 2",
-            "type": "live_event",
-            "league": "Africa Cup of Nations Qualification",
-            "time": "15:00",
-            "page_link": "http://www.fawanews.sc/Madagascar vs Tanzania --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://www.rtmpcdn.com/live/a9ae09cb-a47f-4658-b028-404135be932b.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/a9ae09cb-a47f-4658-b028-404135be932b.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://www.rtmpcdn.com/live/a9ae09cb-a47f-4658-b028-404135be932b.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/a9ae09cb-a47f-4658-b028-404135be932b.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.55/hls/AIIIQ.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/AIIIQ.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -252,34 +248,6 @@
                 {
                     "original_url": "http://193.47.62.194/hls/vavavavaq.m3u8",
                     "m3u_url": "http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Tennis ATP Hangzhou",
-            "type": "live_event",
-            "league": "Tennis ATP",
-            "time": "12:30",
-            "page_link": "http://www.fawanews.sc/Tennis ATP Hangzhou.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/NUUUQQ.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/NUUUQQ.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Tennis ATP Chengdu",
-            "type": "live_event",
-            "league": "Tennis ATP",
-            "time": "12:00",
-            "page_link": "http://www.fawanews.sc/Tennis ATP Chengdu.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/NUUUQ.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/NUUUQ.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
