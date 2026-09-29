@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-29T09:17:11.310555",
-    "total_with_streams": 8,
+    "fetched_at": "2026-09-29T09:46:45.788296",
+    "total_with_streams": 9,
     "events_with_streams": [
         {
             "name": "Australia vs Brazil --- CH 1",
@@ -46,6 +46,20 @@
                 {
                     "original_url": "http://193.47.62.55/hls/veeeA.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/veeeA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Philippines vs Pakistan",
+            "type": "live_event",
+            "league": "ASEAN Cup",
+            "time": "10:00",
+            "page_link": "http://www.fawanews.sc/Philippines vs Pakistan.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/veee.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/veee.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
