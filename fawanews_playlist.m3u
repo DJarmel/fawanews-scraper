@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Australia vs Brazil --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Australia vs Brazil --- CH 1 - 11:00
+http://193.47.62.55/hls/veeeAA.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Australia vs Brazil --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Australia vs Brazil --- CH 2 [1] - 11:00
+https://www.rtmpcdn.com/live/2306a6cf-768f-47fc-9883-ccc8f9856224.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Australia vs Brazil --- CH 2 [2]" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Australia vs Brazil --- CH 2 [2] - 11:00
+http://www.rtmpcdn.com/live/2306a6cf-768f-47fc-9883-ccc8f9856224.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Japan W vs South Korea W" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Asian Games",Japan W vs South Korea W - 11:30
+http://193.47.62.55/hls/veeeA.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="North Korea W vs China W" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Asian Games",North Korea W vs China W - 07:00
 http://193.47.62.50/hls/YBBBAaa.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Snooker Shenzhen Open --- Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Shenzhen Open --- Table 1 - --:--
@@ -9,31 +17,3 @@ http://193.47.62.44/hls/grrrAA.m3u8|Referer=http://www.fawanews.sc/
 http://193.47.62.44/hls/grrrA.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Snooker Shenzhen Open --- Table 4" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Shenzhen Open --- Table 4 - --:--
 http://193.47.62.44/hls/grrr.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Chicago Bears vs Philadelphia Eagles --- CH 1 ABC [1]" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Chicago Bears vs Philadelphia Eagles --- CH 1 ABC [1] - 01:15
-http://193.47.62.44/hls/ZGGG.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Chicago Bears vs Philadelphia Eagles --- CH 1 ABC [2]" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Chicago Bears vs Philadelphia Eagles --- CH 1 ABC [2] - 01:15
-http://193.47.62.41/hls/ZGGG.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Chicago Bears vs Philadelphia Eagles --- CH 2 TSN" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Chicago Bears vs Philadelphia Eagles --- CH 2 TSN - 01:15
-http://193.47.62.59/hls/ZGGGA.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Chicago Bears vs Philadelphia Eagles --- CH 3 SKY" tvg-logo="https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg" group-title="NFL American Football",Chicago Bears vs Philadelphia Eagles --- CH 3 SKY - 01:15
-http://193.47.62.55/hls/ZGGGAA.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Guatemala vs El Salvador" tvg-logo="https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg" group-title="CONCACAF Nations League",Guatemala vs El Salvador - 03:00
-http://193.47.62.50/hls/YBBBAaaa.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="WWE Monday Night RAW" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg" group-title="WWE Wrestling",WWE Monday Night RAW - 01:00
-http://193.47.62.41/hls/YBBBAaaaqqq.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Jamaica vs Honduras" tvg-logo="https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg" group-title="CONCACAF Nations League",Jamaica vs Honduras - 01:00
-http://193.47.62.50/hls/YBBBAaaa.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Saint Lucia vs Bermuda" tvg-logo="https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg" group-title="CONCACAF Nations League",Saint Lucia vs Bermuda - 01:00
-http://193.47.62.50/hls/YBBBAaaaq.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Saint Kitts and Nevis vs Grenada" tvg-logo="https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg" group-title="CONCACAF Nations League",Saint Kitts and Nevis vs Grenada - 01:00
-http://193.47.62.50/hls/YBBBAaaaqq.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Wanderers vs Albion" tvg-logo="https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg" group-title="Uruguay Liga AUF",Wanderers vs Albion - 00:00
-http://193.47.62.50/hls/YBBBA.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Quindio vs Bogota" tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg" group-title="Colombia Primera B",Quindio vs Bogota - 00:00
-http://193.47.62.50/hls/YBBB.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="America MG vs Juventude" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="Brazil Serie B",America MG vs Juventude - 23:30
-http://193.47.62.50/hls/DDDDQQQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Libertad Asuncion vs Olimpia Asuncion" tvg-logo="https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg" group-title="Paraguay Copa",Libertad Asuncion vs Olimpia Asuncion - 23:00
-http://193.47.62.50/hls/DDDDQQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Suriname vs Martinique" tvg-logo="https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg" group-title="CONCACAF Nations League",Suriname vs Martinique - 23:00
-http://193.47.62.50/hls/DDDDQ.m3u8|Referer=http://www.fawanews.sc/
