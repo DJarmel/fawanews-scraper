@@ -1,6 +1,6 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-29T13:18:59.097522",
+    "fetched_at": "2026-09-29T13:47:36.023319",
     "total_with_streams": 22,
     "events_with_streams": [
         {
@@ -40,12 +40,12 @@
             "type": "live_event",
             "league": "Africa Cup of Nations Qualification",
             "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Ethiopia vs Senegal1.html",
+            "page_link": "http://www.fawanews.sc/Ethiopia vs Senegal2.html",
             "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.44/hls/HHHHAAAAX.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/HHHHAAAAX.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.44/hls/EHHHHAAAAX.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/EHHHHAAAAX.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
