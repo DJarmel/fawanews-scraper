@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-29T00:21:09.612260",
-    "total_with_streams": 15,
+    "fetched_at": "2026-09-29T00:49:28.178012",
+    "total_with_streams": 13,
     "events_with_streams": [
         {
             "name": "Chicago Bears vs Philadelphia Eagles --- CH 1 ABC",
@@ -46,20 +46,6 @@
                 {
                     "original_url": "http://193.47.62.55/hls/ZGGGAA.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/ZGGGAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Bangladesh vs Malaysia",
-            "type": "live_event",
-            "league": "Cricket Asian Games",
-            "time": "05:30",
-            "page_link": "http://www.fawanews.sc/Bangladesh vs Malaysia.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/YBBBAa.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/YBBBAa.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -130,20 +116,6 @@
                 {
                     "original_url": "http://193.47.62.50/hls/YBBBAaaaqq.m3u8",
                     "m3u_url": "http://193.47.62.50/hls/YBBBAaaaqq.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Sri Lanka vs Nepal",
-            "type": "live_event",
-            "league": "Cricket Asian Games",
-            "time": "01:00",
-            "page_link": "http://www.fawanews.sc/Sri Lanka vs Nepal.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/YBBBAa.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/YBBBAa.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
