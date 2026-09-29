@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-29T19:17:00.424192",
-    "total_with_streams": 62,
+    "fetched_at": "2026-09-29T19:45:24.819728",
+    "total_with_streams": 60,
     "events_with_streams": [
         {
             "name": "UEFA Nations League Simulcast",
@@ -308,24 +308,24 @@
             "type": "live_event",
             "league": "Africa Cup of Nations Qualification",
             "time": "20:00",
-            "page_link": "http://www.fawanews.sc/Congo vs Cameroon.html",
+            "page_link": "http://www.fawanews.sc/Congo vs Cameroon1.html",
             "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.41/hls/BYDDQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/BYDDQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.41/hls/BYDDQQQQX.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/BYDDQQQQX.m3u8|Referer=http://www.fawanews.sc/"
                 },
                 {
-                    "original_url": "http://193.47.62.44/hls/BYDDQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/BYDDQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.44/hls/BYDDQQQQX.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/BYDDQQQQX.m3u8|Referer=http://www.fawanews.sc/"
                 },
                 {
-                    "original_url": "http://193.47.62.59/hls/BYDDQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/BYDDQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.59/hls/BYDDQQQQX.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/BYDDQQQQX.m3u8|Referer=http://www.fawanews.sc/"
                 },
                 {
-                    "original_url": "http://193.47.62.50/hls/BYDDQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/BYDDQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.50/hls/BYDDQQQQX.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/BYDDQQQQX.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -356,20 +356,20 @@
             "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.41/hls/BYDDQQQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/BYDDQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.41/hls/BYDDQQQQQQQX.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/BYDDQQQQQQQX.m3u8|Referer=http://www.fawanews.sc/"
                 },
                 {
-                    "original_url": "http://193.47.62.44/hls/BYDDQQQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/BYDDQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.44/hls/BYDDQQQQQQQX.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/BYDDQQQQQQQX.m3u8|Referer=http://www.fawanews.sc/"
                 },
                 {
-                    "original_url": "http://193.47.62.59/hls/BYDDQQQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/BYDDQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.59/hls/BYDDQQQQQQQX.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/BYDDQQQQQQQX.m3u8|Referer=http://www.fawanews.sc/"
                 },
                 {
-                    "original_url": "http://193.47.62.50/hls/BYDDQQQQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/BYDDQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.50/hls/BYDDQQQQQQQX.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/BYDDQQQQQQQX.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -948,38 +948,6 @@
                 {
                     "original_url": "http://www.rtmpcdn.com/live/c059f3af-dee2-4f35-b8a9-07f4f37f4b1f.m3u8",
                     "m3u_url": "http://www.rtmpcdn.com/live/c059f3af-dee2-4f35-b8a9-07f4f37f4b1f.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Anadolu Efes vs Real Madrid --- CH 1",
-            "type": "live_event",
-            "league": "Basketball Euroleague",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Anadolu Efes vs Real Madrid.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/ZRRRAAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/ZRRRAAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Anadolu Efes vs Real Madrid --- CH 2",
-            "type": "live_event",
-            "league": "Basketball Euroleague",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Anadolu Efes vs Real Madrid --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://www.rtmpcdn.com/live/af6fb94b-6322-4c1b-a092-0af930dac6a9.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/af6fb94b-6322-4c1b-a092-0af930dac6a9.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://www.rtmpcdn.com/live/af6fb94b-6322-4c1b-a092-0af930dac6a9.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/af6fb94b-6322-4c1b-a092-0af930dac6a9.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
