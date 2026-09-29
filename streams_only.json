@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-29T20:17:25.299281",
-    "total_with_streams": 53,
+    "fetched_at": "2026-09-29T20:45:44.939302",
+    "total_with_streams": 49,
     "events_with_streams": [
         {
             "name": "UEFA Nations League Simulcast",
@@ -802,70 +802,6 @@
                 {
                     "original_url": "http://193.47.62.55/hls/NYYYAA.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/NYYYAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Valencia vs Baskonia --- CH 1",
-            "type": "live_event",
-            "league": "Basketball Euroleague",
-            "time": "19:30",
-            "page_link": "http://www.fawanews.sc/Valencia vs Baskonia.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/NYYYA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/NYYYA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Valencia vs Baskonia --- CH 2",
-            "type": "live_event",
-            "league": "Basketball Euroleague",
-            "time": "19:30",
-            "page_link": "http://www.fawanews.sc/Valencia vs Baskonia --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://www.rtmpcdn.com/live/ab4b350a-d71c-4d94-9899-534f9c84fcac.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/ab4b350a-d71c-4d94-9899-534f9c84fcac.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://www.rtmpcdn.com/live/ab4b350a-d71c-4d94-9899-534f9c84fcac.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/ab4b350a-d71c-4d94-9899-534f9c84fcac.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Olimpia Milano vs Virtus Bologna --- CH 1",
-            "type": "live_event",
-            "league": "Basketball Euroleague",
-            "time": "19:30",
-            "page_link": "http://www.fawanews.sc/Olimpia Milano vs Virtus Bologna.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/NYYY.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/NYYY.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Olimpia Milano vs Virtus Bologna --- CH 2",
-            "type": "live_event",
-            "league": "Basketball Euroleague",
-            "time": "19:30",
-            "page_link": "http://www.fawanews.sc/Olimpia Milano vs Virtus Bologna --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://www.rtmpcdn.com/live/66b6f6ee-84b4-4ae3-8211-5a418eef232a.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/66b6f6ee-84b4-4ae3-8211-5a418eef232a.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://www.rtmpcdn.com/live/66b6f6ee-84b4-4ae3-8211-5a418eef232a.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/66b6f6ee-84b4-4ae3-8211-5a418eef232a.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
