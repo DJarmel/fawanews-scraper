@@ -1,8 +1,78 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-30T19:17:05.293708",
-    "total_with_streams": 40,
+    "fetched_at": "2026-09-30T19:44:18.126563",
+    "total_with_streams": 34,
     "events_with_streams": [
+        {
+            "name": "Cerro Porteno vs Rubio Nu",
+            "type": "live_event",
+            "league": "Paraguay Copa",
+            "time": "23:30",
+            "page_link": "http://www.fawanews.sc/Cerro Porteno vs Rubio Nu.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/PMMMAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/PMMMAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Tomayapo vs Nacional Potosi",
+            "type": "live_event",
+            "league": "Bolivia Copa",
+            "time": "23:30",
+            "page_link": "http://www.fawanews.sc/Tomayapo vs Nacional Potosi.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/PMMMAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/PMMMAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Houston Astros vs Chicago White Sox",
+            "type": "live_event",
+            "league": "MLB Baseball",
+            "time": "22:00",
+            "page_link": "http://www.fawanews.sc/Houston Astros vs Chicago White Sox.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/MMMMA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/MMMMA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Independiente FBC vs Nacional Asuncion",
+            "type": "live_event",
+            "league": "Paraguay Copa",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/Independiente FBC vs Nacional Asuncion.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/PMMMA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/PMMMA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Cienciano vs Los Chankas",
+            "type": "live_event",
+            "league": "Peru Liga 1 Apertura",
+            "time": "21:00",
+            "page_link": "http://www.fawanews.sc/Cienciano vs Los Chankas.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/PMMM.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/PMMM.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
         {
             "name": "Benfica W vs Bayern Munchen W --- CH 1",
             "type": "live_event",
@@ -115,7 +185,7 @@
             "league": "Bolivia Copa",
             "time": "20:00",
             "page_link": "http://www.fawanews.sc/Real Oruro vs Always Ready.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",
+            "image_url": "https://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg",
             "streams": [
                 {
                     "original_url": "http://193.47.62.50/hls/ZPPPAAAAAAA.m3u8",
@@ -412,168 +482,6 @@
                 {
                     "original_url": "http://193.47.62.50/hls/MMMM.m3u8",
                     "m3u_url": "http://193.47.62.50/hls/MMMM.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "United Arab Emirates vs Qatar --- CH 1",
-            "type": "live_event",
-            "league": "Arabian Gulf Cup",
-            "time": "18:30",
-            "page_link": "http://www.fawanews.sc/United Arab Emirates vs Qatar.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/JJJJAAAAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/JJJJAAAAAAAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "United Arab Emirates vs Qatar --- CH 2",
-            "type": "live_event",
-            "league": "Arabian Gulf Cup",
-            "time": "18:30",
-            "page_link": "http://www.fawanews.sc/United Arab Emirates vs Qatar --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://www.rtmpcdn.com/live/5a7e7fdf-dc4a-4fa5-8f74-e6a535d10934.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/5a7e7fdf-dc4a-4fa5-8f74-e6a535d10934.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://www.rtmpcdn.com/live/5a7e7fdf-dc4a-4fa5-8f74-e6a535d10934.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/5a7e7fdf-dc4a-4fa5-8f74-e6a535d10934.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Bahrain vs Yemen --- CH 1",
-            "type": "live_event",
-            "league": "Arabian Gulf Cup",
-            "time": "18:30",
-            "page_link": "http://www.fawanews.sc/Bahrain vs Yemen.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/JJJJAAAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/JJJJAAAAAAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Bahrain vs Yemen --- CH 2",
-            "type": "live_event",
-            "league": "Arabian Gulf Cup",
-            "time": "18:30",
-            "page_link": "http://www.fawanews.sc/Bahrain vs Yemen --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1504192097787731971/UTeQ51Bi_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://www.rtmpcdn.com/live/53748f68-2816-45ad-850e-98c10968c7a6.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/53748f68-2816-45ad-850e-98c10968c7a6.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://www.rtmpcdn.com/live/53748f68-2816-45ad-850e-98c10968c7a6.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/53748f68-2816-45ad-850e-98c10968c7a6.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Vimmerby vs Modo",
-            "type": "live_event",
-            "league": "Sweden HockeyAllsvenskan",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Vimmerby vs Modo.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2099574859923681280/DSz61zyx_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/JJJJAAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/JJJJAAAAAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Ostersund vs Kalmar",
-            "type": "live_event",
-            "league": "Sweden HockeyAllsvenskan",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Ostersund vs Kalmar.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2099574859923681280/DSz61zyx_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/JJJJAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/JJJJAAAAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Oskarshamn vs BIK Karlskoga",
-            "type": "live_event",
-            "league": "Sweden HockeyAllsvenskan",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Oskarshamn vs BIK Karlskoga.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2099574859923681280/DSz61zyx_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/JJJJAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/JJJJAAAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Mora vs Nybro",
-            "type": "live_event",
-            "league": "Sweden HockeyAllsvenskan",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Mora vs Nybro.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2099574859923681280/DSz61zyx_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/JJJJAAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/JJJJAAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Leksand vs Vasteras",
-            "type": "live_event",
-            "league": "Sweden HockeyAllsvenskan",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Leksand vs Vasteras.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2099574859923681280/DSz61zyx_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/JJJJAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/JJJJAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Almtuna vs Sodertalje",
-            "type": "live_event",
-            "league": "Sweden HockeyAllsvenskan",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Almtuna vs Sodertalje.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2099574859923681280/DSz61zyx_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/JJJJA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/JJJJA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "AIK vs Visby Roma",
-            "type": "live_event",
-            "league": "Sweden HockeyAllsvenskan",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/AIK vs Visby Roma.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2099574859923681280/DSz61zyx_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/JJJJ.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/JJJJ.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
