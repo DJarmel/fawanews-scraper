@@ -1,8 +1,22 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-09-30T15:19:48.255492",
+    "fetched_at": "2026-09-30T15:48:06.056878",
     "total_with_streams": 17,
     "events_with_streams": [
+        {
+            "name": "Simba W vs Young Africains W",
+            "type": "live_event",
+            "league": "Tanzania Women Cup",
+            "time": "16:00",
+            "page_link": "http://www.fawanews.sc/Simba W vs Young Africains W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/zuuu.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/zuuu.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
         {
             "name": "Aktobe W vs Ajax W",
             "type": "live_event",
@@ -46,30 +60,16 @@
             ]
         },
         {
-            "name": "Hong Kong vs Brunei",
-            "type": "live_event",
-            "league": "ASEAN Championship",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Hong Kong vs Brunei.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/fafafaAAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/fafafaAAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
             "name": "South Africa vs Australia",
             "type": "live_event",
             "league": "Cricket",
             "time": "12:30",
-            "page_link": "http://www.fawanews.sc/South Africa vs Australia.html",
+            "page_link": "http://www.fawanews.sc/South Africa vs Australia1.html",
             "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.41/hls/fafafaAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/fafafaAA.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.41/hls/fafafaAAX.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/fafafaAAX.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
