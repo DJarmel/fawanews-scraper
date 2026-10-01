@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-10-01T10:46:11.531138",
-    "total_with_streams": 16,
+    "fetched_at": "2026-10-01T11:15:51.882253",
+    "total_with_streams": 17,
     "events_with_streams": [
         {
             "name": "Indonesia vs Bangladesh",
@@ -154,6 +154,24 @@
                 {
                     "original_url": "http://193.47.62.44/hls/iiiiX.m3u8",
                     "m3u_url": "http://193.47.62.44/hls/iiiiX.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Japan vs Ecuador --- CH 2",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "11:10",
+            "page_link": "http://www.fawanews.sc/Japan vs Ecuador --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/c201e095-9668-4a78-8480-dc19da05517c.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/c201e095-9668-4a78-8480-dc19da05517c.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/c201e095-9668-4a78-8480-dc19da05517c.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/c201e095-9668-4a78-8480-dc19da05517c.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
