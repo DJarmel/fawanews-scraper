@@ -1,14 +1,14 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-10-01T07:18:12.299928",
-    "total_with_streams": 25,
+    "fetched_at": "2026-10-01T07:46:36.092176",
+    "total_with_streams": 24,
     "events_with_streams": [
         {
-            "name": "Argentina vs Bolivia --- CH 1",
+            "name": "Panama vs New Zealand",
             "type": "live_event",
             "league": "Friendly Match",
-            "time": "01:00",
-            "page_link": "http://www.fawanews.sc/Argentina vs Bolivia.html",
+            "time": "07:00",
+            "page_link": "http://www.fawanews.sc/Panama vs New Zealand.html",
             "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
             "streams": [
                 {
@@ -22,38 +22,16 @@
             ]
         },
         {
-            "name": "Argentina vs Bolivia --- CH 3",
+            "name": "Otago vs Auckland",
             "type": "live_event",
-            "league": "Friendly Match",
-            "time": "01:00",
-            "page_link": "http://www.fawanews.sc/Argentina vs Bolivia --- CH 3.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "league": "Rugby NZ NPC",
+            "time": "07:00",
+            "page_link": "http://www.fawanews.sc/Otago vs Auckland.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "https://live.dyrur1.com/live/vrqwni01zova4qn_739ed6e075fa3748d684c07bc383e36f_540p.m3u8?auth_key=1790826905-0-0-2c87a7e9f924a096d9e44256f3adc94e",
-                    "m3u_url": "https://live.dyrur1.com/live/vrqwni01zova4qn_739ed6e075fa3748d684c07bc383e36f_540p.m3u8?auth_key=1790826905-0-0-2c87a7e9f924a096d9e44256f3adc94e|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://live.dyrur1.com/live/vrqwni01zova4qn_739ed6e075fa3748d684c07bc383e36f_540p.m3u8?auth_key=1790826905-0-0-2c87a7e9f924a096d9e44256f3adc94e",
-                    "m3u_url": "http://live.dyrur1.com/live/vrqwni01zova4qn_739ed6e075fa3748d684c07bc383e36f_540p.m3u8?auth_key=1790826905-0-0-2c87a7e9f924a096d9e44256f3adc94e|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Argentina vs Bolivia --- CH 2",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "01:00",
-            "page_link": "http://www.fawanews.sc/Argentina vs Bolivia --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://www.rtmpcdn.com/live/12aaeb3a-6088-4d87-bd3a-aced5688b001.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/12aaeb3a-6088-4d87-bd3a-aced5688b001.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://www.rtmpcdn.com/live/12aaeb3a-6088-4d87-bd3a-aced5688b001.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/12aaeb3a-6088-4d87-bd3a-aced5688b001.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.44/hls/hhhh.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/hhhh.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
