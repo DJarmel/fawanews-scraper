@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-10-01T18:20:39.044880",
-    "total_with_streams": 49,
+    "fetched_at": "2026-10-01T18:49:49.182198",
+    "total_with_streams": 48,
     "events_with_streams": [
         {
             "name": "Boxing : Efe vs Speed",
@@ -14,20 +14,6 @@
                 {
                     "original_url": "http://193.47.62.55/hls/zszszs.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/zszszs.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "UEFA Nations League Simulcast",
-            "type": "live_event",
-            "league": "UEFA Nations League",
-            "time": "19:45",
-            "page_link": "http://www.fawanews.sc/UEFA Nations League Simulcast.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/AIIIA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/AIIIA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
