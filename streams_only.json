@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-10-01T15:47:18.269388",
-    "total_with_streams": 29,
+    "fetched_at": "2026-10-01T16:15:48.918269",
+    "total_with_streams": 24,
     "events_with_streams": [
         {
             "name": "Guinea vs Kenya",
@@ -292,34 +292,6 @@
             ]
         },
         {
-            "name": "United FC vs Hatta",
-            "type": "live_event",
-            "league": "UAE Presidents Cup",
-            "time": "14:25",
-            "page_link": "http://www.fawanews.sc/United FC vs Hatta.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/JUJUJUA.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/JUJUJUA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Al Sharjah vs Al Dhafra",
-            "type": "live_event",
-            "league": "UAE Presidents Cup",
-            "time": "14:25",
-            "page_link": "http://www.fawanews.sc/Al Sharjah vs Al Dhafra.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.59/hls/JUJUJU.m3u8",
-                    "m3u_url": "http://193.47.62.59/hls/JUJUJU.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
             "name": "Horse Racing --- CH 1",
             "type": "live_event",
             "league": "Horse Racing",
@@ -344,20 +316,6 @@
                 {
                     "original_url": "http://193.47.62.194/hls/vavavavaq.m3u8",
                     "m3u_url": "http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Snooker Shenzhen Open --- Table 3",
-            "type": "live_event",
-            "league": "Snooker",
-            "time": "12:30",
-            "page_link": "http://www.fawanews.sc/Snooker Shenzhen Open --- Table 3.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/grrrA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/grrrA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -390,34 +348,6 @@
                 {
                     "original_url": "http://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8",
                     "m3u_url": "http://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Tennis ATP Tokyo",
-            "type": "live_event",
-            "league": "Tennis ATP",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Tennis ATP Tokyo.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/NUUUQQ.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/NUUUQQ.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Tennis ATP Beijing",
-            "type": "live_event",
-            "league": "Tennis ATP",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Tennis ATP Beijing.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/NUUUQ.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/NUUUQ.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         }
