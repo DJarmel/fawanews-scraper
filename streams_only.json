@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-10-01T17:16:35.342572",
-    "total_with_streams": 28,
+    "fetched_at": "2026-10-01T17:46:52.066903",
+    "total_with_streams": 42,
     "events_with_streams": [
         {
             "name": "Guinea vs Kenya",
@@ -64,7 +64,247 @@
             ]
         },
         {
-            "name": "Paris vs Zalgiris Kaunas",
+            "name": "British Virgin Islands vs Montserrat",
+            "type": "live_event",
+            "league": "CONCACAF Nations League",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/British Virgin Islands vs Montserrat.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/AIIIAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/AIIIAAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "PSG W vs Leuven W",
+            "type": "live_event",
+            "league": "UEFA Women Champions League",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/PSG W vs Leuven W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1937381899296452608/lu9fXpb9_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/AIIIAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/AIIIAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Manchester City W vs Real Madrid W",
+            "type": "live_event",
+            "league": "UEFA Women Champions League",
+            "time": "20:00",
+            "page_link": "http://www.fawanews.sc/Manchester City W vs Real Madrid W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1937381899296452608/lu9fXpb9_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/AIIIAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/AIIIAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "UEFA Nations League Simulcast",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/UEFA Nations League Simulcast.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/AIIIA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/AIIIA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Denmark vs Portugal",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Denmark vs Portugal.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.40/hls/OLLLQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.40/hls/OLLLQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.41/hls/OLLLQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/OLLLQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.50/hls/OLLLQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/OLLLQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/OLLLQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/OLLLQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Wales vs Norway",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Wales vs Norway.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.40/hls/OLLLQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.40/hls/OLLLQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.41/hls/OLLLQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/OLLLQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.50/hls/OLLLQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/OLLLQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/OLLLQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/OLLLQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Greece vs Netherlands",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Greece vs Netherlands.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.40/hls/OLLLQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.40/hls/OLLLQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.41/hls/OLLLQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/OLLLQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.50/hls/OLLLQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/OLLLQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/OLLLQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/OLLLQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Germany vs Serbia",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Germany vs Serbia.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.40/hls/OLLLQQ.m3u8",
+                    "m3u_url": "http://193.47.62.40/hls/OLLLQQ.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.41/hls/OLLLQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/OLLLQQ.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.50/hls/OLLLQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/OLLLQQ.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/OLLLQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/OLLLQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Israel vs Kosovo",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Israel vs Kosovo.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.40/hls/OLLLQ.m3u8",
+                    "m3u_url": "http://193.47.62.40/hls/OLLLQ.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.41/hls/OLLLQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/OLLLQ.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.50/hls/OLLLQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/OLLLQ.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/OLLLQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/OLLLQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Ireland vs Austria",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Ireland vs Austria.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.40/hls/OLLL.m3u8",
+                    "m3u_url": "http://193.47.62.40/hls/OLLL.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.41/hls/OLLL.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/OLLL.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.50/hls/OLLL.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/OLLL.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.59/hls/OLLL.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/OLLL.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Malta vs Gibraltar",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Malta vs Gibraltar.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/AIII.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/AIII.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Bastia vs Orleans",
+            "type": "live_event",
+            "league": "France Ligue 3",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Bastia vs Orleans.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2082712556347523072/gmreV8VX_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/YFFFQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/YFFFQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Paris vs Zalgiris Kaunas --- CH 1",
             "type": "live_event",
             "league": "Basketball Euroleague",
             "time": "19:45",
@@ -78,7 +318,25 @@
             ]
         },
         {
-            "name": "Virtus Bologna vs Olympiacos",
+            "name": "Paris vs Zalgiris Kaunas --- CH 2",
+            "type": "live_event",
+            "league": "Basketball Euroleague",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Paris vs Zalgiris Kaunas --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/b4a89358-777a-49b5-b9d5-321c0046db4b.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/b4a89358-777a-49b5-b9d5-321c0046db4b.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/b4a89358-777a-49b5-b9d5-321c0046db4b.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/b4a89358-777a-49b5-b9d5-321c0046db4b.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Virtus Bologna vs Olympiacos --- CH 1",
             "type": "live_event",
             "league": "Basketball Euroleague",
             "time": "19:30",
@@ -88,6 +346,24 @@
                 {
                     "original_url": "http://193.47.62.55/hls/YFFF.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/YFFF.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Virtus Bologna vs Olympiacos --- CH 2",
+            "type": "live_event",
+            "league": "Basketball Euroleague",
+            "time": "19:30",
+            "page_link": "http://www.fawanews.sc/Virtus Bologna vs Olympiacos --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/41a57da1-802f-4f15-9c51-a055745e3ff8.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/41a57da1-802f-4f15-9c51-a055745e3ff8.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/41a57da1-802f-4f15-9c51-a055745e3ff8.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/41a57da1-802f-4f15-9c51-a055745e3ff8.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
