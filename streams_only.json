@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-10-01T20:17:07.881452",
-    "total_with_streams": 47,
+    "fetched_at": "2026-10-01T20:46:41.827142",
+    "total_with_streams": 42,
     "events_with_streams": [
         {
             "name": "Denmark vs Portugal --- CH 1",
@@ -580,38 +580,6 @@
             ]
         },
         {
-            "name": "Crvena Zvezda vs Anadolu Efes --- CH 1",
-            "type": "live_event",
-            "league": "Basketball Euroleague",
-            "time": "19:00",
-            "page_link": "http://www.fawanews.sc/Crvena Zvezda vs Anadolu Efes.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/JJJJFAAAAAAQ.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/JJJJFAAAAAAQ.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Crvena Zvezda vs Anadolu Efes --- CH 2",
-            "type": "live_event",
-            "league": "Basketball Euroleague",
-            "time": "19:00",
-            "page_link": "http://www.fawanews.sc/Crvena Zvezda vs Anadolu Efes --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://www.rtmpcdn.com/live/9ea3a0e4-00ee-444e-8597-e10d9c2c48c8.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/9ea3a0e4-00ee-444e-8597-e10d9c2c48c8.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://www.rtmpcdn.com/live/9ea3a0e4-00ee-444e-8597-e10d9c2c48c8.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/9ea3a0e4-00ee-444e-8597-e10d9c2c48c8.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
             "name": "Darts World Grand Prix",
             "type": "live_event",
             "league": "Darts",
@@ -696,20 +664,6 @@
             ]
         },
         {
-            "name": "Sporting Cristal vs AD Tarma",
-            "type": "live_event",
-            "league": "Peru Copa",
-            "time": "21:00",
-            "page_link": "http://www.fawanews.sc/Sporting Cristal vs AD Tarma.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/BBBB.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/BBBB.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
             "name": "United States Virgin Islands vs Saint Martin",
             "type": "live_event",
             "league": "CONCACAF Nations League",
@@ -752,20 +706,6 @@
             ]
         },
         {
-            "name": "San Marino U21 vs Spain U21",
-            "type": "live_event",
-            "league": "Euro U21 Qualification",
-            "time": "19:15",
-            "page_link": "http://www.fawanews.sc/San Marino U21 vs Spain U21.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/JJJJFAAAAAAQQ.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/JJJJFAAAAAAQQ.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
             "name": "Boxing : Efe vs Speed",
             "type": "live_event",
             "league": "Boxing",
@@ -776,20 +716,6 @@
                 {
                     "original_url": "http://193.47.62.55/hls/zszszs.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/zszszs.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Skelleftea vs Malmo",
-            "type": "live_event",
-            "league": "Sweden Hockey SHL",
-            "time": "18:00",
-            "page_link": "http://www.fawanews.sc/Skelleftea vs Malmo.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2052693259969871878/ek73wcjc_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/JJJJFAAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/JJJJFAAAAAA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
