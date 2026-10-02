@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-10-02T17:16:00.616314",
-    "total_with_streams": 32,
+    "fetched_at": "2026-10-02T17:45:32.592713",
+    "total_with_streams": 47,
     "events_with_streams": [
         {
             "name": "Cyprus vs Armenia --- CH 1",
@@ -64,6 +64,216 @@
                 {
                     "original_url": "http://www.rtmpcdn.com/live/2537b07d-cdff-414b-b564-d45f70d193f3.m3u8",
                     "m3u_url": "http://www.rtmpcdn.com/live/2537b07d-cdff-414b-b564-d45f70d193f3.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Dundalk vs Bohemians",
+            "type": "live_event",
+            "league": "Ireland Premier Division",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Dundalk vs Bohemians.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1675168981139767296/nbWYt3fC_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/AYYYAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/AYYYAAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Edinburgh vs Stormers",
+            "type": "live_event",
+            "league": "United Rugby Championship",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Edinburgh vs Stormers.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1845772290597834760/5IXMkq0j_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/AYYYAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/AYYYAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Cardiff Rugby vs Zebre",
+            "type": "live_event",
+            "league": "United Rugby Championship",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Cardiff Rugby vs Zebre.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1845772290597834760/5IXMkq0j_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/AYYYAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/AYYYAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Benetton vs Connacht",
+            "type": "live_event",
+            "league": "United Rugby Championship",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Benetton vs Connacht.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1845772290597834760/5IXMkq0j_400x400.png",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/AYYYA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/AYYYA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Bath vs Exeter Chiefs",
+            "type": "live_event",
+            "league": "English Premiership Rugby",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Bath vs Exeter Chiefs.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1947922197328134144/2PBgulm5_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/AYYY.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/AYYY.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "England U21 vs Slovakia U21",
+            "type": "live_event",
+            "league": "Euro U21 Qualification",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/England U21 vs Slovakia U21.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/VAAAQaaaaaAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/VAAAQaaaaaAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Eldense vs Oviedo",
+            "type": "live_event",
+            "league": "Spanish Segunda Liga",
+            "time": "19:30",
+            "page_link": "http://www.fawanews.sc/Eldense vs Oviedo.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2043992816377049088/r9FnBdQu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/VAAAQaaaaaA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/VAAAQaaaaaA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Sevilla vs Aston Villa",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "19:30",
+            "page_link": "http://www.fawanews.sc/Sevilla vs Aston Villa.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/VAAAQaaaaa.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/VAAAQaaaaa.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Baskonia vs Olimpia Milano",
+            "type": "live_event",
+            "league": "Basketball Euroleague",
+            "time": "19:30",
+            "page_link": "http://www.fawanews.sc/Baskonia vs Olimpia Milano.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/VAAAQaaaa.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/VAAAQaaaa.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Darts World Grand Prix",
+            "type": "live_event",
+            "league": "Darts",
+            "time": "19:15",
+            "page_link": "http://www.fawanews.sc/Darts World Grand Prix_2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/ZRRRAAAAAx.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/ZRRRAAAAAx.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Panathinaikos vs Maccabi Tel Aviv",
+            "type": "live_event",
+            "league": "Basketball Euroleague",
+            "time": "19:15",
+            "page_link": "http://www.fawanews.sc/Panathinaikos vs Maccabi Tel Aviv.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/VAAAQaaa.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/VAAAQaaa.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Lyon-Villeurbanne vs Valencia",
+            "type": "live_event",
+            "league": "Basketball Euroleague",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Lyon-Villeurbanne vs Valencia.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/VAAAQaa.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/VAAAQaa.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Bayern Munchen vs Partizan",
+            "type": "live_event",
+            "league": "Basketball Euroleague",
+            "time": "19:00",
+            "page_link": "http://www.fawanews.sc/Bayern Munchen vs Partizan.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/VAAAQa.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/VAAAQa.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Fenerbahce vs Dubai",
+            "type": "live_event",
+            "league": "Basketball Euroleague",
+            "time": "18:45",
+            "page_link": "http://www.fawanews.sc/Fenerbahce vs Dubai.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/VAAAQ.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/VAAAQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Andorra U21 vs Moldova U21",
+            "type": "live_event",
+            "league": "Euro U21 Qualification",
+            "time": "18:30",
+            "page_link": "http://www.fawanews.sc/Andorra U21 vs Moldova U21.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/VAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/VAAA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
