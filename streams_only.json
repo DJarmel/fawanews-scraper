@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-10-02T13:47:37.006365",
-    "total_with_streams": 27,
+    "fetched_at": "2026-10-02T14:17:27.063672",
+    "total_with_streams": 25,
     "events_with_streams": [
         {
             "name": "Kazakhstan vs Moldova --- CH 1",
@@ -32,6 +32,20 @@
                 {
                     "original_url": "http://www.rtmpcdn.com/live/7e9c8498-4662-42f4-8066-18f85202d772.m3u8",
                     "m3u_url": "http://www.rtmpcdn.com/live/7e9c8498-4662-42f4-8066-18f85202d772.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Portugal U20 vs Czech U20",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Portugal U20 vs Czech U20.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/HOOOA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/HOOOA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -198,20 +212,6 @@
             ]
         },
         {
-            "name": "FC Twente vs Werder Bremen",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "12:00",
-            "page_link": "http://www.fawanews.sc/FC Twente vs Werder Bremen.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/HOOOA.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/HOOOA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
             "name": "Kolding vs Odense",
             "type": "live_event",
             "league": "Friendly Match",
@@ -296,20 +296,6 @@
             ]
         },
         {
-            "name": "Richmond W vs Geelong Cats W",
-            "type": "live_event",
-            "league": "AFL Aussie Rules",
-            "time": "10:35",
-            "page_link": "http://www.fawanews.sc/Richmond W vs Geelong Cats W.html",
-            "image_url": "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/URRR.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/URRR.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
             "name": "Lugano vs Hellas Verona",
             "type": "live_event",
             "league": "Friendly Match",
@@ -320,20 +306,6 @@
                 {
                     "original_url": "http://193.47.62.55/hls/hyhyhy.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/hyhyhy.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Thailand vs Philippines",
-            "type": "live_event",
-            "league": "ASEAN Championship",
-            "time": "10:00",
-            "page_link": "http://www.fawanews.sc/Thailand vs Philippines1.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/TTTTTX.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/TTTTTX.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
