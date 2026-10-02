@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-10-02T19:47:34.172799",
-    "total_with_streams": 75,
+    "fetched_at": "2026-10-02T20:15:51.408128",
+    "total_with_streams": 76,
     "events_with_streams": [
         {
             "name": "Boxing Primetime Fight Night Vol 10",
@@ -534,7 +534,7 @@
             ]
         },
         {
-            "name": "England U21 vs Slovakia U21",
+            "name": "England U21 vs Slovakia U21 --- CH 1",
             "type": "live_event",
             "league": "Euro U21 Qualification",
             "time": "19:45",
@@ -544,6 +544,24 @@
                 {
                     "original_url": "http://193.47.62.55/hls/VAAAQaaaaaAA.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/VAAAQaaaaaAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "England U21 vs Slovakia U21 --- CH 2",
+            "type": "live_event",
+            "league": "Euro U21 Qualification",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/England U21 vs Slovakia U21 --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live2.dyrur1.com/live/58208815_9a81cc0f8db5aee81db62eb3c45ccae8_540p.m3u8?auth_key=1790983998-0-0-9dabb5b95a591690ebdba1f1b3ee615b",
+                    "m3u_url": "https://live2.dyrur1.com/live/58208815_9a81cc0f8db5aee81db62eb3c45ccae8_540p.m3u8?auth_key=1790983998-0-0-9dabb5b95a591690ebdba1f1b3ee615b|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://live2.dyrur1.com/live/58208815_9a81cc0f8db5aee81db62eb3c45ccae8_540p.m3u8?auth_key=1790983998-0-0-9dabb5b95a591690ebdba1f1b3ee615b",
+                    "m3u_url": "http://live2.dyrur1.com/live/58208815_9a81cc0f8db5aee81db62eb3c45ccae8_540p.m3u8?auth_key=1790983998-0-0-9dabb5b95a591690ebdba1f1b3ee615b|Referer=http://www.fawanews.sc/"
                 }
             ]
         },

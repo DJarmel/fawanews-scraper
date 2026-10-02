@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-10-02T19:47:34.172799",
-    "total_events": 75,
+    "fetched_at": "2026-10-02T20:15:51.408128",
+    "total_events": 76,
     "events": [
         {
             "name": "Boxing Primetime Fight Night Vol 10",
@@ -1477,14 +1477,14 @@
             ]
         },
         {
-            "name": "England U21 vs Slovakia U21",
+            "name": "England U21 vs Slovakia U21 --- CH 1",
             "type": "live_event",
             "league": "Euro U21 Qualification",
             "time": "19:45",
             "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
             "page_link": "http://www.fawanews.sc/England U21 vs Slovakia U21.html",
             "home_team": "England U21",
-            "away_team": "Slovakia U21",
+            "away_team": "Slovakia U21 --- CH 1",
             "page_status": 200,
             "page_title": "FawaNews - England U21 vs Slovakia U21 - Your Home of Sport",
             "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
@@ -1525,6 +1525,59 @@
             },
             "best_stream_urls": [
                 "http://193.47.62.55/hls/VAAAQaaaaaAA.m3u8"
+            ]
+        },
+        {
+            "name": "England U21 vs Slovakia U21 --- CH 2",
+            "type": "live_event",
+            "league": "Euro U21 Qualification",
+            "time": "19:45",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/England U21 vs Slovakia U21 --- CH 2.html",
+            "home_team": "England U21",
+            "away_team": "Slovakia U21 --- CH 2",
+            "page_status": 200,
+            "page_title": "FawaNews - England U21 vs Slovakia U21 - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "https://live2.dyrur1.com/live/58208815_9a81cc0f8db5aee81db62eb3c45ccae8_540p.m3u8?auth_key=1790983998-0-0-9dabb5b95a591690ebdba1f1b3ee615b"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://live2.dyrur1.com/live/58208815_9a81cc0f8db5aee81db62eb3c45ccae8_540p.m3u8?auth_key=1790983998-0-0-9dabb5b95a591690ebdba1f1b3ee615b",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://live2.dyrur1.com/live/58208815_9a81cc0f8db5aee81db62eb3c45ccae8_540p.m3u8?auth_key=1790983998-0-0-9dabb5b95a591690ebdba1f1b3ee615b",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "https://live2.dyrur1.com/live/58208815_9a81cc0f8db5aee81db62eb3c45ccae8_540p.m3u8?auth_key=1790983998-0-0-9dabb5b95a591690ebdba1f1b3ee615b",
+                "http://live2.dyrur1.com/live/58208815_9a81cc0f8db5aee81db62eb3c45ccae8_540p.m3u8?auth_key=1790983998-0-0-9dabb5b95a591690ebdba1f1b3ee615b"
             ]
         },
         {
