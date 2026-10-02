@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-10-02T18:20:52.073058",
-    "total_with_streams": 60,
+    "fetched_at": "2026-10-02T18:49:34.653147",
+    "total_with_streams": 67,
     "events_with_streams": [
         {
             "name": "Boxing Primetime Fight Night Vol 10",
@@ -32,7 +32,7 @@
             ]
         },
         {
-            "name": "France vs Italy",
+            "name": "France vs Italy --- CH 1",
             "type": "live_event",
             "league": "UEFA Nations League",
             "time": "19:45",
@@ -58,7 +58,25 @@
             ]
         },
         {
-            "name": "Belgium vs Turkey",
+            "name": "France vs Italy --- CH 2",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/France vs Italy --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/4ad41d19-13f6-40f4-b283-06dd152fa8a1.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/4ad41d19-13f6-40f4-b283-06dd152fa8a1.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/4ad41d19-13f6-40f4-b283-06dd152fa8a1.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/4ad41d19-13f6-40f4-b283-06dd152fa8a1.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Belgium vs Turkey --- CH 1",
             "type": "live_event",
             "league": "UEFA Nations League",
             "time": "19:45",
@@ -84,7 +102,25 @@
             ]
         },
         {
-            "name": "Ukraine vs Northern Ireland",
+            "name": "Belgium vs Turkey --- CH 2",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Belgium vs Turkey --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/ab1ea1d1-7137-44ee-8592-90789d7aa234.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/ab1ea1d1-7137-44ee-8592-90789d7aa234.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/ab1ea1d1-7137-44ee-8592-90789d7aa234.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/ab1ea1d1-7137-44ee-8592-90789d7aa234.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Ukraine vs Northern Ireland --- CH 1",
             "type": "live_event",
             "league": "UEFA Nations League",
             "time": "19:45",
@@ -110,7 +146,25 @@
             ]
         },
         {
-            "name": "Poland vs Romania",
+            "name": "Ukraine vs Northern Ireland --- CH 2",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Ukraine vs Northern Ireland --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/7222e93f-0e0e-4cc8-9743-538aa9567487.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/7222e93f-0e0e-4cc8-9743-538aa9567487.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/7222e93f-0e0e-4cc8-9743-538aa9567487.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/7222e93f-0e0e-4cc8-9743-538aa9567487.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Poland vs Romania --- CH 1",
             "type": "live_event",
             "league": "UEFA Nations League",
             "time": "19:45",
@@ -136,7 +190,25 @@
             ]
         },
         {
-            "name": "Hungary vs Georgia",
+            "name": "Poland vs Romania --- CH 2",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Poland vs Romania --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/b6f7004b-8766-48c4-b07d-4571e70f601c.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/b6f7004b-8766-48c4-b07d-4571e70f601c.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/b6f7004b-8766-48c4-b07d-4571e70f601c.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/b6f7004b-8766-48c4-b07d-4571e70f601c.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Hungary vs Georgia --- CH 1",
             "type": "live_event",
             "league": "UEFA Nations League",
             "time": "19:45",
@@ -162,7 +234,25 @@
             ]
         },
         {
-            "name": "Bosnia-Herzegovina vs Sweden",
+            "name": "Hungary vs Georgia --- CH 2",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Hungary vs Georgia --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/dd4f0f71-8990-45e8-952e-da9f0f47f2e6.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/dd4f0f71-8990-45e8-952e-da9f0f47f2e6.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/dd4f0f71-8990-45e8-952e-da9f0f47f2e6.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/dd4f0f71-8990-45e8-952e-da9f0f47f2e6.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Bosnia-Herzegovina vs Sweden --- CH 1",
             "type": "live_event",
             "league": "UEFA Nations League",
             "time": "19:45",
@@ -188,7 +278,25 @@
             ]
         },
         {
-            "name": "Faroe Islands vs Slovakia",
+            "name": "Bosnia-Herzegovina vs Sweden --- CH 2",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Bosnia-Herzegovina vs Sweden --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/d5bc34e3-4238-46a4-8015-9542cedfaf11.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/d5bc34e3-4238-46a4-8015-9542cedfaf11.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/d5bc34e3-4238-46a4-8015-9542cedfaf11.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/d5bc34e3-4238-46a4-8015-9542cedfaf11.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Faroe Islands vs Slovakia --- CH 1",
             "type": "live_event",
             "league": "UEFA Nations League",
             "time": "19:45",
@@ -210,6 +318,24 @@
                 {
                     "original_url": "http://193.47.62.50/hls/OIII.m3u8",
                     "m3u_url": "http://193.47.62.50/hls/OIII.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Faroe Islands vs Slovakia --- CH 2",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "19:45",
+            "page_link": "http://www.fawanews.sc/Faroe Islands vs Slovakia --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/4063080c-6559-4ba9-8dbc-6a739792c166.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/4063080c-6559-4ba9-8dbc-6a739792c166.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/4063080c-6559-4ba9-8dbc-6a739792c166.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/4063080c-6559-4ba9-8dbc-6a739792c166.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -340,20 +466,6 @@
             ]
         },
         {
-            "name": "Eldense vs Oviedo",
-            "type": "live_event",
-            "league": "Spanish Segunda Liga",
-            "time": "19:30",
-            "page_link": "http://www.fawanews.sc/Eldense vs Oviedo.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2043992816377049088/r9FnBdQu_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/VAAAQaaaaaA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/VAAAQaaaaaA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
             "name": "Sevilla vs Aston Villa",
             "type": "live_event",
             "league": "Friendly Match",
@@ -364,6 +476,20 @@
                 {
                     "original_url": "http://193.47.62.55/hls/VAAAQaaaaa.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/VAAAQaaaaa.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Eldense vs Oviedo",
+            "type": "live_event",
+            "league": "Spanish Segunda Liga",
+            "time": "19:30",
+            "page_link": "http://www.fawanews.sc/Eldense vs Oviedo.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2043992816377049088/r9FnBdQu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/VAAAQaaaaaA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/VAAAQaaaaaA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
