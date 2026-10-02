@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-10-02T01:16:28.784341",
-    "total_with_streams": 28,
+    "fetched_at": "2026-10-02T01:45:20.156247",
+    "total_with_streams": 24,
     "events_with_streams": [
         {
             "name": "Cleveland Browns vs Pittsburgh Steelers --- CH 2",
@@ -96,7 +96,7 @@
             ]
         },
         {
-            "name": "W --- CH 2",
+            "name": "Las Vegas Aces W vs Indiana Fever W --- CH 2",
             "type": "live_event",
             "league": "WNBA Basketball",
             "time": "02:00",
@@ -196,6 +196,38 @@
             ]
         },
         {
+            "name": "Seattle Sounders vs Sporting Kansas City --- CH 1",
+            "type": "live_event",
+            "league": "MLS League",
+            "time": "02:30",
+            "page_link": "http://www.fawanews.sc/Seattle Sounders vs Sporting Kansas City.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/USSSSAx.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/USSSSAx.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Seattle Sounders vs Sporting Kansas City --- CH 2",
+            "type": "live_event",
+            "league": "MLS League",
+            "time": "02:30",
+            "page_link": "http://www.fawanews.sc/Seattle Sounders vs Sporting Kansas City --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live.dyrur1.com/live/g6763i5rmvlbo7r_91a7121811f401a45b7a6aee38e457e2_540p.m3u8?auth_key=1790919054-0-0-c5aaf1a6aea74b88dbef3f4e374b105b",
+                    "m3u_url": "https://live.dyrur1.com/live/g6763i5rmvlbo7r_91a7121811f401a45b7a6aee38e457e2_540p.m3u8?auth_key=1790919054-0-0-c5aaf1a6aea74b88dbef3f4e374b105b|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://live.dyrur1.com/live/g6763i5rmvlbo7r_91a7121811f401a45b7a6aee38e457e2_540p.m3u8?auth_key=1790919054-0-0-c5aaf1a6aea74b88dbef3f4e374b105b",
+                    "m3u_url": "http://live.dyrur1.com/live/g6763i5rmvlbo7r_91a7121811f401a45b7a6aee38e457e2_540p.m3u8?auth_key=1790919054-0-0-c5aaf1a6aea74b88dbef3f4e374b105b|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
             "name": "Calgary Flames vs Seattle Kraken",
             "type": "live_event",
             "league": "NHL Hockey",
@@ -210,20 +242,6 @@
                 {
                     "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8cb8d994-36f5-4104-8ce3-47364c12725c/master.m3u8",
                     "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8cb8d994-36f5-4104-8ce3-47364c12725c/master.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Inter Bogota vs Once Caldas",
-            "type": "live_event",
-            "league": "Colombia Primera A",
-            "time": "02:00",
-            "page_link": "http://www.fawanews.sc/Inter Bogota vs Once Caldas.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/USSSSA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/USSSSA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -316,34 +334,6 @@
             ]
         },
         {
-            "name": "Athletic Club vs Sport Recife",
-            "type": "live_event",
-            "league": "Brazil Serie B",
-            "time": "00:30",
-            "page_link": "http://www.fawanews.sc/Athletic Club vs Sport Recife.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/BBBBAAAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/BBBBAAAAAAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Anguilla vs Antigua and Barbuda",
-            "type": "live_event",
-            "league": "CONCACAF Nations League",
-            "time": "00:00",
-            "page_link": "http://www.fawanews.sc/Anguilla vs Antigua and Barbuda.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/BBBBAAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/BBBBAAAAAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
             "name": "New York Rangers vs Tampa Bay Lightning",
             "type": "live_event",
             "league": "NHL Hockey",
@@ -394,48 +384,6 @@
                 {
                     "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/baeb94a7-3ded-42b7-8e6d-74778eb63da3/master.m3u8",
                     "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/baeb94a7-3ded-42b7-8e6d-74778eb63da3/master.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Bolivar vs GV San Jose",
-            "type": "live_event",
-            "league": "Bolivia Copa",
-            "time": "23:30",
-            "page_link": "http://www.fawanews.sc/Bolivar vs GV San Jose.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/BBBBAAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/BBBBAAAAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Olimpia Asuncion vs Sp Luqueno",
-            "type": "live_event",
-            "league": "Paraguay Copa",
-            "time": "23:00",
-            "page_link": "http://www.fawanews.sc/Olimpia Asuncion vs Sp Luqueno.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/BBBBAAAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/BBBBAAAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Golf PGA Bank of Utah Championship",
-            "type": "live_event",
-            "league": "Golf PGA",
-            "time": "16:00",
-            "page_link": "http://www.fawanews.sc/Golf PGA Bank of Utah Championship.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/zfffAA.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/zfffAA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         }
