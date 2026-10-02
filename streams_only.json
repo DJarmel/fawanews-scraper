@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-10-02T16:48:02.886820",
-    "total_with_streams": 40,
+    "fetched_at": "2026-10-02T17:16:00.616314",
+    "total_with_streams": 32,
     "events_with_streams": [
         {
             "name": "Cyprus vs Armenia --- CH 1",
@@ -198,6 +198,20 @@
             ]
         },
         {
+            "name": "Sodertalje vs Ostersund",
+            "type": "live_event",
+            "league": "Sweden HockeyAllsvenskan",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Sodertalje vs Ostersund.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2099574859923681280/DSz61zyx_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/FAAADDD.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/FAAADDD.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
             "name": "Nybro vs AIK",
             "type": "live_event",
             "league": "Sweden HockeyAllsvenskan",
@@ -206,8 +220,8 @@
             "image_url": "https://pbs.twimg.com/profile_images/2099574859923681280/DSz61zyx_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.55/hls/FAAADDD.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/FAAADDD.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.55/hls/FAAADD.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/FAAADD.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -366,20 +380,6 @@
             ]
         },
         {
-            "name": "Aarau vs Young Boys",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "15:30",
-            "page_link": "http://www.fawanews.sc/Aarau vs Young Boys.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/HOOO.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/HOOO.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
             "name": "MMA PFL : Neda vs Saidy",
             "type": "live_event",
             "league": "MMA PFL",
@@ -390,118 +390,6 @@
                 {
                     "original_url": "http://193.47.62.50/hls/oooo.m3u8",
                     "m3u_url": "http://193.47.62.50/hls/oooo.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "MMA One Championship",
-            "type": "live_event",
-            "league": "MMA Fighting",
-            "time": "15:00",
-            "page_link": "http://www.fawanews.sc/MMA One Championship.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1389069591008010243/bk6gZtog_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/ooooa.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/ooooa.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Portugal U20 vs Czech U20",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "15:00",
-            "page_link": "http://www.fawanews.sc/Portugal U20 vs Czech U20.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/HOOOA.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/HOOOA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Al Wasl vs Ittihad Kalba",
-            "type": "live_event",
-            "league": "UAE League Cup",
-            "time": "14:15",
-            "page_link": "http://www.fawanews.sc/Al Wasl vs Ittihad Kalba.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/RIIIA.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/RIIIA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Al Ain vs Ajman",
-            "type": "live_event",
-            "league": "UAE League Cup",
-            "time": "14:15",
-            "page_link": "http://www.fawanews.sc/Al Ain vs Ajman.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/RIII.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/RIII.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Horse Racing --- CH 1",
-            "type": "live_event",
-            "league": "Horse Racing",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Horse Racing 11.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.194/hls/vavavava.m3u8",
-                    "m3u_url": "http://193.47.62.194/hls/vavavava.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Horse Racing --- CH 2",
-            "type": "live_event",
-            "league": "Horse Racing",
-            "time": "13:00",
-            "page_link": "http://www.fawanews.sc/Horse Racing 22.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.194/hls/vavavavaq.m3u8",
-                    "m3u_url": "http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Snooker Shenzhen Open --- Table 1",
-            "type": "live_event",
-            "league": "Snooker",
-            "time": "12:30",
-            "page_link": "http://www.fawanews.sc/Snooker Shenzhen Open --- Table 1.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/grrrAAA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/grrrAAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Snooker Shenzhen Open --- Table 2",
-            "type": "live_event",
-            "league": "Snooker",
-            "time": "12:30",
-            "page_link": "http://www.fawanews.sc/Snooker Shenzhen Open --- Table 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/grrrAA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/grrrAA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
