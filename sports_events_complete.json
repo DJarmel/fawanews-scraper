@@ -2,8 +2,8 @@
     "source": "fawanews.sc",
     "source_url": "http://www.fawanews.sc/",
     "referer": "http://www.fawanews.sc/",
-    "fetched_at": "2026-10-02T14:17:27.063672",
-    "total_live_events": 25,
+    "fetched_at": "2026-10-02T14:48:21.111452",
+    "total_live_events": 16,
     "total_news_articles": 19,
     "live_events": [
         {
@@ -74,7 +74,7 @@
                 "video_sources": [],
                 "embed_sources": [],
                 "m3u8_links": [
-                    "https://www.rtmpcdn.com/live/7e9c8498-4662-42f4-8066-18f85202d772.m3u8"
+                    "https://live.dyrur1.com/live/68932364_8de7a9070a0d8b1b70435e146ddc34eb_540p.m3u8?auth_key=1790965816-0-0-286644ceb9bc4e174f5c0c622ff54660"
                 ],
                 "mpd_links": [],
                 "mp4_links": [],
@@ -91,7 +91,7 @@
                     "https://twitter.com/share?ref_src=twsrc%5Etfw",
                     "https://platform.twitter.com/widgets.js",
                     "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://www.rtmpcdn.com/live/7e9c8498-4662-42f4-8066-18f85202d772.m3u8",
+                    "https://live.dyrur1.com/live/68932364_8de7a9070a0d8b1b70435e146ddc34eb_540p.m3u8?auth_key=1790965816-0-0-286644ceb9bc4e174f5c0c622ff54660",
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
@@ -99,15 +99,115 @@
                     "http://platform.twitter.com/widgets.js",
                     "http://acscdn.com/script/aclib.js",
                     "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://www.rtmpcdn.com/live/7e9c8498-4662-42f4-8066-18f85202d772.m3u8",
+                    "http://live.dyrur1.com/live/68932364_8de7a9070a0d8b1b70435e146ddc34eb_540p.m3u8?auth_key=1790965816-0-0-286644ceb9bc4e174f5c0c622ff54660",
                     "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://s10.histats.com/js15_as.js"
                 ]
             },
             "best_stream_urls": [
-                "https://www.rtmpcdn.com/live/7e9c8498-4662-42f4-8066-18f85202d772.m3u8",
-                "http://www.rtmpcdn.com/live/7e9c8498-4662-42f4-8066-18f85202d772.m3u8"
+                "https://live.dyrur1.com/live/68932364_8de7a9070a0d8b1b70435e146ddc34eb_540p.m3u8?auth_key=1790965816-0-0-286644ceb9bc4e174f5c0c622ff54660",
+                "http://live.dyrur1.com/live/68932364_8de7a9070a0d8b1b70435e146ddc34eb_540p.m3u8?auth_key=1790965816-0-0-286644ceb9bc4e174f5c0c622ff54660"
+            ]
+        },
+        {
+            "name": "MMA PFL : Neda vs Saidy",
+            "type": "live_event",
+            "league": "MMA PFL",
+            "time": "15:00",
+            "image_url": "https://pbs.twimg.com/profile_images/2058439058347483136/mh5ykHWu_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/MMA PFL_Neda vs Saidy.html",
+            "home_team": "MMA PFL : Neda",
+            "away_team": "Saidy",
+            "page_status": 200,
+            "page_title": "FawaNews - Kazakhstan vs Moldova - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.50/hls/oooo.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.50/hls/oooo.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.50/hls/oooo.m3u8"
+            ]
+        },
+        {
+            "name": "MMA One Championship",
+            "type": "live_event",
+            "league": "MMA Fighting",
+            "time": "15:00",
+            "image_url": "https://pbs.twimg.com/profile_images/1389069591008010243/bk6gZtog_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/MMA One Championship.html",
+            "page_status": 200,
+            "page_title": "FawaNews - MMA One Championship - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.50/hls/ooooa.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.50/hls/ooooa.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.50/hls/ooooa.m3u8"
             ]
         },
         {
@@ -362,161 +462,6 @@
             ]
         },
         {
-            "name": "China vs Palestine --- CH 1",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "12:35",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/China vs Palestine.html",
-            "home_team": "China",
-            "away_team": "Palestine --- CH 1",
-            "page_status": 200,
-            "page_title": "FawaNews - China vs Palestine - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.50/hls/URRRAAA.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.50/hls/URRRAAA.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.50/hls/URRRAAA.m3u8"
-            ]
-        },
-        {
-            "name": "China vs Palestine --- CH 2",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "12:35",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/China vs Palestine --- CH 2.html",
-            "home_team": "China",
-            "away_team": "Palestine --- CH 2",
-            "page_status": 200,
-            "page_title": "FawaNews - China vs Palestine - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "https://www.rtmpcdn.com/live/af34076c-b6f6-48a3-9d1a-8472dfe779b3.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://www.rtmpcdn.com/live/af34076c-b6f6-48a3-9d1a-8472dfe779b3.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://www.rtmpcdn.com/live/af34076c-b6f6-48a3-9d1a-8472dfe779b3.m3u8",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "https://www.rtmpcdn.com/live/af34076c-b6f6-48a3-9d1a-8472dfe779b3.m3u8",
-                "http://www.rtmpcdn.com/live/af34076c-b6f6-48a3-9d1a-8472dfe779b3.m3u8"
-            ]
-        },
-        {
-            "name": "Perth vs South East Melbourne",
-            "type": "live_event",
-            "league": "Basketball NBL",
-            "time": "12:30",
-            "image_url": "https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Perth vs South East Melbourne.html",
-            "home_team": "Perth",
-            "away_team": "South East Melbourne",
-            "page_status": 200,
-            "page_title": "FawaNews - Perth vs South East Melbourne - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.50/hls/URRRAAAa.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.50/hls/URRRAAAa.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.50/hls/URRRAAAa.m3u8"
-            ]
-        },
-        {
             "name": "Snooker Shenzhen Open --- Table 1",
             "type": "live_event",
             "league": "Snooker",
@@ -615,161 +560,6 @@
             ]
         },
         {
-            "name": "South Korea vs Venezuela --- CH 1",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "12:00",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/South Korea vs Venezuela.html",
-            "home_team": "South Korea",
-            "away_team": "Venezuela --- CH 1",
-            "page_status": 200,
-            "page_title": "FawaNews - South Korea vs Venezuela - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.50/hls/URRRAA.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.50/hls/URRRAA.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.50/hls/URRRAA.m3u8"
-            ]
-        },
-        {
-            "name": "South Korea vs Venezuela --- CH 2",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "12:00",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/South Korea vs Venezuela --- CH 2.html",
-            "home_team": "South Korea",
-            "away_team": "Venezuela --- CH 2",
-            "page_status": 200,
-            "page_title": "FawaNews - South Korea vs Venezuela - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "https://www.rtmpcdn.com/live/b903c093-a6a8-4834-9f15-c2076cfc012e.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://www.rtmpcdn.com/live/b903c093-a6a8-4834-9f15-c2076cfc012e.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://www.rtmpcdn.com/live/b903c093-a6a8-4834-9f15-c2076cfc012e.m3u8",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "https://www.rtmpcdn.com/live/b903c093-a6a8-4834-9f15-c2076cfc012e.m3u8",
-                "http://www.rtmpcdn.com/live/b903c093-a6a8-4834-9f15-c2076cfc012e.m3u8"
-            ]
-        },
-        {
-            "name": "Kolding vs Odense",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "12:00",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Kolding vs Odense.html",
-            "home_team": "Kolding",
-            "away_team": "Odense",
-            "page_status": 200,
-            "page_title": "FawaNews - Kolding vs Odense - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.50/hls/HOOO.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.50/hls/HOOO.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.50/hls/HOOO.m3u8"
-            ]
-        },
-        {
             "name": "Golf Alfred Dunhill Links Championship",
             "type": "live_event",
             "league": "Golf",
@@ -816,261 +606,6 @@
             },
             "best_stream_urls": [
                 "http://193.47.62.44/hls/iiiiaA.m3u8"
-            ]
-        },
-        {
-            "name": "North Korea W vs Japan W",
-            "type": "live_event",
-            "league": "Football Asian Games",
-            "time": "11:30",
-            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-            "page_link": "http://www.fawanews.sc/North Korea W vs Japan W.html",
-            "home_team": "North Korea W",
-            "away_team": "Japan W",
-            "page_status": 200,
-            "page_title": "FawaNews - North Korea W vs Japan W - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.55/hls/TATATA.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.55/hls/TATATA.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.55/hls/TATATA.m3u8"
-            ]
-        },
-        {
-            "name": "Japan vs China",
-            "type": "live_event",
-            "league": "Volleyabll Asian Games",
-            "time": "11:00",
-            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-            "page_link": "http://www.fawanews.sc/Japan vs China.html",
-            "home_team": "Japan",
-            "away_team": "China",
-            "page_status": 200,
-            "page_title": "FawaNews - Japan vs China - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.50/hls/URRRA.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.50/hls/URRRA.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.50/hls/URRRA.m3u8"
-            ]
-        },
-        {
-            "name": "Nurnberg vs Ingolstadt",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "11:00",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Nurnberg vs Ingolstadt.html",
-            "home_team": "Nurnberg",
-            "away_team": "Ingolstadt",
-            "page_status": 200,
-            "page_title": "FawaNews - Nurnberg vs Ingolstadt - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.55/hls/TATATAa.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.55/hls/TATATAa.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.55/hls/TATATAa.m3u8"
-            ]
-        },
-        {
-            "name": "Hacken vs Elfsborg",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "11:00",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Hacken vs Elfsborg.html",
-            "home_team": "Hacken",
-            "away_team": "Elfsborg",
-            "page_status": 200,
-            "page_title": "FawaNews - Hacken vs Elfsborg - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.55/hls/hyhyhya.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.55/hls/hyhyhya.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.55/hls/hyhyhya.m3u8"
-            ]
-        },
-        {
-            "name": "Lugano vs Hellas Verona",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "10:30",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Lugano vs Hellas Verona.html",
-            "home_team": "Lugano",
-            "away_team": "Hellas Verona",
-            "page_status": 200,
-            "page_title": "FawaNews - Lugano vs Hellas Verona - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.55/hls/hyhyhy.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.55/hls/hyhyhy.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.55/hls/hyhyhy.m3u8"
             ]
         },
         {
@@ -1746,13 +1281,13 @@
                 "js_links": [
                     "http://www.fawanews.sc/assets/img/logo.png",
                     "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/2058439058347483136/mh5ykHWu_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1389069591008010243/bk6gZtog_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2102312615414304768/XJZf8j_A_400x400.jpg",
-                    "https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
                     "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
@@ -1783,13 +1318,13 @@
                     "https://www.google.com/",
                     "http://www.fawanews.sc/",
                     "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/2058439058347483136/mh5ykHWu_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1389069591008010243/bk6gZtog_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2102312615414304768/XJZf8j_A_400x400.jpg",
-                    "https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
                     "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
@@ -1814,13 +1349,13 @@
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
                     "http://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/2058439058347483136/mh5ykHWu_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1389069591008010243/bk6gZtog_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2102312615414304768/XJZf8j_A_400x400.jpg",
-                    "http://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
                     "http://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
@@ -1909,13 +1444,13 @@
                 "js_links": [
                     "http://www.fawanews.sc/assets/img/logo.png",
                     "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/2058439058347483136/mh5ykHWu_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1389069591008010243/bk6gZtog_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2102312615414304768/XJZf8j_A_400x400.jpg",
-                    "https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
                     "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
@@ -1946,13 +1481,13 @@
                     "https://www.google.com/",
                     "http://www.fawanews.sc/",
                     "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/2058439058347483136/mh5ykHWu_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1389069591008010243/bk6gZtog_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2102312615414304768/XJZf8j_A_400x400.jpg",
-                    "https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
                     "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
@@ -1977,13 +1512,13 @@
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
                     "http://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/2058439058347483136/mh5ykHWu_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1389069591008010243/bk6gZtog_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2102312615414304768/XJZf8j_A_400x400.jpg",
-                    "http://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
                     "http://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
@@ -2071,13 +1606,13 @@
                 "js_links": [
                     "http://www.fawanews.sc/assets/img/logo.png",
                     "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/2058439058347483136/mh5ykHWu_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1389069591008010243/bk6gZtog_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2102312615414304768/XJZf8j_A_400x400.jpg",
-                    "https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
                     "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
@@ -2108,13 +1643,13 @@
                     "https://www.google.com/",
                     "http://www.fawanews.sc/",
                     "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/2058439058347483136/mh5ykHWu_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1389069591008010243/bk6gZtog_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2102312615414304768/XJZf8j_A_400x400.jpg",
-                    "https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
                     "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
@@ -2139,13 +1674,13 @@
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
                     "http://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/2058439058347483136/mh5ykHWu_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1389069591008010243/bk6gZtog_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2102312615414304768/XJZf8j_A_400x400.jpg",
-                    "http://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
                     "http://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
@@ -2241,13 +1776,13 @@
                 "js_links": [
                     "http://www.fawanews.sc/assets/img/logo.png",
                     "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/2058439058347483136/mh5ykHWu_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1389069591008010243/bk6gZtog_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2102312615414304768/XJZf8j_A_400x400.jpg",
-                    "https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
                     "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
@@ -2278,13 +1813,13 @@
                     "https://www.google.com/",
                     "http://www.fawanews.sc/",
                     "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/2058439058347483136/mh5ykHWu_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1389069591008010243/bk6gZtog_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2102312615414304768/XJZf8j_A_400x400.jpg",
-                    "https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
                     "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
@@ -2309,13 +1844,13 @@
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
                     "http://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/2058439058347483136/mh5ykHWu_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1389069591008010243/bk6gZtog_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2102312615414304768/XJZf8j_A_400x400.jpg",
-                    "http://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
                     "http://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
@@ -2403,13 +1938,13 @@
                 "js_links": [
                     "http://www.fawanews.sc/assets/img/logo.png",
                     "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/2058439058347483136/mh5ykHWu_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1389069591008010243/bk6gZtog_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2102312615414304768/XJZf8j_A_400x400.jpg",
-                    "https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
                     "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
@@ -2440,13 +1975,13 @@
                     "https://www.google.com/",
                     "http://www.fawanews.sc/",
                     "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/2058439058347483136/mh5ykHWu_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1389069591008010243/bk6gZtog_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-                    "https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2102312615414304768/XJZf8j_A_400x400.jpg",
-                    "https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
                     "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
@@ -2471,13 +2006,13 @@
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
                     "http://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/2058439058347483136/mh5ykHWu_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1389069591008010243/bk6gZtog_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-                    "http://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2102312615414304768/XJZf8j_A_400x400.jpg",
-                    "http://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
                     "http://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",

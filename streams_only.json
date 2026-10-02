@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-10-02T14:17:27.063672",
-    "total_with_streams": 25,
+    "fetched_at": "2026-10-02T14:48:21.111452",
+    "total_with_streams": 16,
     "events_with_streams": [
         {
             "name": "Kazakhstan vs Moldova --- CH 1",
@@ -26,12 +26,40 @@
             "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "https://www.rtmpcdn.com/live/7e9c8498-4662-42f4-8066-18f85202d772.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/7e9c8498-4662-42f4-8066-18f85202d772.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "https://live.dyrur1.com/live/68932364_8de7a9070a0d8b1b70435e146ddc34eb_540p.m3u8?auth_key=1790965816-0-0-286644ceb9bc4e174f5c0c622ff54660",
+                    "m3u_url": "https://live.dyrur1.com/live/68932364_8de7a9070a0d8b1b70435e146ddc34eb_540p.m3u8?auth_key=1790965816-0-0-286644ceb9bc4e174f5c0c622ff54660|Referer=http://www.fawanews.sc/"
                 },
                 {
-                    "original_url": "http://www.rtmpcdn.com/live/7e9c8498-4662-42f4-8066-18f85202d772.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/7e9c8498-4662-42f4-8066-18f85202d772.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://live.dyrur1.com/live/68932364_8de7a9070a0d8b1b70435e146ddc34eb_540p.m3u8?auth_key=1790965816-0-0-286644ceb9bc4e174f5c0c622ff54660",
+                    "m3u_url": "http://live.dyrur1.com/live/68932364_8de7a9070a0d8b1b70435e146ddc34eb_540p.m3u8?auth_key=1790965816-0-0-286644ceb9bc4e174f5c0c622ff54660|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "MMA PFL : Neda vs Saidy",
+            "type": "live_event",
+            "league": "MMA PFL",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/MMA PFL_Neda vs Saidy.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2058439058347483136/mh5ykHWu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/oooo.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/oooo.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "MMA One Championship",
+            "type": "live_event",
+            "league": "MMA Fighting",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/MMA One Championship.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1389069591008010243/bk6gZtog_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/ooooa.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/ooooa.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -106,52 +134,6 @@
             ]
         },
         {
-            "name": "China vs Palestine --- CH 1",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "12:35",
-            "page_link": "http://www.fawanews.sc/China vs Palestine.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/URRRAAA.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/URRRAAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "China vs Palestine --- CH 2",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "12:35",
-            "page_link": "http://www.fawanews.sc/China vs Palestine --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://www.rtmpcdn.com/live/af34076c-b6f6-48a3-9d1a-8472dfe779b3.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/af34076c-b6f6-48a3-9d1a-8472dfe779b3.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://www.rtmpcdn.com/live/af34076c-b6f6-48a3-9d1a-8472dfe779b3.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/af34076c-b6f6-48a3-9d1a-8472dfe779b3.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Perth vs South East Melbourne",
-            "type": "live_event",
-            "league": "Basketball NBL",
-            "time": "12:30",
-            "page_link": "http://www.fawanews.sc/Perth vs South East Melbourne.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/URRRAAAa.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/URRRAAAa.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
             "name": "Snooker Shenzhen Open --- Table 1",
             "type": "live_event",
             "league": "Snooker",
@@ -180,52 +162,6 @@
             ]
         },
         {
-            "name": "South Korea vs Venezuela --- CH 1",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "12:00",
-            "page_link": "http://www.fawanews.sc/South Korea vs Venezuela.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/URRRAA.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/URRRAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "South Korea vs Venezuela --- CH 2",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "12:00",
-            "page_link": "http://www.fawanews.sc/South Korea vs Venezuela --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://www.rtmpcdn.com/live/b903c093-a6a8-4834-9f15-c2076cfc012e.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/b903c093-a6a8-4834-9f15-c2076cfc012e.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://www.rtmpcdn.com/live/b903c093-a6a8-4834-9f15-c2076cfc012e.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/b903c093-a6a8-4834-9f15-c2076cfc012e.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Kolding vs Odense",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "12:00",
-            "page_link": "http://www.fawanews.sc/Kolding vs Odense.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/HOOO.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/HOOO.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
             "name": "Golf Alfred Dunhill Links Championship",
             "type": "live_event",
             "league": "Golf",
@@ -236,76 +172,6 @@
                 {
                     "original_url": "http://193.47.62.44/hls/iiiiaA.m3u8",
                     "m3u_url": "http://193.47.62.44/hls/iiiiaA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "North Korea W vs Japan W",
-            "type": "live_event",
-            "league": "Football Asian Games",
-            "time": "11:30",
-            "page_link": "http://www.fawanews.sc/North Korea W vs Japan W.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/TATATA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/TATATA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Japan vs China",
-            "type": "live_event",
-            "league": "Volleyabll Asian Games",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Japan vs China.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.50/hls/URRRA.m3u8",
-                    "m3u_url": "http://193.47.62.50/hls/URRRA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Nurnberg vs Ingolstadt",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Nurnberg vs Ingolstadt.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/TATATAa.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/TATATAa.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Hacken vs Elfsborg",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "11:00",
-            "page_link": "http://www.fawanews.sc/Hacken vs Elfsborg.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/hyhyhya.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/hyhyhya.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Lugano vs Hellas Verona",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "10:30",
-            "page_link": "http://www.fawanews.sc/Lugano vs Hellas Verona.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/hyhyhy.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/hyhyhy.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
