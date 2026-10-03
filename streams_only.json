@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-10-03T00:21:11.590614",
-    "total_with_streams": 37,
+    "fetched_at": "2026-10-03T00:50:09.186921",
+    "total_with_streams": 41,
     "events_with_streams": [
         {
             "name": "Boxing : Omari Jones vs Alan Sanchez",
@@ -134,6 +134,24 @@
             ]
         },
         {
+            "name": "Vegas Golden Knights vs Anaheim Ducks",
+            "type": "live_event",
+            "league": "NHL Hockey",
+            "time": "03:00",
+            "page_link": "http://www.fawanews.sc/Vegas Golden Knights vs Anaheim Ducks.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3e82418e-6528-46e7-bc54-9b2a71ac1611/master.m3u8",
+                    "m3u_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3e82418e-6528-46e7-bc54-9b2a71ac1611/master.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3e82418e-6528-46e7-bc54-9b2a71ac1611/master.m3u8",
+                    "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3e82418e-6528-46e7-bc54-9b2a71ac1611/master.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
             "name": "El Salvador vs Jamaica",
             "type": "live_event",
             "league": "CONCACAF Nations League",
@@ -176,7 +194,7 @@
             ]
         },
         {
-            "name": "Golden State Valkyries W vs Dallas Wings W",
+            "name": "Golden State Valkyries W vs Dallas Wings W --- CH 1",
             "type": "live_event",
             "league": "WNBA Basketball",
             "time": "02:00",
@@ -186,6 +204,38 @@
                 {
                     "original_url": "http://193.47.62.50/hls/RARARA.m3u8",
                     "m3u_url": "http://193.47.62.50/hls/RARARA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Golden State Valkyries W vs Dallas Wings W --- CH 2",
+            "type": "live_event",
+            "league": "WNBA Basketball",
+            "time": "02:00",
+            "page_link": "http://www.fawanews.sc/Golden State Valkyries W vs Dallas Wings W --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://www.rtmpcdn.com/live/4fd96865-7fb4-47d1-979f-da978fbcd190.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/4fd96865-7fb4-47d1-979f-da978fbcd190.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://www.rtmpcdn.com/live/4fd96865-7fb4-47d1-979f-da978fbcd190.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/4fd96865-7fb4-47d1-979f-da978fbcd190.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Manawatu vs Canterbury",
+            "type": "live_event",
+            "league": "Rugby NZ NPC",
+            "time": "02:00",
+            "page_link": "http://www.fawanews.sc/Manawatu vs Canterbury.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/AAAAqqq.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/AAAAqqq.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -256,6 +306,20 @@
                 {
                     "original_url": "http://193.47.62.44/hls/cacacaAAAAAAA.m3u8",
                     "m3u_url": "http://193.47.62.44/hls/cacacaAAAAAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Bangladesh vs Sri Lanka",
+            "type": "live_event",
+            "league": "Cricket Asian Cup",
+            "time": "13:00",
+            "page_link": "http://www.fawanews.sc/Bangladesh vs Sri Lanka.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/AAAA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/AAAA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
