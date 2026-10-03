@@ -5,6 +5,10 @@ http://193.47.62.41/hls/FEEE.m3u8|Referer=http://www.fawanews.sc/
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e77cab6d-7a9e-4baa-abab-2c70e51149dd/master.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Formula 1 GP Bahrain --- CH 2 [2]" tvg-logo="https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg" group-title="Formula 1 GP",Formula 1 GP Bahrain --- CH 2 [2] - --:--
 http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e77cab6d-7a9e-4baa-abab-2c70e51149dd/master.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="MMA BKFC : Hepi vs Shewmaker" tvg-logo="https://pbs.twimg.com/profile_images/1933644695852216320/wQhK_eGO_400x400.jpg" group-title="MMA Fighting",MMA BKFC : Hepi vs Shewmaker - 09:30
+http://193.47.62.50/hls/TTTTQ.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="India vs West Indies" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket",India vs West Indies - 09:30
+http://193.47.62.50/hls/TTTT.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Tochigi City vs Imabari" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Tochigi City vs Imabari - 09:00
 http://193.47.62.44/hls/QAQAQAQQ.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Oita Trinita vs Montedio Yamagata" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg" group-title="Japan J League",Oita Trinita vs Montedio Yamagata - 09:00
@@ -23,8 +27,6 @@ http://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b8
 http://193.47.62.55/hls/AAAAqqq.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Snooker Shenzhen Open" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Snooker",Snooker Shenzhen Open - --:--
 http://193.47.62.44/hls/grrrAAA.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Pakistan vs India" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="Cricket Asian Cup",Pakistan vs India - 05:30
-http://193.47.62.55/hls/AAAA.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Counties Manukau vs Hawkes Bay" tvg-logo="https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg" group-title="Rugby NZ NPC",Counties Manukau vs Hawkes Bay - 05:05
 http://193.47.62.55/hls/AAAAqqq.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Monterrey W vs Club America W" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="Mexico Liga MX",Monterrey W vs Club America W - 04:10
