@@ -1,8 +1,92 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-10-03T09:44:55.297053",
-    "total_with_streams": 22,
+    "fetched_at": "2026-10-03T10:14:40.365025",
+    "total_with_streams": 28,
     "events_with_streams": [
+        {
+            "name": "Kashiwa Reysol vs Gamba Osaka",
+            "type": "live_event",
+            "league": "Japan J League Cup",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Kashiwa Reysol vs Gamba Osaka.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/HOOOQQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/HOOOQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Hong Kong vs Cambodia",
+            "type": "live_event",
+            "league": "ASEAN Championship",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Hong Kong vs Cambodia.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/HOOOQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/HOOOQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Veres-Rivne vs Kudrivka",
+            "type": "live_event",
+            "league": "Ukraine Premier League",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Veres-Rivne vs Kudrivka.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2510182485/zmi86gctecx242v92tii_400x400.jpeg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/HOOOQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/HOOOQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Sevilla FC W vs Badalona W",
+            "type": "live_event",
+            "league": "Spanish Liga F Women",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Sevilla FC W vs Badalona W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2034221282649116672/9gcwTqQp_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/HOOOQQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/HOOOQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Espanyol W vs Alaves W",
+            "type": "live_event",
+            "league": "Spanish Liga F Women",
+            "time": "11:00",
+            "page_link": "http://www.fawanews.sc/Espanyol W vs Alaves W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2034221282649116672/9gcwTqQp_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/HOOOQ.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/HOOOQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Melbourne United vs Cairns Taipans",
+            "type": "live_event",
+            "league": "Basketball NBL",
+            "time": "10:30",
+            "page_link": "http://www.fawanews.sc/Melbourne United vs Cairns Taipans.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/HOOO.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/HOOO.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
         {
             "name": "Formula 1 GP Bahrain --- CH 1",
             "type": "live_event",
