@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-10-03T07:46:22.769839",
-    "total_with_streams": 18,
+    "fetched_at": "2026-10-03T08:16:04.169047",
+    "total_with_streams": 21,
     "events_with_streams": [
         {
             "name": "Formula 1 GP Bahrain --- CH 1",
@@ -32,6 +32,76 @@
                 {
                     "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e77cab6d-7a9e-4baa-abab-2c70e51149dd/master.m3u8",
                     "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e77cab6d-7a9e-4baa-abab-2c70e51149dd/master.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Tochigi City vs Imabari",
+            "type": "live_event",
+            "league": "Japan J League",
+            "time": "09:00",
+            "page_link": "http://www.fawanews.sc/Tochigi City vs Imabari.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/QAQAQAQQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/QAQAQAQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Oita Trinita vs Montedio Yamagata",
+            "type": "live_event",
+            "league": "Japan J League",
+            "time": "09:00",
+            "page_link": "http://www.fawanews.sc/Oita Trinita vs Montedio Yamagata.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/QAQAQAQ.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/QAQAQAQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Brisbane Bullets vs Tasmania JackJumpers",
+            "type": "live_event",
+            "league": "Basketball NBL",
+            "time": "08:30",
+            "page_link": "http://www.fawanews.sc/Brisbane Bullets vs Tasmania JackJumpers.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/QAQAQAQQq.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/QAQAQAQQq.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Brisbane Lions W vs Gold Coast Suns W",
+            "type": "live_event",
+            "league": "AFL Aussie Rules",
+            "time": "08:30",
+            "page_link": "http://www.fawanews.sc/Brisbane Lions W vs Gold Coast Suns W.html",
+            "image_url": "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/QAQAQAQQqq.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/QAQAQAQQqq.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Kofu vs Toyama",
+            "type": "live_event",
+            "league": "Japan J League",
+            "time": "08:00",
+            "page_link": "http://www.fawanews.sc/Kofu vs Toyama.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/QAQAQA.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/QAQAQA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -68,44 +138,16 @@
             ]
         },
         {
-            "name": "China U23 vs Uzbekistan U23",
+            "name": "Snooker Shenzhen Open",
             "type": "live_event",
-            "league": "Asian Games",
-            "time": "07:00",
-            "page_link": "http://www.fawanews.sc/China U23 vs Uzbekistan U23.html",
-            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+            "league": "Snooker",
+            "time": "--:--",
+            "page_link": "http://www.fawanews.sc/Snooker Shenzhen Open --- Table 1.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.44/hls/WAWAWAAA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/WAWAWAAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Fujieda MYFC vs Shonan Bellmare",
-            "type": "live_event",
-            "league": "Japan J League",
-            "time": "06:00",
-            "page_link": "http://www.fawanews.sc/Fujieda MYFC vs Shonan Bellmare.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/WAWAWAA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/WAWAWAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Albirex Niigata vs Tokushima",
-            "type": "live_event",
-            "league": "Japan J League",
-            "time": "06:00",
-            "page_link": "http://www.fawanews.sc/Albirex Niigata vs Tokushima.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.44/hls/WAWAWA.m3u8",
-                    "m3u_url": "http://193.47.62.44/hls/WAWAWA.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.44/hls/grrrAAA.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/grrrAAA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
