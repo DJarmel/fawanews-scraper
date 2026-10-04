@@ -2,8 +2,8 @@
     "source": "fawanews.sc",
     "source_url": "http://www.fawanews.sc/",
     "referer": "http://www.fawanews.sc/",
-    "fetched_at": "2026-10-04T21:11:17.379685",
-    "total_live_events": 38,
+    "fetched_at": "2026-10-04T21:49:56.693833",
+    "total_live_events": 40,
     "total_news_articles": 19,
     "live_events": [
         {
@@ -1050,6 +1050,106 @@
             "best_stream_urls": [
                 "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9930149f-b8b9-4c4c-87d1-4911d88fd996/master.m3u8",
                 "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9930149f-b8b9-4c4c-87d1-4911d88fd996/master.m3u8"
+            ]
+        },
+        {
+            "name": "Nascar Cup Series South Point 400",
+            "type": "live_event",
+            "league": "Nascar",
+            "time": "22:30",
+            "image_url": "https://pbs.twimg.com/profile_images/2104353051163209728/YVfUId4D_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Nascar Cup Series South Point 400.html",
+            "page_status": 200,
+            "page_title": "FawaNews - Nascar Cup Series: South Point 400 - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.41/hls/QQQQ.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.41/hls/QQQQ.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.41/hls/QQQQ.m3u8"
+            ]
+        },
+        {
+            "name": "Nascar Cup Series South Point 400 --- HD",
+            "type": "live_event",
+            "league": "Nascar",
+            "time": "22:30",
+            "image_url": "https://pbs.twimg.com/profile_images/2104353051163209728/YVfUId4D_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Nascar Cup Series South Point 400 --- HD.html",
+            "page_status": 200,
+            "page_title": "FawaNews - Nascar Cup Series: South Point 400 - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "https://admin2.formaturamaxi.com.br/nas.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://admin2.formaturamaxi.com.br/nas.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://admin2.formaturamaxi.com.br/nas.m3u8",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "https://admin2.formaturamaxi.com.br/nas.m3u8",
+                "http://admin2.formaturamaxi.com.br/nas.m3u8"
             ]
         },
         {
@@ -2452,6 +2552,7 @@
                     "https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/2104353051163209728/YVfUId4D_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2104980612574560256/PJtHNMvO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
@@ -2494,6 +2595,7 @@
                     "https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/2104353051163209728/YVfUId4D_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2104980612574560256/PJtHNMvO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
@@ -2530,6 +2632,7 @@
                     "http://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/2104353051163209728/YVfUId4D_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2104980612574560256/PJtHNMvO_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
@@ -2630,6 +2733,7 @@
                     "https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/2104353051163209728/YVfUId4D_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2104980612574560256/PJtHNMvO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
@@ -2672,6 +2776,7 @@
                     "https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/2104353051163209728/YVfUId4D_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2104980612574560256/PJtHNMvO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
@@ -2708,6 +2813,7 @@
                     "http://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/2104353051163209728/YVfUId4D_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2104980612574560256/PJtHNMvO_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
@@ -2807,6 +2913,7 @@
                     "https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/2104353051163209728/YVfUId4D_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2104980612574560256/PJtHNMvO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
@@ -2849,6 +2956,7 @@
                     "https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/2104353051163209728/YVfUId4D_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2104980612574560256/PJtHNMvO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
@@ -2885,6 +2993,7 @@
                     "http://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/2104353051163209728/YVfUId4D_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2104980612574560256/PJtHNMvO_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
@@ -2992,6 +3101,7 @@
                     "https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/2104353051163209728/YVfUId4D_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2104980612574560256/PJtHNMvO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
@@ -3034,6 +3144,7 @@
                     "https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/2104353051163209728/YVfUId4D_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2104980612574560256/PJtHNMvO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
@@ -3070,6 +3181,7 @@
                     "http://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/2104353051163209728/YVfUId4D_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2104980612574560256/PJtHNMvO_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
@@ -3169,6 +3281,7 @@
                     "https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/2104353051163209728/YVfUId4D_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2104980612574560256/PJtHNMvO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
@@ -3211,6 +3324,7 @@
                     "https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/2104353051163209728/YVfUId4D_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2104980612574560256/PJtHNMvO_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
@@ -3247,6 +3361,7 @@
                     "http://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/2104353051163209728/YVfUId4D_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2104980612574560256/PJtHNMvO_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",
