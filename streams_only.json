@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-10-04T23:14:08.063226",
-    "total_with_streams": 42,
+    "fetched_at": "2026-10-04T23:44:26.506176",
+    "total_with_streams": 40,
     "events_with_streams": [
         {
             "name": "NFL Red Zone",
@@ -166,56 +166,6 @@
             ]
         },
         {
-            "name": "Minnesota Vikings vs Miami Dolphins --- HD",
-            "type": "live_event",
-            "league": "NFL American Football",
-            "time": "21:05",
-            "page_link": "http://www.fawanews.sc/NFL_Minnesota Vikings vs Miami Dolphins --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://temp.formaturamaxi.com.br/nfl10.m3u8",
-                    "m3u_url": "https://temp.formaturamaxi.com.br/nfl10.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://temp.formaturamaxi.com.br/nfl10.m3u8",
-                    "m3u_url": "http://temp.formaturamaxi.com.br/nfl10.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Milwaukee Brewers vs San Diego Padres",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "21:00",
-            "page_link": "http://www.fawanews.sc/Milwaukee Brewers vs San Diego Padres.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/VAVAVAAAAQq.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/VAVAVAAAAQq.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Milwaukee Brewers vs San Diego Padres --- HD",
-            "type": "live_event",
-            "league": "MLB Baseball",
-            "time": "21:00",
-            "page_link": "http://www.fawanews.sc/Milwaukee Brewers vs San Diego Padres --- HD.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://tedesco.formaturamaxi.com.br/mlb.m3u8",
-                    "m3u_url": "https://tedesco.formaturamaxi.com.br/mlb.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://tedesco.formaturamaxi.com.br/mlb.m3u8",
-                    "m3u_url": "http://tedesco.formaturamaxi.com.br/mlb.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
             "name": "Nicaragua vs Dominican Republic",
             "type": "live_event",
             "league": "CONCACAF Nations League",
@@ -258,6 +208,24 @@
             ]
         },
         {
+            "name": "Vancouver Canucks vs Vegas Golden Knights",
+            "type": "live_event",
+            "league": "NHL Hockey",
+            "time": "02:00",
+            "page_link": "http://www.fawanews.sc/Vancouver Canucks vs Vegas Golden Knights.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/600c3836-1e20-4ead-92cc-c2b48dd1ee4b/master.m3u8",
+                    "m3u_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/600c3836-1e20-4ead-92cc-c2b48dd1ee4b/master.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/600c3836-1e20-4ead-92cc-c2b48dd1ee4b/master.m3u8",
+                    "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/600c3836-1e20-4ead-92cc-c2b48dd1ee4b/master.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
             "name": "Estudiantes Rio Cuarto vs Racing Club",
             "type": "live_event",
             "league": "Argentina Liga Profesional",
@@ -272,7 +240,7 @@
             ]
         },
         {
-            "name": "Carolina Panthers vs Detroit Lions",
+            "name": "Carolina Panthers vs Detroit Lions --- CH 1",
             "type": "live_event",
             "league": "NFL American Football",
             "time": "01:20",
@@ -286,6 +254,42 @@
                 {
                     "original_url": "http://193.47.62.55/hls/LOLOLO.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/LOLOLO.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Carolina Panthers vs Detroit Lions --- CH 2",
+            "type": "live_event",
+            "league": "NFL American Football",
+            "time": "01:20",
+            "page_link": "http://www.fawanews.sc/NFL_Carolina Panthers vs Detroit Lions_2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/LOLOLOA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/LOLOLOA.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://193.47.62.55/hls/LOLOLOA.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/LOLOLOA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Carolina Panthers vs Detroit Lions --- HD",
+            "type": "live_event",
+            "league": "NFL American Football",
+            "time": "01:20",
+            "page_link": "http://www.fawanews.sc/NFL_Carolina Panthers vs Detroit Lions_hd.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://admin2.formaturamaxi.com.br/nfl14.m3u8",
+                    "m3u_url": "https://admin2.formaturamaxi.com.br/nfl14.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://admin2.formaturamaxi.com.br/nfl14.m3u8",
+                    "m3u_url": "http://admin2.formaturamaxi.com.br/nfl14.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -314,6 +318,42 @@
                 {
                     "original_url": "http://193.47.62.41/hls/IRRR.m3u8",
                     "m3u_url": "http://193.47.62.41/hls/IRRR.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Seattle Kraken vs Calgary Flames",
+            "type": "live_event",
+            "league": "NHL Hockey",
+            "time": "01:00",
+            "page_link": "http://www.fawanews.sc/Seattle Kraken vs Calgary Flames.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ac2bd141-16a1-4d41-94cc-7a298eaf814c/master.m3u8",
+                    "m3u_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ac2bd141-16a1-4d41-94cc-7a298eaf814c/master.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ac2bd141-16a1-4d41-94cc-7a298eaf814c/master.m3u8",
+                    "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ac2bd141-16a1-4d41-94cc-7a298eaf814c/master.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Anaheim Ducks vs Florida Panthers",
+            "type": "live_event",
+            "league": "NHL Hockey",
+            "time": "01:00",
+            "page_link": "http://www.fawanews.sc/Anaheim Ducks vs Florida Panthers.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/eb0fa9fe-190b-42af-ba61-08b444ea0261/master.m3u8",
+                    "m3u_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/eb0fa9fe-190b-42af-ba61-08b444ea0261/master.m3u8|Referer=http://www.fawanews.sc/"
+                },
+                {
+                    "original_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/eb0fa9fe-190b-42af-ba61-08b444ea0261/master.m3u8",
+                    "m3u_url": "http://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/eb0fa9fe-190b-42af-ba61-08b444ea0261/master.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -586,62 +626,6 @@
                 {
                     "original_url": "http://admin2.formaturamaxi.com.br/nas.m3u8",
                     "m3u_url": "http://admin2.formaturamaxi.com.br/nas.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Guabira vs Oriente Petrolero",
-            "type": "live_event",
-            "league": "Bolivia Copa",
-            "time": "22:15",
-            "page_link": "http://www.fawanews.sc/Guabira vs Oriente Petrolero.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/oddddQQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/oddddQQQQ.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Inter Bogota vs Once Caldas",
-            "type": "live_event",
-            "league": "Colombia Primera A",
-            "time": "22:05",
-            "page_link": "http://www.fawanews.sc/Inter Bogota vs Once Caldas.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2104980612574560256/PJtHNMvO_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/oddddQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/oddddQQ.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Cucuta vs Pereira",
-            "type": "live_event",
-            "league": "Colombia Primera A",
-            "time": "22:05",
-            "page_link": "http://www.fawanews.sc/Cucuta vs Pereira.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2104980612574560256/PJtHNMvO_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/oddddQQQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/oddddQQQ.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Tigres vs Inter Palmira",
-            "type": "live_event",
-            "league": "Colombia Primera B",
-            "time": "22:00",
-            "page_link": "http://www.fawanews.sc/Tigres vs Inter Palmira.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2104980612574560256/PJtHNMvO_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.41/hls/oddddQ.m3u8",
-                    "m3u_url": "http://193.47.62.41/hls/oddddQ.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
