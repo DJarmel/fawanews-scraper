@@ -1,18 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Indonesia vs Thailand" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="ASEAN Championship",Indonesia vs Thailand - 14:00
-http://193.47.62.55/hls/ekkkkAA.m3u8|Referer=http://www.fawanews.sc/
+http://193.47.62.55/hls/ekkkkAAX.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="DR Congo vs Uganda" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",DR Congo vs Uganda - 14:00
+http://193.47.62.55/hls/vvvv.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Horse Racing --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing --- CH 1 - 13:00
 http://193.47.62.194/hls/vavavava.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Horse Racing --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Horse Racing",Horse Racing --- CH 2 - 13:00
 http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Japan vs New Zealand --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Japan vs New Zealand --- CH 1 - 11:30
-http://193.47.62.55/hls/ekkkkAAA.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Japan vs New Zealand --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Japan vs New Zealand --- CH 2 [1] - 11:30
-https://www.rtmpcdn.com/live/1f373dee-b835-4fe5-88c2-f6fcdb8a3894.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Japan vs New Zealand --- CH 2 [2]" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Japan vs New Zealand --- CH 2 [2] - 11:30
-http://www.rtmpcdn.com/live/1f373dee-b835-4fe5-88c2-f6fcdb8a3894.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Malaysia vs Vietnam" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="ASEAN Championship",Malaysia vs Vietnam - 10:00
-http://193.47.62.55/hls/ekkkkA.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Tennis ATP Beijing" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis ATP Beijing - 10:15
 http://193.47.62.55/hls/NUUUQ.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Tennis ATP Tokyo" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis ATP Tokyo - 08:00

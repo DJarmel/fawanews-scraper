@@ -1,19 +1,33 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-10-05T13:21:14.118863",
-    "total_with_streams": 9,
+    "fetched_at": "2026-10-05T13:49:24.750723",
+    "total_with_streams": 7,
     "events_with_streams": [
         {
             "name": "Indonesia vs Thailand",
             "type": "live_event",
             "league": "ASEAN Championship",
             "time": "14:00",
-            "page_link": "http://www.fawanews.sc/Indonesia vs Thailand.html",
+            "page_link": "http://www.fawanews.sc/Indonesia vs Thailand1.html",
             "image_url": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "http://193.47.62.55/hls/ekkkkAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/ekkkkAA.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://193.47.62.55/hls/ekkkkAAX.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/ekkkkAAX.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "DR Congo vs Uganda",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/DR Congo vs Uganda.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/vvvv.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/vvvv.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -42,52 +56,6 @@
                 {
                     "original_url": "http://193.47.62.194/hls/vavavavaq.m3u8",
                     "m3u_url": "http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Japan vs New Zealand --- CH 1",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "11:30",
-            "page_link": "http://www.fawanews.sc/Japan vs New Zealand.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/ekkkkAAA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/ekkkkAAA.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Japan vs New Zealand --- CH 2",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "11:30",
-            "page_link": "http://www.fawanews.sc/Japan vs New Zealand --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "https://www.rtmpcdn.com/live/1f373dee-b835-4fe5-88c2-f6fcdb8a3894.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/1f373dee-b835-4fe5-88c2-f6fcdb8a3894.m3u8|Referer=http://www.fawanews.sc/"
-                },
-                {
-                    "original_url": "http://www.rtmpcdn.com/live/1f373dee-b835-4fe5-88c2-f6fcdb8a3894.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/1f373dee-b835-4fe5-88c2-f6fcdb8a3894.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Malaysia vs Vietnam",
-            "type": "live_event",
-            "league": "ASEAN Championship",
-            "time": "10:00",
-            "page_link": "http://www.fawanews.sc/Malaysia vs Vietnam.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/ekkkkA.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/ekkkkA.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
