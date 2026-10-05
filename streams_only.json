@@ -1,8 +1,148 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-10-05T14:49:21.423363",
-    "total_with_streams": 7,
+    "fetched_at": "2026-10-05T15:19:00.633658",
+    "total_with_streams": 14,
     "events_with_streams": [
+        {
+            "name": "Cyprus vs Latvia",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Cyprus vs Latvia.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.59/hls/CACACAAAAQQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.59/hls/CACACAAAAQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Cordoba vs Tenerife",
+            "type": "live_event",
+            "league": "Spanish Segunda Liga",
+            "time": "19:30",
+            "page_link": "http://www.fawanews.sc/Cordoba vs Tenerife.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2043992816377049088/r9FnBdQu_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/CACACAAAAQQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/CACACAAAAQQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Moss vs Kongsvinger",
+            "type": "live_event",
+            "league": "Norway OBOS-ligaen",
+            "time": "18:00",
+            "page_link": "http://www.fawanews.sc/Moss vs Kongsvinger.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1940299410140737536/mibBA6vc_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/CACACAAAAQQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/CACACAAAAQQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Sweden U21 vs North Macedonia U21",
+            "type": "live_event",
+            "league": "Euro U21 Qualification",
+            "time": "17:30",
+            "page_link": "http://www.fawanews.sc/Sweden U21 vs North Macedonia U21.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/CACACAAAAQ.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/CACACAAAAQ.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Italy U21 vs Poland U21",
+            "type": "live_event",
+            "league": "Euro U21 Qualification",
+            "time": "17:15",
+            "page_link": "http://www.fawanews.sc/Italy U21 vs Poland U21.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/CACACAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/CACACAAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Rwanda vs Kenya",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Rwanda vs Kenya.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/CACACAAA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/CACACAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Serbia U21 vs Russia U21",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Serbia U21 vs Russia U21.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/grrr.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/grrr.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Besiktas vs Trabzonspor",
+            "type": "live_event",
+            "league": "Turkey Basketball Super Lig",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Besiktas vs Trabzonspor.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1838828164295864320/wNv3wpY7_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/CACACAA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/CACACAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Bangladesh vs England",
+            "type": "live_event",
+            "league": "Cricket",
+            "time": "16:30",
+            "page_link": "http://www.fawanews.sc/Bangladesh vs England.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.50/hls/CACACA.m3u8",
+                    "m3u_url": "http://193.47.62.50/hls/CACACA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Montenegro U21 vs Armenia U21",
+            "type": "live_event",
+            "league": "Euro U21 Qualification",
+            "time": "15:30",
+            "page_link": "http://www.fawanews.sc/Montenegro U21 vs Armenia U21.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.55/hls/vvvvF.m3u8",
+                    "m3u_url": "http://193.47.62.55/hls/vvvvF.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
         {
             "name": "Indonesia vs Thailand",
             "type": "live_event",
@@ -14,20 +154,6 @@
                 {
                     "original_url": "http://193.47.62.55/hls/ekkkkAAX.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/ekkkkAAX.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "DR Congo vs Uganda",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "14:00",
-            "page_link": "http://www.fawanews.sc/DR Congo vs Uganda.html",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/vvvv.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/vvvv.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
@@ -56,34 +182,6 @@
                 {
                     "original_url": "http://193.47.62.194/hls/vavavavaq.m3u8",
                     "m3u_url": "http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Tennis ATP Beijing",
-            "type": "live_event",
-            "league": "Tennis ATP",
-            "time": "10:15",
-            "page_link": "http://www.fawanews.sc/Tennis ATP Beijing.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/NUUUQ.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/NUUUQ.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Tennis ATP Tokyo",
-            "type": "live_event",
-            "league": "Tennis ATP",
-            "time": "08:00",
-            "page_link": "http://www.fawanews.sc/Tennis ATP Tokyo.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/NUUUQQ.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/NUUUQQ.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
