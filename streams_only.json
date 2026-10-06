@@ -1,8 +1,120 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-10-06T12:19:00.114468",
-    "total_with_streams": 8,
+    "fetched_at": "2026-10-06T12:50:46.918130",
+    "total_with_streams": 15,
     "events_with_streams": [
+        {
+            "name": "Kazakhstan vs Faroe Islands",
+            "type": "live_event",
+            "league": "UEFA Nations League",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Kazakhstan vs Faroe Islands.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/VUUUAAAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/VUUUAAAAAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "India vs Uruguay",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/India vs Uruguay.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/VUUUAAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/VUUUAAAAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Moldova U21 vs Kazakhstan U21",
+            "type": "live_event",
+            "league": "Euro U21 Qualification",
+            "time": "15:00",
+            "page_link": "http://www.fawanews.sc/Moldova U21 vs Kazakhstan U21.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/VUUUAAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/VUUUAAAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Azerbaijan U21 vs Gibraltar U21",
+            "type": "live_event",
+            "league": "Euro U21 Qualification",
+            "time": "14:45",
+            "page_link": "http://www.fawanews.sc/Azerbaijan U21 vs Gibraltar U21.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/VUUUAAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/VUUUAAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "India vs West Indies",
+            "type": "live_event",
+            "league": "Cricket",
+            "time": "14:30",
+            "page_link": "http://www.fawanews.sc/India vs West Indies.html",
+            "image_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.41/hls/VUUUAAA.m3u8",
+                    "m3u_url": "http://193.47.62.41/hls/VUUUAAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Algeria U20 vs Egypt U20",
+            "type": "live_event",
+            "league": "Africa Cup of Nations U20",
+            "time": "14:30",
+            "page_link": "http://www.fawanews.sc/Algeria U20 vs Egypt U20.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/VUUUAA.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/VUUUAA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Libya U20 vs Morocco U20",
+            "type": "live_event",
+            "league": "Africa Cup of Nations U20",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Libya U20 vs Morocco U20.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/VUUUA.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/VUUUA.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
+        {
+            "name": "Tanzania U23 vs Kenya U23",
+            "type": "live_event",
+            "league": "Africa Cup of Nations U23",
+            "time": "14:00",
+            "page_link": "http://www.fawanews.sc/Tanzania U23 vs Kenya U23.html",
+            "image_url": "https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",
+            "streams": [
+                {
+                    "original_url": "http://193.47.62.44/hls/VUUU.m3u8",
+                    "m3u_url": "http://193.47.62.44/hls/VUUU.m3u8|Referer=http://www.fawanews.sc/"
+                }
+            ]
+        },
         {
             "name": "Horse Racing --- CH 1",
             "type": "live_event",
@@ -102,20 +214,6 @@
                 {
                     "original_url": "http://193.47.62.55/hls/JJJJJ.m3u8",
                     "m3u_url": "http://193.47.62.55/hls/JJJJJ.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "name": "Tennis ATP Tokyo",
-            "type": "live_event",
-            "league": "Tennis ATP",
-            "time": "--:--",
-            "page_link": "http://www.fawanews.sc/Tennis ATP Tokyo.html",
-            "image_url": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
-            "streams": [
-                {
-                    "original_url": "http://193.47.62.55/hls/NUUUQQ.m3u8",
-                    "m3u_url": "http://193.47.62.55/hls/NUUUQQ.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         }
