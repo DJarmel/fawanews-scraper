@@ -5,10 +5,12 @@ http://193.47.62.194/hls/vavavava.m3u8|Referer=http://www.fawanews.sc/
 http://193.47.62.194/hls/vavavavaq.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="China vs Tajikistan" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",China vs Tajikistan - 12:35
 http://193.47.62.41/hls/GYGYGYAA.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="South Korea vs Uzbekistan" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",South Korea vs Uzbekistan - 12:00
+#EXTINF:-1 tvg-name="South Korea vs Uzbekistan --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",South Korea vs Uzbekistan --- CH 1 - 12:00
 http://193.47.62.41/hls/GYGYGYA.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Norrkoping vs Kalmar" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",Norrkoping vs Kalmar - 12:00
-http://193.47.62.41/hls/GYGYGY.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="South Korea vs Uzbekistan --- CH 2 [1]" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",South Korea vs Uzbekistan --- CH 2 [1] - 12:00
+https://www.rtmpcdn.com/live/d03547f4-acdf-4005-b099-b05a2eb7054c.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="South Korea vs Uzbekistan --- CH 2 [2]" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="Friendly Match",South Korea vs Uzbekistan --- CH 2 [2] - 12:00
+http://www.rtmpcdn.com/live/d03547f4-acdf-4005-b099-b05a2eb7054c.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Tennis ATP Beijing" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="Tennis ATP",Tennis ATP Beijing - --:--
 http://193.47.62.55/hls/NUUUQ.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Tennis WTA Beijing" tvg-logo="https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg" group-title="Tennis WTA",Tennis WTA Beijing - --:--

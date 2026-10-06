@@ -1,6 +1,6 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-10-06T10:47:23.684426",
+    "fetched_at": "2026-10-06T11:15:00.144507",
     "total_events": 8,
     "events": [
         {
@@ -153,14 +153,14 @@
             ]
         },
         {
-            "name": "South Korea vs Uzbekistan",
+            "name": "South Korea vs Uzbekistan --- CH 1",
             "type": "live_event",
             "league": "Friendly Match",
             "time": "12:00",
             "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
             "page_link": "http://www.fawanews.sc/South Korea vs Uzbekistan.html",
             "home_team": "South Korea",
-            "away_team": "Uzbekistan",
+            "away_team": "Uzbekistan --- CH 1",
             "page_status": 200,
             "page_title": "FawaNews - South Korea vs Uzbekistan - Your Home of Sport",
             "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
@@ -204,23 +204,23 @@
             ]
         },
         {
-            "name": "Norrkoping vs Kalmar",
+            "name": "South Korea vs Uzbekistan --- CH 2",
             "type": "live_event",
             "league": "Friendly Match",
             "time": "12:00",
             "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Norrkoping vs Kalmar.html",
-            "home_team": "Norrkoping",
-            "away_team": "Kalmar",
+            "page_link": "http://www.fawanews.sc/South Korea vs Uzbekistan --- CH 2.html",
+            "home_team": "South Korea",
+            "away_team": "Uzbekistan --- CH 2",
             "page_status": 200,
-            "page_title": "FawaNews - Norrkoping vs Kalmar - Your Home of Sport",
+            "page_title": "FawaNews - South Korea vs Uzbekistan - Your Home of Sport",
             "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
             "stream_data": {
                 "iframe_sources": [],
                 "video_sources": [],
                 "embed_sources": [],
                 "m3u8_links": [
-                    "http://193.47.62.41/hls/GYGYGY.m3u8"
+                    "https://www.rtmpcdn.com/live/d03547f4-acdf-4005-b099-b05a2eb7054c.m3u8"
                 ],
                 "mpd_links": [],
                 "mp4_links": [],
@@ -237,7 +237,7 @@
                     "https://twitter.com/share?ref_src=twsrc%5Etfw",
                     "https://platform.twitter.com/widgets.js",
                     "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.41/hls/GYGYGY.m3u8",
+                    "https://www.rtmpcdn.com/live/d03547f4-acdf-4005-b099-b05a2eb7054c.m3u8",
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
@@ -245,13 +245,15 @@
                     "http://platform.twitter.com/widgets.js",
                     "http://acscdn.com/script/aclib.js",
                     "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://www.rtmpcdn.com/live/d03547f4-acdf-4005-b099-b05a2eb7054c.m3u8",
                     "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://s10.histats.com/js15_as.js"
                 ]
             },
             "best_stream_urls": [
-                "http://193.47.62.41/hls/GYGYGY.m3u8"
+                "https://www.rtmpcdn.com/live/d03547f4-acdf-4005-b099-b05a2eb7054c.m3u8",
+                "http://www.rtmpcdn.com/live/d03547f4-acdf-4005-b099-b05a2eb7054c.m3u8"
             ]
         },
         {
