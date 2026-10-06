@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-10-06T14:47:13.167457",
-    "total_events": 15,
+    "fetched_at": "2026-10-06T15:17:15.852863",
+    "total_events": 27,
     "events": [
         {
             "name": "Kazakhstan vs Faroe Islands --- CH 1",
@@ -9,7 +9,7 @@
             "league": "UEFA Nations League",
             "time": "15:00",
             "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Kazakhstan vs Faroe Islands1.html",
+            "page_link": "http://www.fawanews.sc/Kazakhstan vs Faroe Islands2.html",
             "home_team": "Kazakhstan",
             "away_team": "Faroe Islands --- CH 1",
             "page_status": 200,
@@ -102,6 +102,709 @@
                 "https://www.rtmpcdn.com/live/4f87846e-9805-4b16-b155-ca452c723b45.m3u8",
                 "http://www.rtmpcdn.com/live/4f87846e-9805-4b16-b155-ca452c723b45.m3u8"
             ]
+        },
+        {
+            "name": "Russia vs Nigeria",
+            "type": "live_event",
+            "league": "Friendly Match",
+            "time": "17:00",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Russia vs Nigeria.html",
+            "home_team": "Russia",
+            "away_team": "Nigeria",
+            "page_status": 200,
+            "page_title": "FawaNews - Russia vs Nigeria - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.41/hls/",
+                    "http://193.47.62.44/hls/",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": []
+        },
+        {
+            "name": "Norway U21 vs Israel U21",
+            "type": "live_event",
+            "league": "Euro U21 Qualification",
+            "time": "17:45",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Norway U21 vs Israel U21.html",
+            "home_team": "Norway U21",
+            "away_team": "Israel U21",
+            "page_status": 200,
+            "page_title": "FawaNews - Norway U21 vs Israel U21 - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.55/hls/FDFDFDQQQQ.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.55/hls/FDFDFDQQQQ.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.55/hls/FDFDFDQQQQ.m3u8"
+            ]
+        },
+        {
+            "name": "Netherlands U21 vs Bosnia-Herzegovina U21",
+            "type": "live_event",
+            "league": "Euro U21 Qualification",
+            "time": "17:45",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Netherlands U21 vs Bosnia-Herzegovina U21.html",
+            "home_team": "Netherlands U21",
+            "away_team": "Bosnia-Herzegovina U21",
+            "page_status": 200,
+            "page_title": "FawaNews - Netherlands U21 vs Bosnia-Herzegovina U21 - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.55/hls/FDFDFDQQQ.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.55/hls/FDFDFDQQQ.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.55/hls/FDFDFDQQQ.m3u8"
+            ]
+        },
+        {
+            "name": "Wales U21 vs Austria U21",
+            "type": "live_event",
+            "league": "Euro U21 Qualification",
+            "time": "17:30",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Wales U21 vs Austria U21.html",
+            "home_team": "Wales U21",
+            "away_team": "Austria U21",
+            "page_status": 200,
+            "page_title": "FawaNews - Wales U21 vs Austria U21 - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.55/hls/FDFDFDQQ.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.55/hls/FDFDFDQQ.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.55/hls/FDFDFDQQ.m3u8"
+            ]
+        },
+        {
+            "name": "Portugal U21 vs Czech Republic U21",
+            "type": "live_event",
+            "league": "Euro U21 Qualification",
+            "time": "17:30",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Portugal U21 vs Czech Republic U21.html",
+            "home_team": "Portugal U21",
+            "away_team": "Czech Republic U21",
+            "page_status": 200,
+            "page_title": "FawaNews - Portugal U21 vs Czech Republic U21 - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.55/hls/FDFDFDQ.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.55/hls/FDFDFDQ.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.55/hls/FDFDFDQ.m3u8"
+            ]
+        },
+        {
+            "name": "Denmark U21 vs Belgium U21",
+            "type": "live_event",
+            "league": "Euro U21 Qualification",
+            "time": "17:30",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Denmark U21 vs Belgium U21.html",
+            "home_team": "Denmark U21",
+            "away_team": "Belgium U21",
+            "page_status": 200,
+            "page_title": "FawaNews - Denmark U21 vs Belgium U21 - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.55/hls/FDFDFD.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.55/hls/FDFDFD.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.55/hls/FDFDFD.m3u8"
+            ]
+        },
+        {
+            "name": "Bulgaria U21 vs Scotland U21",
+            "type": "live_event",
+            "league": "Euro U21 Qualification",
+            "time": "17:30",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Bulgaria U21 vs Scotland U21.html",
+            "home_team": "Bulgaria U21",
+            "away_team": "Scotland U21",
+            "page_status": 200,
+            "page_title": "FawaNews - Bulgaria U21 vs Scotland U21 - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.55/hls/f333QQQQQQQ.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.55/hls/f333QQQQQQQ.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.55/hls/f333QQQQQQQ.m3u8"
+            ]
+        },
+        {
+            "name": "Northern Ireland U21 vs Greece U21",
+            "type": "live_event",
+            "league": "Euro U21 Qualification",
+            "time": "17:00",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Northern Ireland U21 vs Greece U21.html",
+            "home_team": "Northern Ireland U21",
+            "away_team": "Greece U21",
+            "page_status": 200,
+            "page_title": "FawaNews - Northern Ireland U21 vs Greece U21 - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.55/hls/f333QQQQQQ.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.55/hls/f333QQQQQQ.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.55/hls/f333QQQQQQ.m3u8"
+            ]
+        },
+        {
+            "name": "Latvia U21 vs Malta U21",
+            "type": "live_event",
+            "league": "Euro U21 Qualification",
+            "time": "17:00",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Latvia U21 vs Malta U21.html",
+            "home_team": "Latvia U21",
+            "away_team": "Malta U21",
+            "page_status": 200,
+            "page_title": "FawaNews - Latvia U21 vs Malta U21 - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.55/hls/f333QQQQQ.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.55/hls/f333QQQQQ.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.55/hls/f333QQQQQ.m3u8"
+            ]
+        },
+        {
+            "name": "Germany U21 vs Georgia U21",
+            "type": "live_event",
+            "league": "Euro U21 Qualification",
+            "time": "17:00",
+            "image_url": "https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Germany U21 vs Georgia U21.html",
+            "home_team": "Germany U21",
+            "away_team": "Georgia U21",
+            "page_status": 200,
+            "page_title": "FawaNews - Germany U21 vs Georgia U21 - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.55/hls/f333QQQQ.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.55/hls/f333QQQQ.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.55/hls/f333QQQQ.m3u8"
+            ]
+        },
+        {
+            "name": "Liberec vs Frolunda",
+            "type": "live_event",
+            "league": "Hockey Champions League",
+            "time": "17:00",
+            "image_url": "https://pbs.twimg.com/profile_images/2029839784009433088/smY7VrS4_400x400.png",
+            "page_link": "http://www.fawanews.sc/Liberec vs Frolunda.html",
+            "home_team": "Liberec",
+            "away_team": "Frolunda",
+            "page_status": 200,
+            "page_title": "FawaNews - Liberec vs Frolunda - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.55/hls/f333QQQ.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.55/hls/f333QQQ.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.55/hls/f333QQQ.m3u8"
+            ]
+        },
+        {
+            "name": "Plzen vs Skelleftea",
+            "type": "live_event",
+            "league": "Hockey Champions League",
+            "time": "16:30",
+            "image_url": "https://pbs.twimg.com/profile_images/2029839784009433088/smY7VrS4_400x400.png",
+            "page_link": "http://www.fawanews.sc/Plzen vs Skelleftea.html",
+            "home_team": "Plzen",
+            "away_team": "Skelleftea",
+            "page_status": 200,
+            "page_title": "FawaNews - Plzen vs Skelleftea - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [
+                    "http://193.47.62.55/hls/f333QQ.m3u8"
+                ],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.55/hls/f333QQ.m3u8",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": [
+                "http://193.47.62.55/hls/f333QQ.m3u8"
+            ]
+        },
+        {
+            "name": "Trollhattan vs Mjallby",
+            "type": "live_event",
+            "league": "Sweden Svenska Cupen",
+            "time": "16:00",
+            "image_url": "https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Trollhattan vs Mjallby.html",
+            "home_team": "Trollhattan",
+            "away_team": "Mjallby",
+            "page_status": 200,
+            "page_title": "FawaNews - Trollhattan vs Mjallby - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.55/hls/",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": []
+        },
+        {
+            "name": "Raufoss vs Start",
+            "type": "live_event",
+            "league": "Norway NM Cup",
+            "time": "16:00",
+            "image_url": "https://pbs.twimg.com/profile_images/1742489355363450880/qQW645XW_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Raufoss vs Start.html",
+            "home_team": "Raufoss",
+            "away_team": "Start",
+            "page_status": 200,
+            "page_title": "FawaNews - Raufoss vs Start - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.55/hls/",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": []
         },
         {
             "name": "India vs Uruguay --- CH 1",
@@ -597,106 +1300,6 @@
             },
             "best_stream_urls": [
                 "http://193.47.62.194/hls/vavavavaq.m3u8"
-            ]
-        },
-        {
-            "name": "China vs Tajikistan",
-            "type": "live_event",
-            "league": "Friendly Match",
-            "time": "12:35",
-            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/China vs Tajikistan.html",
-            "home_team": "China",
-            "away_team": "Tajikistan",
-            "page_status": 200,
-            "page_title": "FawaNews - China vs Tajikistan - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.41/hls/GYGYGYAA.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.41/hls/GYGYGYAA.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.41/hls/GYGYGYAA.m3u8"
-            ]
-        },
-        {
-            "name": "Tennis ATP Beijing",
-            "type": "live_event",
-            "league": "Tennis ATP",
-            "time": "--:--",
-            "image_url": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",
-            "page_link": "http://www.fawanews.sc/Tennis ATP Beijing.html",
-            "page_status": 200,
-            "page_title": "FawaNews - Tennis ATP Beijing - Your Home of Sport",
-            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
-            "stream_data": {
-                "iframe_sources": [],
-                "video_sources": [],
-                "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.55/hls/NUUUQ.m3u8"
-                ],
-                "mpd_links": [],
-                "mp4_links": [],
-                "js_links": [
-                    "http://www.fawanews.sc/assets/img/logo.png",
-                    "https://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
-                ],
-                "all_candidate_urls": [
-                    "https://www.google.com/",
-                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "https://platform.twitter.com/widgets.js",
-                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.55/hls/NUUUQ.m3u8",
-                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://www.google.com/",
-                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
-                    "http://platform.twitter.com/widgets.js",
-                    "http://acscdn.com/script/aclib.js",
-                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
-                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
-                    "http://s10.histats.com/js15_as.js"
-                ]
-            },
-            "best_stream_urls": [
-                "http://193.47.62.55/hls/NUUUQ.m3u8"
             ]
         },
         {
