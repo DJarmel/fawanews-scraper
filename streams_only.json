@@ -1,23 +1,23 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-10-06T15:47:11.255923",
+    "fetched_at": "2026-10-06T16:17:51.625049",
     "total_with_streams": 26,
     "events_with_streams": [
         {
-            "name": "Kazakhstan vs Faroe Islands --- CH 2",
+            "name": "Russia vs Nigeria --- CH 2",
             "type": "live_event",
-            "league": "UEFA Nations League",
-            "time": "15:00",
-            "page_link": "http://www.fawanews.sc/Kazakhstan vs Faroe Islands --- CH 2.html",
-            "image_url": "https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",
+            "league": "Friendly Match",
+            "time": "17:00",
+            "page_link": "http://www.fawanews.sc/Russia vs Nigeria --- CH 2.html",
+            "image_url": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
             "streams": [
                 {
-                    "original_url": "https://www.rtmpcdn.com/live/4f87846e-9805-4b16-b155-ca452c723b45.m3u8",
-                    "m3u_url": "https://www.rtmpcdn.com/live/4f87846e-9805-4b16-b155-ca452c723b45.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "https://www.rtmpcdn.com/live/dcbfe02c-5309-40ff-a25e-4595f7e5735b.m3u8",
+                    "m3u_url": "https://www.rtmpcdn.com/live/dcbfe02c-5309-40ff-a25e-4595f7e5735b.m3u8|Referer=http://www.fawanews.sc/"
                 },
                 {
-                    "original_url": "http://www.rtmpcdn.com/live/4f87846e-9805-4b16-b155-ca452c723b45.m3u8",
-                    "m3u_url": "http://www.rtmpcdn.com/live/4f87846e-9805-4b16-b155-ca452c723b45.m3u8|Referer=http://www.fawanews.sc/"
+                    "original_url": "http://www.rtmpcdn.com/live/dcbfe02c-5309-40ff-a25e-4595f7e5735b.m3u8",
+                    "m3u_url": "http://www.rtmpcdn.com/live/dcbfe02c-5309-40ff-a25e-4595f7e5735b.m3u8|Referer=http://www.fawanews.sc/"
                 }
             ]
         },
