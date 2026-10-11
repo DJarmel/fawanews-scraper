@@ -1,7 +1,7 @@
 {
     "source": "fawanews.sc",
-    "fetched_at": "2026-10-11T00:25:35.498750",
-    "total_events": 95,
+    "fetched_at": "2026-10-11T00:56:10.464276",
+    "total_events": 98,
     "events": [
         {
             "name": "UFC Fight Night : Allen vs Duncan --- CH 1",
@@ -172,6 +172,7 @@
                     "https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2104980612574560256/PJtHNMvO_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",
@@ -217,6 +218,7 @@
                     "https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/2104980612574560256/PJtHNMvO_400x400.jpg",
+                    "https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
                     "https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",
@@ -256,6 +258,7 @@
                     "http://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/2104980612574560256/PJtHNMvO_400x400.jpg",
+                    "http://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",
                     "http://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",
@@ -528,14 +531,14 @@
             "best_stream_urls": []
         },
         {
-            "name": "Phoenix Suns vs San Antonio Spurs",
+            "name": "Phoenix Suns vs San Antonio Spurs --- CH 1",
             "type": "live_event",
             "league": "NBA Basketball",
             "time": "03:30",
             "image_url": "https://pbs.twimg.com/profile_images/2066002547848921089/sjBHrkzT_400x400.jpg",
             "page_link": "http://www.fawanews.sc/Phoenix Suns vs San Antonio Spurs.html",
             "home_team": "Phoenix Suns",
-            "away_team": "San Antonio Spurs",
+            "away_team": "San Antonio Spurs --- CH 1",
             "page_status": 200,
             "page_title": "FawaNews - Phoenix Suns vs San Antonio Spurs - Your Home of Sport",
             "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
@@ -567,6 +570,54 @@
                     "http://platform.twitter.com/widgets.js",
                     "http://acscdn.com/script/aclib.js",
                     "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": []
+        },
+        {
+            "name": "Phoenix Suns vs San Antonio Spurs --- CH 2",
+            "type": "live_event",
+            "league": "NBA Basketball",
+            "time": "03:30",
+            "image_url": "https://pbs.twimg.com/profile_images/2066002547848921089/sjBHrkzT_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Phoenix Suns vs San Antonio Spurs --- CH 2.html",
+            "home_team": "Phoenix Suns",
+            "away_team": "San Antonio Spurs --- CH 2",
+            "page_status": 200,
+            "page_title": "FawaNews - Phoenix Suns vs San Antonio Spurs - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://www.rtmpcdn.com/live/",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://www.rtmpcdn.com/live/",
                     "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://s10.histats.com/js15_as.js"
@@ -827,9 +878,7 @@
                 "iframe_sources": [],
                 "video_sources": [],
                 "embed_sources": [],
-                "m3u8_links": [
-                    "http://193.47.62.50/hls/FZZZQQ.m3u8"
-                ],
+                "m3u8_links": [],
                 "mpd_links": [],
                 "mp4_links": [],
                 "js_links": [
@@ -845,7 +894,7 @@
                     "https://twitter.com/share?ref_src=twsrc%5Etfw",
                     "https://platform.twitter.com/widgets.js",
                     "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
-                    "http://193.47.62.50/hls/FZZZQQ.m3u8",
+                    "http://193.47.62.44/hls/",
                     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
                     "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
                     "http://www.google.com/",
@@ -858,9 +907,7 @@
                     "http://s10.histats.com/js15_as.js"
                 ]
             },
-            "best_stream_urls": [
-                "http://193.47.62.50/hls/FZZZQQ.m3u8"
-            ]
+            "best_stream_urls": []
         },
         {
             "name": "Colorado Rapids vs San Jose Earthquakes",
@@ -1004,16 +1051,111 @@
             "best_stream_urls": []
         },
         {
-            "name": "Golden State Warriors vs Sacramento Kings",
+            "name": "Golden State Warriors vs Sacramento Kings --- CH 1",
             "type": "live_event",
             "league": "NBA Basketball",
             "time": "01:30",
             "image_url": "https://pbs.twimg.com/profile_images/2066002547848921089/sjBHrkzT_400x400.jpg",
             "page_link": "http://www.fawanews.sc/Golden State Warriors vs Sacramento Kings.html",
             "home_team": "Golden State Warriors",
-            "away_team": "Sacramento Kings",
+            "away_team": "Sacramento Kings --- CH 1",
             "page_status": 200,
             "page_title": "FawaNews - Golden State Warriors vs Sacramento Kings - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://193.47.62.41/hls/",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": []
+        },
+        {
+            "name": "Golden State Warriors vs Sacramento Kings --- CH 2",
+            "type": "live_event",
+            "league": "NBA Basketball",
+            "time": "01:30",
+            "image_url": "https://pbs.twimg.com/profile_images/2066002547848921089/sjBHrkzT_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Golden State Warriors vs Sacramento Kings --- CH 2.html",
+            "home_team": "Golden State Warriors",
+            "away_team": "Sacramento Kings --- CH 2",
+            "page_status": 200,
+            "page_title": "FawaNews - Golden State Warriors vs Sacramento Kings - Your Home of Sport",
+            "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
+            "stream_data": {
+                "iframe_sources": [],
+                "video_sources": [],
+                "embed_sources": [],
+                "m3u8_links": [],
+                "mpd_links": [],
+                "mp4_links": [],
+                "js_links": [
+                    "http://www.fawanews.sc/assets/img/logo.png",
+                    "https://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ"
+                ],
+                "all_candidate_urls": [
+                    "https://www.google.com/",
+                    "https://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "https://platform.twitter.com/widgets.js",
+                    "https://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "https://www.rtmpcdn.com/live/",
+                    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "https://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://www.google.com/",
+                    "http://twitter.com/share?ref_src=twsrc%5Etfw",
+                    "http://platform.twitter.com/widgets.js",
+                    "http://acscdn.com/script/aclib.js",
+                    "http://cdn.jsdelivr.net/clappr/latest/clappr.min.js",
+                    "http://www.rtmpcdn.com/live/",
+                    "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6uGfG0tSchz33Q5l5bmptRoLbI0GOkNnOJQU-pQHX7buKJ8Q1WXSv7YHLVFMS1DQ9Y9u4g_cxFfyfyBH-53b4H2nEjTF9q8A0lZrYG_WMKFKBmZtHZ72FCjyGBbQKrzsdYE-nUn1j-ZSmoJ38D4KBt8UpSgs4TRyk5AnWQfn2ux0P_X7Qma3auST10k4-/s1600/TD.jpg",
+                    "http://www.googletagmanager.com/gtag/js?id=G-92SC29DKFJ",
+                    "http://s10.histats.com/js15_as.js"
+                ]
+            },
+            "best_stream_urls": []
+        },
+        {
+            "name": "Canterbury vs Waikato",
+            "type": "live_event",
+            "league": "Rugby NZ NPC",
+            "time": "01:30",
+            "image_url": "https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg",
+            "page_link": "http://www.fawanews.sc/Canterbury vs Waikato.html",
+            "home_team": "Canterbury",
+            "away_team": "Waikato",
+            "page_status": 200,
+            "page_title": "FawaNews - Canterbury vs Waikato - Your Home of Sport",
             "description": "Fawanews Latest sports and football news , English Premier League , Boxing , Formule 1 , Moto GP , NBA and be sure to explore more on fawanews now",
             "stream_data": {
                 "iframe_sources": [],
